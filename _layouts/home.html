@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+  
+    <!-- Navigation -->
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                        <i class="fa fa-bars fa-lg"></i>
+                    </button>
+                    <a class="navbar-brand navbar-fixed-top page-scroll" href="#page-top">
+                        <span class="light" itemprop="givenName">{{ site.author.firstname }}</span><span itemprop="familyName">{{ site.author.surname }}</span>
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse navbar-main-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li>
+                            <a class="page-scroll" href="#about">About</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#skills">Skills</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#experience">Experience</a>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="page-scroll" href="#blog-excerpt">Blog</a>
+                        </li>
+                        <li>
+                            <a href="mailto:{{ site.author.email }}">Email <i class="fa fa-envelope-o"></i></a> 
+                        </li>
+                        <li>
+                            <a href="{{ '/assets/Cameron_Doyle_CV.pdf' | prepend: site.baseurl }}" target="_blank">CV <i class="fa fa-file-pdf-o"></i></a> 
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Intro Header -->
+        <header class="intro">
+            <div class="intro-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 intro-bg">
+                            <p class="intro-text">
+                                Thanks for stopping by. My name is Cameron Doyle and I'm a {{ now | minus: dob | divided_by: 31557600}}-year-old software developer from the North-East of England, currently based in Edinburgh, Scotland. Right now, I work for <span itemprop="worksFor">CGI Group</span> as a Performance Tester.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+          <div class="post-content">
+            {{ content }}
+          </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>

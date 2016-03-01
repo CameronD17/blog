@@ -1,0 +1,26 @@
+# Site settings
+title: Cameron Doyle
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.camerondoyle.co.uk"
+homeurl: "http://camerondoyle.co.uk"
+permalink: :title/
+excerpt_separator: <!-- Read More -->
+
+author:
+    firstname: Cameron
+    surname: Doyle
+    fullname: Cameron Doyle
+    dateofbirth: 1992-02-17 00:00:00 +0000
+    email: hello@camerondoyle.co.uk
+    twitter: CameronD17
+    github: CameronD17
+    facebook: cameron.doyle
+    linkedin: camerond17
+    instagram: camerond17
+    stackoverflow: 1669993/camerond17
+    
+description: > 
+  Personal portfolio website of Cameron Doyle, a programmer 
+  and software engineer based in Edinburgh, Scotland.
+  
+markdown: kramdown

@@ -1,0 +1,124 @@
+---
+layout:     blog
+custom_js:  blog
+title:      Archive
+---
+
+{% capture tags %}
+    {% for tag in site.tags %}
+        {{ tag[0] }}
+    {% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | split:' ' | sort %}
+
+{% for post in site.posts %}
+    {% assign thiswords = post.content | number_of_words %}
+    {% assign totalwords = totalwords | plus: thiswords %}
+{% endfor %}
+
+{% assign postcount = site.posts | size %}
+
+<!-- Intro Header -->
+<header class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 intro-bg">
+                    <h1>{{ page.title }}</h1>
+                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ totalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a>, can be read below; the full sorted archive of posts is available at the bottom of this page.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="blog">
+
+    <section id="about" class="content-section ">
+        <div class="container">
+            <div class="col-lg-10 col-lg-offset-1">
+                {% for post in site.posts limit:1 %}
+                    <h2>Latest Post - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    <h4>{{ post.date | date: "%d %B %Y" }} | 
+                    {% for tag in post.tags %}
+                        <a class="archive-filter #{{ tag }} page-scroll" href="#blog-archive">{{tag}}</a>
+                        {% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                    {% endfor %} | <abbr title="{{ post.content | number_of_words }} words">{{ post.content | number_of_words | divided_by: 200 | plus: 1 }} min</abbr></h4>
+                    {{ post.excerpt }} 
+                    <p class="post-read-more">
+                        <a class="read-more" data-toggle="collapse" data-target="#post-expand" aria-expanded="false" aria-controls="post-expand"><span>Read more&nbsp;</span><i class="fa fa-toggle-down"></i></a>
+                    </p>
+                    <div class="collapse" id="post-expand">
+                        {{ post.content | remove: post.excerpt }}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <!-- Archive Section -->
+    <section id="blog-archive" class="content-section inverted text-center">
+        <div class="row archive-section">
+            <div class="col-lg-10 col-lg-offset-1">
+                <div class="col-lg-9 archive-left-side">
+                <h1>Blog Archive</h1>
+                <div class="post-divider"></div>
+                    <table id="no-blog-posts" class="table blog-posts hidden">
+                        <tbody>
+                            <tr class="blog-teaser">
+                                <td class="blog-teaser-title">No Posts Found</td>
+                            </tr>
+                            <tr>
+                                <td class="blog-teaser-excerpt">Please use the category filters on the right to select a category of posts to view, or click "Select All" to display the full archive of posts. The total number of posts in each category is listed in brackets next to the category name.</td>
+                            </tr>
+                            <tr>
+                                <td colspan="2"><div class="post-divider"></div></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="table blog-posts">
+                        {% for post in site.posts %}
+                            <tbody class="archive-excerpt">
+                                <tr class="blog-teaser">
+                                    <td class="blog-teaser-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+                                    <td rowspan="2" class="blog-teaser-post-date">
+                                        {{ post.date | date: "%d %B %Y" }}<br \>
+                                        <span class="blog-teaser-tag">
+                                        {% for tag in post.tags %}
+                                            <a class="archive-filter #{{ tag }} page-scroll" href="#blog-archive">{{tag}}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                                        {% endfor %}
+                                        </span><br \>
+                                        <span class="blog-teaser-wordcount">
+                                            <abbr title="{{ post.content | number_of_words }} words">{{ post.content | number_of_words | divided_by: 200 | plus: 1 }} min read</abbr>
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="blog-teaser-excerpt">{{ post.excerpt | strip_html }} <a href="{{ post.url | prepend: site.baseurl }}"><span class="blog-teaser-tag">Read more</span></a></td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2"><div class="post-divider"></div></td>
+                                </tr>
+                            </tbody>
+                        {% endfor %}
+                    </table>
+                </div>
+                <div class="col-lg-3 archive-right-side">
+                    <div id="category-list">
+                        <h2>Categories</h2>
+                        <ul class="list-inline">
+                            <li><a class="archive-toggle selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
+                            <li><a class="archive-toggle clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
+                        </ul>
+                        <div class="post-divider"></div>
+                        <ul class="list-unstyled">
+                        {% for tag in sortedtags %}
+                            <li><a class="archive-category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }} ({{ site.tags[tag] | size}})</a></li>
+                        {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>

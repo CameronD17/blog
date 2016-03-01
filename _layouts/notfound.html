@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">    
+    {% include head.html %}    
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    
+        <!-- Navigation -->
+        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                        <i class="fa fa-bars fa-lg"></i>
+                    </button>                    
+                    <a class="navbar-brand navbar-fixed-top page-scroll" href="#page-top">
+                        <span class="light">404 - Page Not Found</span>
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse navbar-main-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li>
+                            <a class="page-scroll" href="{{ site.homeurl }}"><i class="fa fa-home fa-fw"></i> camerondoyle.co.uk</a>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a class="page-scroll" href="{{ site.baseurl }}">Post Archive <i class="fa fa-rss fa-fw"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        
+        <!-- Intro Header -->
+        <header class="intro">
+            <div class="intro-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 intro-bg">
+                            <p class="intro-text">Uh oh! Looks like that page doesn't exist! That's probably your fault, fat-fingers, but if you think it's on me, please <a href="https://github.com/CameronD17/camerond17.github.io/issues">let me know on GitHub</a>.</p>
+                            <p class="intro-text">If you'd like to try again, you can either go back to my <a href="{{ site.homeurl }}">homepage</a> or you can visit the <a href="{{ site.baseurl }}">blog archive</a> and see if you can find what you were looking for there.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+        {% include footer.html %}
+    </body>
+</html>

@@ -1,0 +1,51 @@
+---
+layout: blog
+---
+<!-- Intro Header -->
+<header class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2 intro-bg">
+                    <h1>
+                        {{ page.title }}
+                    </h1>
+                    <h4 class="intro-text">{{ page.date | date: "%d %B %Y" }} |
+                        {% for tag in page.tags %}
+                            <a href="{{ site.baseurl }}/#{{tag}}">{{tag}}</a>{% unless page.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                        {% endfor %} | <abbr title="{{ page.content | number_of_words }} words">{{ page.content | number_of_words | divided_by: 200 | plus: 1 }} mins</abbr>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="content-section">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+            {{ content }}
+        </div>
+    </div>
+</section>
+
+<section class="content-section inverted text-center">
+    <div class="container">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="col-lg-6">
+            {% if page.previous.url %}
+                <h4>Previous Post</h4>
+                <h3><a class="prev" href="{{ page.previous.url }}"><i class="fa fa-arrow-circle-o-left fa-fw"></i> {{ page.previous.title }}</a></h3>
+            {% endif %}
+            </div>
+            <div class="col-lg-6">
+            {% if page.next.url %}
+                <h4>Next Post</h4>
+                <h3><a class="next" href="{{ page.next.url }}">{{ page.next.title }} <i class="fa fa-arrow-circle-o-right fa-fw"></i></a></h3>
+            {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
+
+
