@@ -7,14 +7,14 @@
     
     <title>{% if page.title %}{{ site.title }} - {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     
-    <link rel="shortcut icon" href="{{ 'assets/img/favicon.ico' | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}"/>
     
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="{{ 'assets/css/main.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
 </head>
 
 {% capture dob %}{{ site.author.dateofbirth | date: "%s" }}{% endcapture %}
