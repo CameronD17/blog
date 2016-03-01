@@ -9,6 +9,8 @@
     
     <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="refresh" content="0;url={{ site.url }}" />
     
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" type="text/css">
@@ -16,6 +18,3 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
 </head>
-
-{% capture dob %}{{ site.author.dateofbirth | date: "%s" }}{% endcapture %}
-{% capture now %}{{'now' | date: "%s"}}{% endcapture %}
