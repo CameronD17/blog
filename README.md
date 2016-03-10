@@ -1,21 +1,21 @@
-# [CameronDoyle.co.uk] (http://camerondoyle.co.uk)
+# [blog.camerondoyle.co.uk] (http://blog.camerondoyle.co.uk)
 
-camerondoyle.co.uk is a single-page portfolio website for, unsurpisingly, **Cameron Doyle** (that's me). It also houses my personal blog, which is updated as and when I remember.
+blogcamerondoyle.co.uk is my personal blog, updated sporadically whenever I remember. It is linked closely to my [main site](http://camerondoyle.co.uk).
 
-The site is generated using [Jekyll](http://jekyllrb.com), and the design is based on the [Start Bootstrap](http://startbootstrap.com/) [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) template, which is itself based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+The site is generated using [Jekyll](http://jekyllrb.com), and the design is based on my main site, developed from the [Start Bootstrap](http://startbootstrap.com/) [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) template.
 
 ## Bugs / Issues
 
-Found an issue with this site? [Open a new issue here](https://github.com/CameronD17/camerond17.github.io/issues)
+Found an issue with this site? [Open a new issue here](https://github.com/CameronD17/blog/issues)
 
 ## Creator
 
-camerondoyle.co.uk was created by and is maintained by **Cameron Doyle**
+blog.camerondoyle.co.uk was created by and is maintained by **Cameron Doyle**
 
 * https://twitter.com/CameronD17
 
 ## Copyright and License
 
-Copyright 2015 Cameron Doyle. Code released under the [Apache 2.0](https://github.com/CameronD17/camerond17.github.io/blob/master/LICENSE) license.
+Copyright 2016 Cameron Doyle. Code released under the [Apache 2.0](https://github.com/CameronD17/blog/blob/master/LICENSE) license.
 
 Grayscale Template - Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.

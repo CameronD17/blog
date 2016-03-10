@@ -1,8 +1,7 @@
 <head>
     <script>
         if ((window.location.hostname == "camerondoyle.co.uk" || window.location.hostname == "www.camerondoyle.co.uk") && window.location.pathname.indexOf("/blog") == 0) {
-            var pathname = window.location.pathname.split('/');
-            var newPathname = "";
+            var pathname = window.location.pathname.split('/'); var newPathname = "";
             for (i = 2; i < pathname.length; i++) {newPathname += "/"; newPathname += pathname[i];}            
             window.location.replace("http://blog.camerondoyle.co.uk"+newPathname);
         }
