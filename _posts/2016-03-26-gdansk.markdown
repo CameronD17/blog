@@ -9,9 +9,9 @@ After a whole eight months without leaving the country (seriously, this must be 
 
 <!-- Read More -->
 
-I first visited Poland back in 2013, and Gdańsk was on my radar way back then, and although at the time I could only organise southern Poland, I knew it was somewhere that I would want to visit in the future. So, when a flight for just £19 from Edinburgh showed up, I could hardly say no. Admittedly, the flight was with Ryanair, but I have to say that as a company they're getting a lot more customer-friendly. The carry-on baggage is quite generous for a low-cost airline, and they now do [mobile boarding passes][ryanair-mobile-boarding-passes-link] which is a big step up from having to print out an A4 sheet of adverts and a little barcode on. Their website is also no longer an awful garish monstrosity, although I can't quite say the same for the inside of their planes.
+I first visited Poland back in 2013, and Gdańsk was on my radar way back then, and although at the time we only visited southern Poland, I knew it was somewhere that I would want to visit in the future. So, when a flight for just £19 from Edinburgh showed up, I could hardly say no. Admittedly, the flight was with Ryanair, but I have to say that as a company they're getting a lot more customer-friendly. The carry-on baggage is quite generous for a low-cost airline, and they now do [mobile boarding passes][ryanair-mobile-boarding-passes-link] which is a big step up from having to print out an A4 sheet of adverts and a little barcode on. Their website is also no longer an awful garish monstrosity, although I can't quite say the same for the inside of their planes.
 
-Anyway, we touched down in Gdańsk on a late Tuesday night and took the bus ([the 210 towards Gościnna][gdansk-210-bus-schedule] takes you straight to the main train station, Dworzec Główny) to the city centre. Our hotel, [Hotel Wolne Miasto][hotel-wolne-miasto-website], was a short walk from the main train station. The hotel itself was very nice, although our room shared a room with what may well be the loudest nightclub in Poland, so bear that in mind if you're choosing to stay there.
+Anyway, we touched down in Gdańsk on a late Tuesday night and took the bus ([the 210 towards Gościnna][gdansk-210-bus-schedule] takes you straight to the main train station, Dworzec Główny) to the city centre. Our hotel, [Hotel Wolne Miasto][hotel-wolne-miasto-website], was a short walk from the main train station. The hotel itself was very nice, although our room shared a wall with what may well be the loudest nightclub in Poland, so bear that in mind if you're choosing to stay there.
 
 One thing I didn't realise before booking is that the city centre walking tours only run on the weekends during the low season, and we were visiting Tuesday to Friday. Ordinarily, I like to take a walking tour as soon as possible whenever I visit a new location, as I find it's the easiest way to get oriented and decide which parts of the city I want to explore in more depth. No matter, we would just need to do this the hard way. We spent the whole of our first full day in Gdańsk wandering around the incredibly beautiful Old Town on our own.
 
@@ -32,7 +32,7 @@ One thing I didn't realise before booking is that the city centre walking tours 
     <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </center>
 
-After spending a long time wandering around, drinking in the architecture, we walked back to Dworzec Główny to take the bus out to Westerplatte to see the monuments to the Polish defenders of the German invasion marking the start of the Second World War. What I didn't realise, however, was that the bus to Westerplatte only comes once every 90 minutes or so; and we missed it by ten minutes. Undeterred, we changed plans and took the train to the seaside town of Sopot, slightly north of Gdańsk. Again, we had no real plans as to what to do when we go there, so we took off towards the sea. 
+After spending a long time wandering around, drinking in the architecture, we walked back to Dworzec Główny to take the bus out to Westerplatte to see the monuments to the German invasion of Poland, marking the start of the Second World War. What I didn't realise, however, was that the bus to Westerplatte only comes once every 90 minutes or so; and we missed it by ten minutes. Undeterred, we changed plans and took the train to the seaside town of Sopot, slightly north of Gdańsk. Again, we had no real plans as to what to do when we got there, so we took off towards the sea. 
 
 Sopot, as it turns out, has the longest wooden pier in Europe, which stretches out 515 metres into the Bay of Gdańsk. Unusually for March, the weather was quite spectaular, so we walked along the pier to the long wooden benches at the eastern end, and watched the sun go down over the marina. 
 
@@ -53,7 +53,7 @@ Sopot, as it turns out, has the longest wooden pier in Europe, which stretches o
     <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </center>
 
-After our long walk around Sopot, we caught the train back to Gdańsk and went back to our hotel to recharge. After a quick nap and shower, we went out to see the nightlife of Gdańsk (by which I mean we went to the Hard Rock Café). After gorging ourselves as usual at the Hard Rock, we went searching for a bar which was playing the Champions League game between Arsenal and Barcelona. This proved difficult, as most places showing football had the Bayern Munich vs Juventus game instead, however we did eventually find somewhere showing both games. Not that it was worth the effort - Arsenal lost 3-1.
+After our long walk around Sopot, we caught the train back to Gdańsk and went back to our hotel to recharge. After a quick nap and shower, we went out to see the nightlife of Gdańsk (which means we went to the Hard Rock Café). After gorging ourselves as usual at the Hard Rock, we went searching for a bar which was playing the Champions League game between Arsenal and Barcelona. This proved difficult, as most places showing football had the Bayern Munich vs Juventus game instead, however we did eventually find somewhere showing both games. Not that it was worth the effort - Arsenal lost 3-1.
 
 On our second and final full day in Gdańsk, we took the train south-east to the town of Malbork to visit [Malbork Castle][unesco-malbork-castle], the largest (by surface area) castle in the world. We arrived about two and a half hours before closing time, assuming that this would be enough to see the castle. This was not the case, and we ended up skipping a few sections towards the end of our tour in order to return the headsets prior to closing (if you ever visit Malbork Castle, do take the option of the guided headset. We found it invaluable in helping us navigate around - the place really is huge.)
 
@@ -78,7 +78,7 @@ All-in-all, I thoroughly enjoyed my time in Gdańsk. I do wish I'd gotten out to
     <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 </center>
 
-> This post is part 1 of 2 of a trip I took in March 2016. [The next section can be found here.](brussels)
+> This post is part 1 of 2 of a trip I took in March 2016. [The next section can be found here.]({% post_url 2016-03-27-brussels %})
 
 [ryanair-mobile-boarding-passes-link]: https://www.ryanair.com/us/en/useful-info/help-centre/faq-overview/Mobile-boarding-passes
 [gdansk-210-bus-schedule]: http://www.ztm.gda.pl/rozklady/linia-210.html
