@@ -62,6 +62,23 @@ title:      Archive
             <div class="col-lg-10 col-lg-offset-1">
                 <div class="col-lg-9 archive-left-side">
                 <h1>Blog Archive</h1>
+                <div class="archive-mobile">
+                    <ul class="list-inline">
+                        <li><a class="archive-toggle selectall"><i class="fa fa-plus-square fa-fw"></i> Show All Posts</a></li>
+                        <li><a class="archive-toggle clearall"><i class="fa fa-minus-square fa-fw"></i> Hide All Posts</a></li>
+                    </ul>
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="tag-dropdown-caption">Select Category</span> 
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-tags">
+                            {% for tag in sortedtags %}
+                                <li><a class="archive-mobile-category selected" id="{{ tag }}">{{ tag }} ({{ site.tags[tag] | size}})</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
                 <div class="post-divider"></div>
                     <table id="no-blog-posts" class="table blog-posts hidden">
                         <tbody>

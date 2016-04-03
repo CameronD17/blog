@@ -434,6 +434,11 @@ tbody {
     width: 100%;
 }
 
+.archive-mobile {
+    text-align: center;
+    min-height: 100%;
+}
+
 .archive-right-side {
     display: none;
 }
@@ -592,6 +597,10 @@ tbody {
         text-align: left;
         min-height: 100%;
         width: 25%;
+    }
+    
+    .archive-mobile {
+        display: none;
     }
 }
 

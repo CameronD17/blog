@@ -35,6 +35,10 @@ $(window).scroll(function() {
     }
 });
 
+$('.dropdown-menu li a').click(function () {
+    $(".tag-dropdown-caption").text($(this).text());
+});
+
 // Toggle blog categories on/off (C) Cameron Doyle
 $('.archive-category').click(function() {    
     toggleCategory($(this));
@@ -42,6 +46,10 @@ $('.archive-category').click(function() {
 
 $('.archive-toggle').click(function() {
     toggleAllCategories($(this));
+});
+
+$('.archive-mobile-category').click(function() {
+    selectSingleCategory($(this));
 });
 
 function archiveFilterFromHash() {
@@ -67,6 +75,50 @@ function applyToggles() {
     
     // Loop through the blog posts, and un-hide any blog posts that match any selected categories
     $('.archive-category').each(function() {
+        var category = $(this).attr('id');
+        if ($(this).hasClass('selected')) {
+            $('.archive-excerpt').each(function() {
+                if ($(this).find('tr>td>span>a').hasClass('#'+category)) {
+                    if ($(this).hasClass('hidden')) {
+                        $(this).removeClass('hidden');
+                        none = false;
+                    }
+                }
+            });
+        }
+    });
+    
+    // If no blog posts match the selected categories, show the "No Posts Found" default post
+    if (none) {
+        $("#category-list").removeClass("category-list-bottom");
+        $("#category-list").removeClass("category-list-fixed");
+        if($("#no-blog-posts").hasClass("hidden")) {
+            $("#no-blog-posts").removeClass("hidden");
+        }
+    } else if(!$("#no-blog-posts").hasClass("hidden")) {
+        $("#no-blog-posts").addClass("hidden");  
+    }
+}
+
+function selectSingleCategory(categoryFilter) {
+    $('.archive-mobile-category').each(function() {
+        if ($(this).hasClass('selected')) {
+            $(this).removeClass('selected');
+        }
+    });
+    
+    categoryFilter.addClass('selected');    
+        // Hide all blog posts in the archive
+    $('.archive-excerpt').each(function() {
+        if (!$(this).hasClass('hidden')) {
+            $(this).addClass('hidden');
+        }
+    });
+    
+    var none = true;
+    
+    // Loop through the blog posts, and un-hide any blog posts that match any selected categories
+    $('.archive-mobile-category').each(function() {
         var category = $(this).attr('id');
         if ($(this).hasClass('selected')) {
             $('.archive-excerpt').each(function() {
@@ -160,5 +212,6 @@ function toggleAllCategories(toggleAll) {
         if($("#no-blog-posts").hasClass("hidden")) {
             $("#no-blog-posts").removeClass("hidden");
         }
-    }
+    }    
+    $(".tag-dropdown-caption").text("Select Category");
 }
