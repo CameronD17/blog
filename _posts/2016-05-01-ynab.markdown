@@ -1,0 +1,54 @@
+---
+layout:     post
+title:      "YNAB"
+date:       2016-04-12 12:00:00 +0000
+tags:       productivity finance review
+---
+
+If you met me in person sometime in the last year or so, engaged in conversation with me about personal finance, or even just made an off-hand comment about budgeting or not having enough money, chances are I'll have mentioned (okay, let's be honest, forced down your throat) the benefits of the budgeting software [YNAB][ynab-home-link] - You Need A Budget.
+
+<!-- Read More -->
+
+> *NOTE: This article was written on May 1st, four months after YNAB released a subscription-based model. I still use YNAB4 (also called YNAB Classic), which I'm writing about here, and I will continue to do so until subscription-YNAB reaches at least feature parity with YNAB4.*
+
+The software name can be a little controversial; when I first read it, the tone to me sounded like there should be an 'idiot' suffix. *"Yo, dumbass, you need a budget"*. Despite this, and their dollar-centric descriptions, I quickly became an avid subscriber to the YNAB philosophy of the [Four Rules][ynab-classic-four-rules], following them religiously via the software sold then as YNAB4.
+
+Since I started using YNAB in January 2015, by word-of-mouth recommendations I have convinced at least six people to purchase and use the software. Realistically, you don't need the software to budget successfully with the method. The rules and methodology are the key to achieving your goals, and they give those away for free. The software complements the rules, and for the amount of effort it would take to recreate by hand, you may as well just make the purchase.
+
+# Pre-YNAB
+
+I started seriously looking for personal finance help towards the end of 2014. I was still living in my student overdraft, renting an expensive two-bed flat in Edinburgh alone, living payday-to-payday and not making much of a dent in my debt. Something had to give; had the situation arose, I doubt I'd have been able to scrape together £200 to cover an emergency without asking family for help. That's when I found YNAB.
+
+# Using YNAB - The Rules
+
+The key to YNAB is to let the software dictate how you use it. Many people fail with this because they try to apply their own budget methods to the software, which it's simply not designed for. Let the rules guide your budget, and it works like a charm.
+
+The over-arching theme of YNAB is to have a stronger link with your money. It encourages you to manually enter each and every transaction you make; doing so makes spending a conscious decision, and keeps you attuned to your budgeting decisions.
+
+## Rule One: Give Every Dollar (£) a Job
+
+Sounds simple enough. Make sure every penny of your bank account has a 'job', be it rent, groceries, heroin, electricity, whatever you need. The key is to *only* allocate the money you have right now. Don't forecast your income. If you only have £100 available right now for rent, pretending you have more isn't going to change that. You can allocate more when you get paid.
+
+## Rule Two: Save for a Rainy Day
+
+Rule two teaches you to look ahead. Before YNAB, every year without fail around April time I'd have to scramble some cash together to pay my annual car insurance bill. I knew it was coming, I just never had the tools or discipline to plan ahead for it. This year, my first full year with YNAB, I'd already saved more than enough to pay the bill. I didn't even notice it. The power of rule two prevails!
+
+## Rule Three: Roll With the Punches
+
+Okay, sure, with my car insurance I could predict fairly accurately how much I needed to save each month. I knew it was coming in April, that was a given. But what about other, irregular expenses like car maintenance. What if I had a £361.49 repair bill in November, and only had £200 set aside for repairs? (I'm using this very specific example because this actually happened.) No issues! I can move some of the 'car insurance' fund across to cover it, and top it back up extra in the next few months.
+
+## Rule Four: Live on Last Month's Income
+
+YNAB have scrapped this rule now in the new version, but in YNAB4 it makes sense. Essentially, if you manage to squirrel away enough money that you can budget your *entire* next month in one go, it makes life a whole lot easier to plan. They call this the 'buffer', and it's not a necessity, but it definitely makes life a lot easier. Prioritise this after your emergency fund, and you'll be set.
+
+# Outcome
+
+So, I've been using YNAB for 16 months now. Has it worked? Yes, it has. I've taken a screenshot of my "net worth" report from YNAB as of right now (amounts omitted, but the trend is evident. Blue are assets, red are debts). I know for an absolute fact I would not be in this position without the discipline that YNAB requires.
+
+![Net worth Jan-15 to Apr-16]({{site.baseurl}}/assets/img/ynab-net-worth.jpg)
+*Net worth from January 2015 to April 2016*
+
+*Note: I am not affiliated with YNAB in anyway, but I will continue to recommend YNAB4 for the impact it has had on my financial well-being.*
+
+[ynab-home-link]: http://www.youneedabudget.com
+[ynab-classic-four-rules]: http://classic.youneedabudget.com/method/rule-one

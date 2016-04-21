@@ -1,8 +1,10 @@
         <!-- Footer -->
-        <footer class="container">       
-            <div class="left-footer">    
-                <a href="mailto:{{ site.author.email }}" class="email-address"><i class="fa fa-envelope-o fa-fw"></i> {{ site.author.email }}</a>
+        <footer class="container">
+            <div class="left-footer">
                 <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="mailto:{{ site.author.email }}" target="_blank" class="btn social-icon" title="E-mail"><i class="fa fa-envelope-o fa-fw"></i></a>
+                    </li>
                     <li>
                         <a href="https://facebook.com/{{ site.author.facebook }}" target="_blank" class="btn social-icon" title="Facebook"><i class="fa fa-facebook-official fa-fw"></i></a>
                     </li>
@@ -25,9 +27,8 @@
             </div>
             <div class="right-footer">
                 <p>Last updated <abbr title="Most recent site rebuild: {{ site.time }}">{{ site.time | date:'%B %Y' }}</abbr> <i class="fa fa-calendar fa-fw"></i></p>
-                <p>Full code available on <a href="https://github.com/CameronD17/camerond17.github.io" target="_blank" title="GitHub repo">GitHub </a><i class="fa fa-github fa-fw"></i></p>
-                <p>Photography by <a href="http://samstevensphotography.weebly.com/" target="_blank" title="Sam Stevens' website (photographer)">Sam Stevens </a><i class="fa fa-camera-retro fa-fw"></i></p>
-            </div>
+                <p>Full code available on <a href="https://github.com/CameronD17/blog" target="_blank" title="GitHub repo">GitHub </a><i class="fa fa-github fa-fw"></i></p>
+                </div>
         </footer>
 
         <!--Scripts-->

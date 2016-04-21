@@ -17,14 +17,14 @@ When I turned thirteen, I got myself (okay, I was talked into getting myself) a 
 
 By this time, she was used to me taking her out on long walks, to the beach in Seaton Sluice, or to see family in Bedlington. It was around this time that our family bought a caravan for weekend trips up the coast near the northern tip of Northumberland. Despite not being the best traveller, our Holly probably loved this more than anyone else. We'd spend hours exploring the sprawling empty beaches around Holy Island and Lindisfarne across the railway tracks from the caravan park.
 
-![At the beach near Goswick]({{site.baseurl}}/images/holly-goswick-beach.jpg)
+![At the beach near Goswick]({{site.baseurl}}/assets/img/holly-goswick-beach.jpg)
 *At the beach near Goswick, August 2008*
 
 After we moved the caravan to a new park 30 miles south along the A1 a few years later, we had to find new places to explore. At one point we tried to walk to Alnwick, which I thought was closer than the 10 mile walk it actually was. We got lost in some fields, Holly trying to get us killed by barking at a herd of rampaging cows. We escaped from that one thanks to a conveniently-placed stile, not that Holly was any help, hiding behind my legs as the cows approached. After that, we tended to stick closer to the park to avoid any more close encounters with charging farm animals.
 
 It wasn't too long after this that I moved out of the house we grew up in for the first time, aged 19. Not that Holly would mind; I only lived a couple of miles away, so I was home often enough, and I brought her to the new flat so she could run around on the field outside and chase the geese who lived there. We still went out for long walks, albeit less often as I was working 20+ hours a week alongside my studies. Now that I can't see her anymore, I wish we'd had more time together, but at the time my priorities were different. She'd always been there, and she'd always be there in the future, right?
 
-![Walking near the River Blyth]({{site.baseurl}}/images/holly-river.jpg)
+![Walking near the River Blyth]({{site.baseurl}}/assets/img/holly-river.jpg)
 *Walking near the River Blyth, July 2014*
 
 It got harder after I moved to Edinburgh after university. Our time together changed from every couple of days to every couple of weeks. I don't regret moving up here, but I do wish that it didn't come at the expense of losing touch with Holly. She was always still excited to see me, and we still went for our walks down by the river, but they weren't the regular occurence that they used to be.
@@ -35,4 +35,4 @@ If I could, I'd have kept her around forever. Not the old girl that she became; 
 
 I'm going to miss you Holly. Thanks for being such a good friend.
 
-![Selfie near the river]({{site.baseurl}}/images/holly-selfie.jpg)
+![Selfie near the river]({{site.baseurl}}/assets/img/holly-selfie.jpg)
