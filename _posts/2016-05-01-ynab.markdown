@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "YNAB"
-date:       2016-04-12 12:00:00 +0000
+date:       2016-05-01 12:00:00 +0000
 tags:       productivity finance review
 ---
 
