@@ -118,6 +118,13 @@ tbody {
     background-color: transparent;
 }
 
+
+.navbar-custom.top-nav-collapse {
+    padding: 0;
+    background: #FFFFFF;
+    border-bottom: 2px solid #BABABA;
+}
+
 @media(min-width:768px){
     .navbar-left {
         margin-top: 0px
@@ -138,13 +145,15 @@ tbody {
     .navbar-left {
         margin-top: 0px
     }
-
-    .navbar-custom.top-nav-collapse {
-        padding: 0;
-        background: #FFFFFF;
-        border-bottom: 2px solid #BABABA;
-    }
 }
+
+/* Colour sidebar */
+
+.colour-sidebar {
+    position: absolute;
+    float: left;
+}
+
 
 /* Intro Section */
 
