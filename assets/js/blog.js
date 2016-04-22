@@ -54,10 +54,10 @@ $('.archive-mobile-category').click(function() {
 
 function archiveFilterFromHash() {
     if(window.location.hash) {
-        deselectAndToggleCategory(window.location.hash);
         $('html, body').animate({
             scrollTop: $('#blog-archive').offset().top
-        }, 1500);
+        }, 'slow');
+        deselectAndToggleCategory(window.location.hash);
     }
 } window.onload = archiveFilterFromHash();
 
