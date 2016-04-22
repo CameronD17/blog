@@ -53,8 +53,11 @@ $('.archive-mobile-category').click(function() {
 });
 
 function archiveFilterFromHash() {
-    if(window.location.hash) {        
+    if(window.location.hash) {
         deselectAndToggleCategory(window.location.hash);
+        $('html, body').animate({
+            scrollTop: $('#blog-archive').offset().top
+        }, 1500);
     }
 } window.onload = archiveFilterFromHash();
 
