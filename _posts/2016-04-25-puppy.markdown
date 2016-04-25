@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "Puppy"
+date:       2016-04-25 13:00:00 +0000
+tags:       charlie
+---
+
+On Sunday, a new lodger moved into the flat in Edinburgh, rent-free. His name is Charlie, and he's an eight-week-old Border Collie. I feel sorry for all of my social media contacts, as they've been inundated with pictures of his face since he arrived. This is unlikely to stop anytime soon.
+
+<!-- Read More -->
+
+# Decisions
+
+Early last month, I took the train back to Newcastle to say [goodbye to my childhood dog, Holly]({% post_url 2016-04-11-holly %}). It is without doubt one of the hardest things I have ever had to do, and probably the most upsetting event of my life so far, after the death of my father. It was a long time coming; I could tell she was deteriorating over a year ago, when I first seriously entertained the idea of getting a dog of my own, but I made the decision not to adopt a dog until after Holly had passed. I did not want her to feel that she was being replaced; she'll always be my best friend.
+
+Two weeks between losing Holly and adopting Charlie seems like an inordinately short space of time. I certainly wasn't planning on such a brief time to grieve, but as chance would have it, one of my closest friends and her dog, Barney, had plans to visit us in Edinburgh the weekend after Holly's passing. Spending time with Barney though, made me realise that Holly would not have wanted me to grieve. She and I were happiest out on a long walk in the sun, and she would have wanted me to continue that tradition. After they left, I had a look online for local puppies for sale, not genuinely expecting to find anything quite so soon.
+
+<center>
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom:20px;  max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+        <div style="padding:8px;"> 
+            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> 
+                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
+                </div>
+            </div> 
+            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
+                <a href="https://www.instagram.com/p/WzqPWlTSJY/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">@melissaescott #dog #beach #holly #barney #cute</a>
+            </p> 
+            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Sasha Brett (@sashabrett) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2013-03-13T18:08:03+00:00">Mar 13, 2013 at 11:08am PDT</time></p>
+        </div>
+    </blockquote>
+    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</center>
+*Holly and Barney at the beach, March 2013*
+
+# Visits
+
+Almost immediately after starting to look, we found a listing for Border Collie puppies. I fired off an email asking if any were still available; as it happened, they had two males left waiting for new homes. They lived less than 20 miles away, so I figured it couldn't hurt to go and look. After all, it would be better to be experienced at this sort of thing when the time came to adopt, right?
+
+Apparently, no, that's not how it works. As soon as I walked through the door and saw the five puppies playfighting on the floor, I knew I wasn't going home without one (so much for just window-shopping). But which one! I isolated the two unclaimed male puppies, and damn, it was a tough decision. But Charlie won my heart (even though he wasn't going to be called Charlie at this stage), and I claimed him there and then. However, he was only six weeks old at this point, and not quite ready to fly the nest just yet. So the waiting began!
+
+![Two remaining puppies, Charlie on the left]({{site.baseurl}}/assets/img/puppy-charlie-decision.jpg)
+*The two remaining male puppies. How do you choose?! (Charlie is on the left)*
+
+It was a long two weeks to wait for him. He had to have his initial injection and his microchip two days before we collected him, which gave us a whole fortnight to prepare. A very expensive fortnight as it turned out; I just couldn't resist buying everything for him. God knows what I'll be like if I ever have a child. But we got all sorted, and waited patiently for him to be ready.
+
+# Arrival
+
+We picked Charlie up at midday on Sunday, April 24th, 2016. He's still too young to go out for a walk as he hasn't yet had his final injections (due on May 20th), but as part of our preparation in the preceding two weeks, we'd puppy-proofed the garden with chicken wire, so he had a place to explore outdoors. 
+
+![Charlie in the garden on arrival day]({{site.baseurl}}/assets/img/puppy-charlie-outside-ball.jpg)
+*Charlie in the garden on arrival day*
+
+He actually spent the best part of four hours outside in the sun on his first day, exploring and playing with his new toys. He settled in remarkably quickly, no signs of stress or anxiety, and he already follows us around wherever we go. From the first time inside, he was content to sleep anywhere that we were, so we brought his crate into the living room to get him used to it, and lay his big blanket on the laminate flooring to nap on.
+
+![Tired Charlie after a long first day]({{site.baseurl}}/assets/img/puppy-charlie-sleeping.jpg)
+*Tired Charlie after a long first day*
+
+Having Charlie move in represents a turning point for me. Within the last two years, I've graduated from university, started my first professional job, bought my first flat; but Charlie feels like the first time I've had to be an 'adult', with all the responsibilities that come with taking care of another life. 
+
+No doubt we'll have lots of adventures together, and I'm sure he'll be a worthy successor to Holly for the title of best friend (hell, I've already given him his own category on the blog). We have a lot of socialising to do over the next few weeks which I'm sure I'll manage to document here given how many people have already said they want to meet him. Until then, I'm going to go keep him from chewing everything he can get his mouth around. Which seems to be just about everything.
