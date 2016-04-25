@@ -84,7 +84,7 @@ title:      Archive
                                         {{ post.date | date: "%d %B %Y" }}<br \>
                                         <span class="blog-teaser-tag">
                                         {% for tag in post.tags %}
-                                            <a class="archive-filter #{{ tag }} page-scroll" href="#blog-archive">{{tag}}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                                            <a class="archive-filter #{{ tag }} page-scroll" href="#blog-archive">{{ tag }}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                         {% endfor %}
                                         </span><br \>
                                         <span class="blog-teaser-wordcount">
@@ -112,7 +112,7 @@ title:      Archive
                         <div class="post-divider"></div>
                         <ul class="list-unstyled">
                         {% for tag in sortedtags %}
-                            <li><a class="archive-category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }} ({{ site.tags[tag] | size}})</a></li>
+                            <li><a class="archive-category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }} ({{ site.tags[tag] | size }})</a></li>
                         {% endfor %}
                         </ul>
                     </div>
