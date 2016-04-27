@@ -25,7 +25,7 @@ title:      Archive
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 intro-bg">
                     <h1>{{ page.title }}</h1>
-                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ totalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a>, can be read below. A full, date-sorted archive of posts is available at the bottom of this page.</p>
+                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ totalwords | divided_by: 1000 | append:',' }}{{ totalwords | modulo: 1000 }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a>, can be read below. A full, date-sorted archive of posts is available at the bottom of this page.</p>
                 </div>
             </div>
         </div>
