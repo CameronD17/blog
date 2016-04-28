@@ -23,7 +23,7 @@ So, the major changes are as follows:
 
 Overall, I'm very pleased with the cleaner style. No doubt there'll be errors here and there (if you find any, [please tell me][github-bug-report]), and I'll tweak the design over the coming months, but on the whole I do enjoy the new design. As I did in my [very first post]({% post_url 2015-11-30-test-post-please-ignore %}), here's a screenshot for future reference of what the new design looks like.
 
-![New design, April 2016]({{site.baseurl}}/assets/img/apr-16-redesign.jpg)
+![New design, April 2016]({{site.baseurl}}assets/img/apr-16-redesign.jpg)
 
 As I'm never really satisfied, this will probably be the first of many overhauls to the blog design. I consider this one of the perks of writing my own code; for now though, I really like how it looks. I might even spread the design across to my main page...
 

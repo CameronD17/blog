@@ -1,30 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">    
-    {% include head.html %}    
+    {% include head.html %}
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
     
-        <!-- Navigation -->
-        <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                        <i class="fa fa-bars fa-lg"></i>
-                    </button>
-                </div>
-                <div class="navbar-collapse collapse navbar-main-collapse">
-                    <ul class="nav navbar-nav navbar-left">
-                        <li>
-                            <a class="page-scroll" href="{{ site.homeurl }}"><i class="fa fa-home fa-fw"></i> camerondoyle.co.uk</a>
-                        </li>
-                    </ul>
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a class="page-scroll" href="{{ site.url }}">Post Archive <i class="fa fa-fast-backward fa-fw"></i></a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        {% include nav.html %}
         
         <!-- Page Content -->
         <div class="page-content">

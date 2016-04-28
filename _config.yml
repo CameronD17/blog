@@ -1,9 +1,9 @@
 # Site settings
 title: Cameron Doyle
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.camerondoyle.co.uk/"
-homeurl: "http://camerondoyle.co.uk/"
-permalink: :title/
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://blog.camerondoyle.co.uk"
+homeurl: "http://camerondoyle.co.uk"
+permalink: /:title/
 excerpt_separator: <!-- Read More -->
 
 author:

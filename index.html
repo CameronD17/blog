@@ -38,7 +38,7 @@ title:      Archive
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 intro-bg">
                     <h1>{{ page.title }}</h1>
-                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ formattedtotalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title }}</a>, can be read below. A full, date-sorted archive of posts is available at the bottom of this page.</p>
+                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ formattedtotalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>, can be read below. A full, date-sorted archive of posts is available at the bottom of this page.</p>
                 </div>
             </div>
         </div>
@@ -50,7 +50,7 @@ title:      Archive
         <div class="container">
             <div class="col-lg-10 col-lg-offset-1">
                 {% for post in site.posts limit:1 %}
-                    <h2>Latest Post - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    <h2>Latest Post - <a href="{{ post.url }}">{{ post.title }}</a></h2>
                     <h4>{{ post.date | date: "%d %B %Y" }} | 
                     {% for tag in post.tags %}
                         <a class="archive-filter #{{ tag }} page-scroll" href="#blog-archive">{{tag}}</a>
@@ -92,7 +92,7 @@ title:      Archive
                         {% for post in site.posts %}
                             <tbody class="archive-excerpt">
                                 <tr class="blog-teaser">
-                                    <td class="blog-teaser-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+                                    <td class="blog-teaser-title"><a href="{{ post.url }}">{{ post.title }}</a></td>
                                     <td rowspan="2" class="blog-teaser-post-date">
                                         {{ post.date | date: "%d %B %Y" }}<br \>
                                         <span class="blog-teaser-tag">
@@ -106,7 +106,7 @@ title:      Archive
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="blog-teaser-excerpt">{{ post.excerpt | strip_html }} <a href="{{ post.url | prepend: site.baseurl }}"><span class="blog-teaser-tag">Read more</span></a></td>
+                                    <td class="blog-teaser-excerpt">{{ post.excerpt | strip_html }} <a href="{{ post.url }}"><span class="blog-teaser-tag">Read more</span></a></td>
                                 </tr>
                                 <tr>
                                     <td colspan="2"><div class="post-divider"></div></td>

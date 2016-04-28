@@ -16,7 +16,7 @@ I don't really have much else to say here. I'm going to leave this post up, for 
 
 Well, on the off-chance that I give my site a total overhaul by the time you come to read this, people-of-the-future, below is a screenshot of what my blog looked like when I wrote this post:
 
-![Screenshot of the blog]({{site.baseurl}}/assets/img/blog-screenshot.jpg)
+![Screenshot of the blog]({{site.baseurl}}assets/img/blog-screenshot.jpg)
 
 I think this is long enough now to qualify as a full post. I'm not going to count the words, but I imagine this will trigger the page-length-in-minutes counter!
 

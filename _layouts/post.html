@@ -12,7 +12,7 @@ layout: blog
                     </h1>
                     <h4 class="intro-text">{{ page.date | date: "%d %B %Y" }} |
                         {% for tag in page.tags %}
-                            <a href="{{ site.baseurl }}/#{{tag}}">{{tag}}</a>{% unless page.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                            <a href="{{ site.baseurl }}#{{tag}}">{{tag}}</a>{% unless page.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                         {% endfor %} | <abbr title="{{ page.content | number_of_words }} words">{{ page.content | number_of_words | divided_by: 200 | plus: 1 }} mins</abbr>
                     </h4>
                 </div>
