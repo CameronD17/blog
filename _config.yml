@@ -24,3 +24,6 @@ description: >
   and software engineer based in Edinburgh, Scotland.
   
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
