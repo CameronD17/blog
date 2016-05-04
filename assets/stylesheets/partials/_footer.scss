@@ -2,19 +2,17 @@
     width: 44px;
     height: 43px;
     font-size: 35px;
-}
-
-.social-icon:hover,
-.social-icon:focus {
-    color: $link-hover-colour;
-    text-decoration: none;  
+    
+    &:hover, &:focus {
+        color: $link-hover-colour;
+        text-decoration: none;  
+    }
 }
 
 .email-address {
     padding-left: 12px;
     font-size:23px;
 }
-
 
 footer {
     padding: 50px 0 50px 0;
@@ -23,11 +21,10 @@ footer {
 .left-footer {
     width: 100%;
     text-align: center;
-}
-
-.left-footer p {
-    font-size: 15px;
-}
+    p {
+        font-size: 15px;
+    }
+} 
 
 .right-footer {
     display: none;
@@ -44,11 +41,10 @@ footer {
         display: inline;
         float: right;
         width: 50%;
-    }
-
-    .right-footer p, .right-footer a {
-        font-size: 15px;
-        text-align: right;
-        margin: 5px 0;
+        p,a {
+            font-size: 15px;
+            text-align: right;
+            margin: 5px 0;
+        }
     }
 }

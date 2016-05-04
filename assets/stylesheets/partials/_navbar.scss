@@ -3,6 +3,18 @@
     text-transform: uppercase;
     font-family: $title-font;
     width: 100%;
+    
+    .nav li a {
+        font-size: 15px;
+        -webkit-transition: background .3s ease-in-out;
+        -moz-transition: background .3s ease-in-out;
+        transition: background .3s ease-in-out;
+        
+        &:hover,&:focus,&:active {
+            outline: 0;
+            background-color: transparent;
+        }
+    }
 }
 
 .navbar-left {
@@ -23,21 +35,6 @@
     text-align: center;
     margin: auto;
 }
-
-.navbar-custom .nav li a {
-    font-size: 15px;
-    -webkit-transition: background .3s ease-in-out;
-    -moz-transition: background .3s ease-in-out;
-    transition: background .3s ease-in-out;
-}
-
-.navbar-custom .nav li a:hover ,
-.navbar-custom .nav li a:focus,
-.navbar-custom .nav li a:active {
-    outline: 0;
-    background-color: transparent;
-}
-
 
 .navbar-custom.top-nav-collapse {
     padding: 0;
