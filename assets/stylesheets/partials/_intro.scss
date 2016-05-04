@@ -1,0 +1,29 @@
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    padding: 200px 0 0 0;
+}
+
+.intro p,
+.intro a {
+    text-align: center;
+}
+
+.intro .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+    padding-top: 100px;
+}
+
+
+.intro .intro-body .intro-text {
+    font-size: 20px;    
+}
+
+@media(min-width:768px) {
+    .intro {
+        height: 100%;
+        padding: 0;
+    }
+}

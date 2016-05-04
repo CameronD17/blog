@@ -1,0 +1,142 @@
+.archive-section {
+    display: table;
+}
+
+.archive-left-side {
+    width: 100%;
+}
+
+.archive-mobile {
+    text-align: center;
+    min-height: 100%;
+}
+
+.archive-right-side {
+    display: none;
+}
+
+.blog-posts {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.blog-teaser {
+    margin-bottom: 25px;
+    font-weight: 700;
+    width: 100%;
+    text-align: left;
+}
+
+.blog-teaser-post-date {
+    font-size: 16px;
+    vertical-align: middle !important;
+    text-align: right;
+    width: 25%;
+}
+
+.blog-teaser-wordcount,
+.blog-teaser-tag {
+    display: none;
+}
+
+.blog-teaser-excerpt {
+    font-size: 16px;
+    font-style: italic;
+    text-align: left;
+}
+
+@media(min-width:768px){
+    .blog-teaser-wordcount,
+    .blog-teaser-tag {
+        display: inline;
+    }
+}
+
+.archive-title {
+    text-align: left;
+}
+
+.post-divider{
+    float:left;
+    width:100%;
+    height:2px;
+    background-color:$accent-colour;
+    margin: 20px 0;
+    -webkit-column-span: all;
+    column-span: all;
+}
+
+.post-read-more{
+    text-align: center;
+}
+
+.archive-section {
+    width: 100%;
+    padding: 0 10px;
+}
+
+.archive-excerpt.hidden {
+    display: none;
+}
+
+@media(min-width:1200px){    
+    .archive-title {
+        margin: 0;
+        padding: 15px 0 15px 0;
+    } 
+}
+
+#no-blog-posts {
+    display: table-cell;
+}
+
+#no-blog-posts.hidden {
+    display: none;
+}
+
+#category-list {
+    display: block;
+    width: 240px;
+}
+
+@media(min-width:1040px) {
+    #category-list {
+        display: block;
+    }
+    
+    .archive-left-side {
+        float: none;
+        display: table-cell;
+        position: relative;
+        width: 75%;
+    }
+    
+    .archive-right-side {
+        float: none;
+        display: table-cell;
+        position: relative;
+        text-align: left;
+        min-height: 100%;
+        width: 25%;
+    }
+    
+    .archive-mobile {
+        display: none;
+    }
+}
+
+.archive-toggle {
+    font-weight: bold;
+}   
+
+.category-list-fixed {
+    position: fixed !important;
+    top: 100px;
+    width: 20.83%;
+    margin: 0;
+}
+
+.category-list-bottom {
+    position: absolute; 
+    bottom: 0px;
+}
