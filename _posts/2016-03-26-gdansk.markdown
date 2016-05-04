@@ -3,6 +3,7 @@ layout:     post
 title:      "Gdańsk"
 date:       2016-03-26 14:00:00 +0000
 tags:       travel review
+custom_js:  instagram
 ---
 
 After a whole eight months without leaving the country (seriously, this must be the longest I've gone without travelling since I turned 18), I finally decided to go away for a few days in March of 2016. I spent a good few days looking for the cheapest possible flights I could find, and eventually settled on Gdańsk, in Northern Poland. It was definitely a good choice.
@@ -15,43 +16,21 @@ Anyway, we touched down in Gdańsk on a late Tuesday night and took the bus ([th
 
 One thing I didn't realise before booking is that the city centre walking tours only run on the weekends during the low season, and we were visiting Tuesday to Friday. Ordinarily, I like to take a walking tour as soon as possible whenever I visit a new location, as I find it's the easiest way to get oriented and decide which parts of the city I want to explore in more depth. No matter, we would just need to do this the hard way. We spent the whole of our first full day in Gdańsk wandering around the incredibly beautiful Old Town on our own.
 
-<center>
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom:20px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <div style="padding:8px;"> 
-            <div style=" background:#F8F8F8; line-height:0; margin-top:40px;padding:50.0% 0; text-align:center; width:100%;"> 
-                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-                </div>
-            </div> 
-            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
-                <a href="https://www.instagram.com/p/BDBZzY1EF_8/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#Dluga, main street of #Gdansk #Poland #travel</a>
-            </p> 
-            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Cameron (@camerond17) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-16T17:15:08+00:00">Mar 16, 2016 at 10:15am PDT</time>
-            </p>
-        </div>
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BDBZzY1EF_8/" target="_blank"></a>
     </blockquote>
-    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</center>
+</div>
 
 After spending a long time wandering around, drinking in the architecture, we walked back to Dworzec Główny to take the bus out to Westerplatte to see the monuments to the German invasion of Poland, marking the start of the Second World War. What I didn't realise, however, was that the bus to Westerplatte only comes once every 90 minutes or so; and we missed it by ten minutes. Undeterred, we changed plans and took the train to the seaside town of Sopot, slightly north of Gdańsk. Again, we had no real plans as to what to do when we got there, so we took off towards the sea. 
 
 Sopot, as it turns out, has the longest wooden pier in Europe, which stretches out 515 metres into the Bay of Gdańsk. Unusually for March, the weather was quite spectaular, so we walked along the pier to the long wooden benches at the eastern end, and watched the sun go down over the marina. 
 
-<center>
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom:20px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <div style="padding:8px;"> 
-            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> 
-                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-                </div>
-            </div> 
-            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
-                <a href="https://www.instagram.com/p/BDBWp8OEF5E/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">#Pier at #Sopot #Gdansk #Poland #travel</a>
-            </p> 
-            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Cameron (@camerond17) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-16T16:47:38+00:00">Mar 16, 2016 at 9:47am PDT</time>
-            </p>
-        </div>
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BDBWp8OEF5E/" target="_blank"></a>
     </blockquote>
-    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</center>
+</div>
 
 After our long walk around Sopot, we caught the train back to Gdańsk and went back to our hotel to recharge. After a quick nap and shower, we went out to see the nightlife of Gdańsk (which means we went to the Hard Rock Café). After gorging ourselves as usual at the Hard Rock, we went searching for a bar which was playing the Champions League game between Arsenal and Barcelona. This proved difficult, as most places showing football had the Bayern Munich vs Juventus game instead, however we did eventually find somewhere showing both games. Not that it was worth the effort - Arsenal lost 3-1.
 
@@ -61,22 +40,11 @@ We had a late lunch in Malbork before we headed back to Gdańsk on the train, wh
 
 All-in-all, I thoroughly enjoyed my time in Gdańsk. I do wish I'd gotten out to Westerplatte to see the World War II monuments, but I suppose I'd best leave something for the next visit. 
 
-<center>
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom:20px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <div style="padding:8px;"> 
-            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> 
-                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-                </div>
-            </div> 
-            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
-                <a href="https://www.instagram.com/p/BDBYEtqEF8D/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Empty marina at #Sopot #Pier #Gdansk #Poland #travel</a>
-            </p> 
-            <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Cameron (@camerond17) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-16T17:00:02+00:00">Mar 16, 2016 at 10:00am PDT</time>
-            </p>
-        </div>
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BDBYEtqEF8D" target="_blank"></a>
     </blockquote>
-    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</center>
+</div>
 
 > This post is part 1 of 2 of a trip I took in March 2016. [The next section can be found here.]({% post_url 2016-03-27-brussels %})
 

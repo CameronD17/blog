@@ -411,3 +411,22 @@ footer {
     vertical-align: super;
     font-size: 80%;
 }
+
+.instagram-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.instagram-media {
+    background:#FFF; 
+    border:0;
+    border-radius:3px;
+    box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15);
+    margin: 1px 1px 20px 1px;
+    max-width:658px;
+    padding:8px;
+    width:99.375%;
+    width:-webkit-calc(100% - 2px);
+    width:calc(100% - 2px);
+}

@@ -9,7 +9,7 @@ If you met me in person sometime in the last year or so, engaged in conversation
 
 <!-- Read More -->
 
-> *NOTE: This article was written on May 1st, four months after YNAB released a subscription-based model. I still use YNAB4 (also called YNAB Classic), which I'm writing about here, and I will continue to do so until subscription-YNAB reaches at least feature parity with YNAB4.*
+> *NOTE: This article was written on May 5th, four months after YNAB released a subscription-based model. I still use YNAB4 (also called YNAB Classic), which I'm writing about here, and I will continue to do so until subscription-YNAB reaches at least feature parity with YNAB4.*
 
 The software name can be a little controversial; when I first read it, the tone to me sounded like there should be an 'idiot' suffix. *"Yo, dumbass, you need a budget"*. Despite this, and their dollar-centric descriptions, I quickly became an avid subscriber to the YNAB philosophy of the [Four Rules][ynab-classic-four-rules], following them religiously via the software sold then as YNAB4.
 

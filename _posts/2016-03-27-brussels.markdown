@@ -3,6 +3,7 @@ layout:     post
 title:      "Brussels"
 date:       2016-03-27 11:00:00 +0000
 tags:       travel review
+custom_js:  instagram
 ---
 
 We flew to Brussels direct from Gdańsk on literally the cheapest flight I've ever been on. £6.69. I paid more to get the tram to Edinburgh Airport than I did for this flight; at that price, I don't even mind if I don't get a seat. How Wizz Air can possibly make a profit I have no idea, but I'm not complaining.
@@ -19,39 +20,21 @@ The next morning we woke up early and wandered back to Grand Place for the [free
 
 As part of the tour, we visited the incredibly underwhelming Mannekin Pis; the famous fountain depicting a naked urinating toddler. I would say that this is the second most disappointing tourist attraction I've ever visited (after the Mona Lisa, in the Louvre, Paris).
 
-<center>
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom: 20px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <div style="padding:8px;"> 
-            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> 
-                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-                </div>
-            </div>
-            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
-                <a href="https://www.instagram.com/p/BDI0FPKEF-A/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Exceptionally underwhelming #MannekenPis statue, #Brussels #Belgium #travel</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Cameron (@camerond17) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-19T14:19:27+00:00">Mar 19, 2016 at 7:19am PDT</time>
-            </p>
-        </div>
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BDI0FPKEF-A/" target="_blank"></a>
     </blockquote>
-    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</center> 
+</div>
 
 While we were on the tour, our guide pointed out some interesting murals painted on the side of some of the buildings around the city. She explained that, in 1991, the city of Brussels started a project to commemorate the rich history of comic book artists by painting comic book murals on empty walls and advertising spaces across the city. You can buy an official map for 1EUR at the tourist information centre in Grand Place.
 
 The walking tour also took us to all of the major attractions around the city, including the Galeries Royales Saint-Hubert shopping arcade, Brussels Stock Exchange, the St Michael and St Gudula Cathedral, and the Royal Palace of Brussels.
 
-<center>
-    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; margin-bottom: 20px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-        <div style="padding:8px;"> 
-            <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> 
-                <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;">
-                </div>
-            </div> 
-            <p style=" margin:8px 0 0 0; padding:0 4px;"> 
-                <a href="https://www.instagram.com/p/BDI1OfYkFxJ/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">The Royal #Palace of #Brussels #Belgium #travel</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Cameron (@camerond17) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-19T14:29:27+00:00">Mar 19, 2016 at 7:29am PDT</time>
-            </p>
-        </div>
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BDI1OfYkFxJ/" target="_blank"></a>
     </blockquote>
-    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-</center>
+</div>
 
 After the tour, we figured it was about time we experienced some actual Belgian food, so we took some recommendations from our tour guide and tried some Belgian waffles (both Liege and Brussels style), as well as some inauthentic tourist-trap Belgian frites. They weren't that nice, but the waffles were heaven. It took a lot of willpower not to double my bodyweight via waffle consumption. I'm proud of myself for that.
 
