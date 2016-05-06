@@ -1,0 +1,259 @@
+---
+layout:     post
+title:      "Sass"
+date:       2016-05-05 20:00:00 +0000
+tags:       development
+---
+
+I've spent over a year now [designing]({% post_url 2015-11-30-test-post-please-ignore %}), building, and [tweaking]({% post_url 2016-04-22-redesign %}) this blog and [accompanying portfolio site][homepage-link]. When I first started, I was still relatively green when it came to front-end development, so I avoided CSS preprocessors in favour of the more familiar pure CSS. I wish I hadn't. 
+
+<!-- Read More -->
+
+I've been vaguely aware of the benefits of CSS preprocessors for a number of years, but I'd never taken the chance to try one for myself. Since moving this blog to [Jekyll][jekyllrb-link] when I migrated to the blog subdomain, I haven't really had any excuse to not use [Sass][sass-link]. Sass is a CSS preprocessor requiring Ruby; which is also required by Jekyll, so it fits in very nicely with my workflow (the other main CSS preprocessor available as of this writing is [Less][less-link], which uses JavaScript). It's just one of many things I've been putting off to do 'later'.
+
+Yesterday, I decided that it was time for 'later' to become 'now', and I looked up a few tutorials on Sass, and then spent a little time migrating my blog to a Sass-driven style. When I say a little time, I mean a little; it took less than an hour in total from `gem install sass` to committing the initial changes with all of my CSS converted to Sass.
+
+# Reasons to use a CSS Preprocessor
+
+Since I spent so long without it, this is predominantly an article for my past self, lamenting my CSS-only approach for the past year. I've narrowed down the benefits of Sass and CSS preprocessors to three for now; no doubt I'll find more and change my mind as I spend more time writing in Sass.
+
+## #1 DRY (don't repeat yourself) code
+
+CSS is notorious for requiring you to repeat yourself throughout the stylesheet. Sass provides two pieces of functionality, allowing you to avoid repeating yourself: mixins and inheritance (extends).
+
+### Mixins
+
+Mixins are used for designing reusable components to be used across your site in various different places.
+
+Let's take a hypothetical scenario and write some CSS (this specific scenario is actually used in the [Mixin sample][sass-guide] on Sass's website). You're designing a website, and you want rounded corners on all of your tables and buttons. In CSS, you could write:
+
+    .btn {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+    }
+    
+    .table {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+    }
+
+And that just covers your buttons and tables! Imagine copying that everywhere you wanted round corners! However, in Sass, that could quite easily be replaced with a mixin, making it easy to reuse your rounded-corners code, as well as change the radius value where necessary:
+
+    @mixin border-radius($radius) {
+        -webkit-border-radius: radius;
+        -moz-border-radius: radius;
+        -ms-border-radius: radius;
+        border-radius: radius;
+    }
+    
+    .btn {
+        @include border-radius(10px);
+    }
+    
+    .table {
+        @include border-radius(10px);
+    }
+
+No more repetition! All you'd need to do is `@include border-radius($radius);` on any element you want to apply rounded corners to in the future.
+
+### Extends
+
+Extends on the other hand, allow you to define the style for one element and then build upon it to allow you to tweak the style for individual situations. 
+
+Let's revisit our round-cornered buttons from the Mixins example. We've designed a button for our site, but it only has one use for now. We need a few different buttons with slightly different styles for different uses on our site. In pure CSS, we could write:
+
+    .btn-success {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+        border: 1px solid #0F0;
+        padding: 10px 5px;
+        color: #FFF;
+        text-align: center;
+    }
+    
+    .btn-danger {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        border-radius: 10px;
+        border: 1px solid #F00;
+        padding: 10px 5px;
+        color: #FFF;
+        text-align: center;
+    }
+
+Lots of repetition there - we're only changing the border colour! In Sass however, we can define a base style for our button, and use inheritance to add new buttons as needed:
+
+    @mixin border-radius($radius) {
+        -webkit-border-radius: radius;
+        -moz-border-radius: radius;
+        -ms-border-radius: radius;
+        border-radius: radius;
+    }
+    
+    .btn {
+        @include border-radius(10px);
+        border: 1px solid;
+        padding: 10px 5px;
+        color: #FFF;
+        text-align: center;
+    }
+    
+    .btn-success {
+        @extend .btn;
+        border-color: #0F0;
+    }
+    
+    .btn-danger {
+        @extend .btn;
+        border-color: #F00;
+    }
+
+Much simpler! We've revisited the mixins from earlier, and defined a new `.btn` style to use across the site via `@extend .btn`. Now, any new buttons we'll need in the future will be so much easier to implement!
+
+## #2 Maintainability
+
+In a similar vein to keeping your CSS DRY, using a preprocessor like Sass makes maintaining your stylesheets much simpler. On this blog I have relatively little CSS, but even the small amount I have was a pain to change when I [redesigned]({% post_url 2016-04-22-redesign %}) last month. Using Sass, I now have a much better defined colour scheme, which is much easier to change on the fly.
+
+Previously, my pure CSS would have hardcoded colour values, as (simplified for brevity) below:
+
+    h1 {
+        color: #000000;
+    }
+    
+    a {
+        color: #F00000;
+    }
+    
+    a :hover {
+        color: #D00000;
+    }
+    
+    .social-btn {
+        color: #F00000;
+    }
+    
+    .social-btn :hover {
+        color: #D00000;
+    }
+    
+That's a lot of duplication when extended to a full site! What if I wanted to change the colour of my hover states? Sure, I could find/replace-all, but it's possible that the colour was in use elsewhere for a different reason. Painstakingly going through every instance is a tedious process. Instead, I could have defined variables in Sass, and it would have been one simple change to make:
+
+    @text-color: #000000;
+    @link-color: #F00000;
+    @hover-color: #D00000;
+    
+    h1 {
+        color: @text-color;
+    }
+    
+    a {
+        color: @link-color;
+    }
+    
+    a :hover {
+        color: @hover-color;
+    }
+    
+    .social-btn {
+        color: @link-color;
+    }
+    
+    .social-btn :hover {
+        color: @hover-color;
+    }
+
+Much better! And that last example segues nicely into the third reason to use a CSS preprocessor...
+
+## #3 Organisation
+
+This is the key reason I made the switch to using a preprocessor for my CSS. Using Sass, I have much more organised CSS from two fronts: separate sections in the form of modules and partials, and nested definitions.
+
+### Nested definitions
+
+Sass allows you to write your CSS using nested definitions; that is, you can include related definitions within definitions. This may not sound like a big deal, but in bigger sections of code it improves readability tenfold.
+
+Previously, my intro CSS looked like this:
+
+    .intro {
+        display: table;
+        width: 100%;
+        height: auto;
+        padding: 200px 0 0 0;
+    }
+    
+    .intro p,
+    .intro a {
+        text-align: center;
+    }
+    
+    .intro .intro-body {
+        display: table-cell;
+        vertical-align: middle;
+        padding-top: 100px;
+    }
+    
+    .intro .intro-body .intro-text {
+        font-size: 20px;    
+    }
+
+Not impossible to read, but with separated out sections, it can be tricky to see how each section relates to the other. In Sass, it now looks like this:
+
+    .intro {
+        display: table;
+        width: 100%;
+        height: auto;
+        padding: 200px 0 0 0;
+        
+        p, a {
+            text-align: center;
+        }
+        
+        .intro-body {
+            display: table-cell;
+            vertical-align: middle;
+            padding-top: 100px;
+            
+            .intro-text {
+                font-size: 20px;    
+            }
+        }
+    }
+
+In my opinion, this is much clearer. It's easy to see which changes are made to each subsection of `.intro`, and it's also much clearer that everything refers to the same `.intro` class. 
+
+### Modules and Partials
+
+Before Sass, I wrote and maintained all of my CSS in one big 'main.css' file. Now, instead of using one big file, I've separated out the key components into modules and partials. Modules are separate .scss files which contain key style elements and variables common to the whole site, such as colours and fontfaces. Partials are separate .scss files which contain the CSS specific to a section of the site, such as the blog archive table. A great [write-up on structuring your Sass directory][sass-project-structure] can be found at thesassway.com.
+
+Now, instead of one giant CSS file, my 'main.scss' file looks like this:
+
+    ---
+    ---
+    @import "modules/fonts";
+    @import "modules/colours";
+
+    @import "partials/base";
+    @import "partials/navbar";
+    @import "partials/intro";
+    @import "partials/archive";
+    @import "partials/instagram";
+    @import "partials/footer";
+    
+That's it. Each partial file has it's own use, which makes it much easier to maintain and debug, and it's much easier to tweak fonts and colours with a single change. Sass then compiles all of my individual files into a minified CSS file when I rebuild my site with Jekyll.
+
+I still have a lot to learn about Sass; I literally only started using it yesterday, so I imagine I've only scratched the surface of what I can do with it. With that in mind, if you do find any errors or omissions with this article, please do drop me an email at [hello@camerondoyle.co.uk][email-link] and let me know. I'm always eager to learn, and any corrections will be updated here.
+
+[homepage-link]:            http://camerondoyle.co.uk/
+[jekyllrb-link]:            http://jekyllrb.com/
+[sass-link]:                http://sass-lang.com/
+[sass-guide]:               http://sass-lang.com/guide/
+[less-link]:                http://lesscss.org/
+[sass-project-structure]:   http://thesassway.com/beginner/how-to-structure-a-sass-project
+[email-link]:               mailto:{{ site.author.email }}
