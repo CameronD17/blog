@@ -45,7 +45,7 @@ YNAB have scrapped this rule now in the new version, but in YNAB4 it makes sense
 
 So, I've been using YNAB for 16 months now. Has it worked? Yes, it has. I've taken a screenshot of my "net worth" report from YNAB as of right now (amounts omitted, but the trend is evident. Blue are assets, red are debts). I know for an absolute fact I would not be in this position without the discipline that YNAB requires.
 
-![Net worth Jan-15 to Apr-16]({{site.baseurl}}/assets/img/ynab-net-worth.jpg)
+![Net worth Jan-15 to Apr-16]({{site.baseurl}}assets/img/ynab-net-worth.jpg)
 *Net worth from January 2015 to April 2016*
 
 *Note: I am not affiliated with YNAB in anyway, but I will continue to recommend YNAB4 for the impact it has had on my financial well-being.*
