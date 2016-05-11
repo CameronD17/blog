@@ -15,34 +15,34 @@
     padding: 0px;
 }
 
-.post {
+.blog-teaser {
     margin-bottom: 25px;
     font-weight: 700;
     width: 100%;
     text-align: left;
 }
 
-.post-date {
+.blog-teaser-date {
     font-size: 16px;
     vertical-align: middle !important;
     text-align: right;
     width: 25%;
 }
 
-.post-wordcount,
-.post-tag {
+.blog-teaser-wordcount,
+.blog-teaser-tag {
     display: none;
 }
 
-.post-excerpt {
+.blog-teaser-excerpt {
     font-size: 16px;
     font-style: italic;
     text-align: left;
 }
 
 @media(min-width:768px){
-    .post-wordcount,
-    .post-tag {
+    .blog-teaser-wordcount,
+    .blog-teaser-tag {
         display: inline;
     }
 }
