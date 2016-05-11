@@ -40,16 +40,12 @@ $('.dropdown-menu li a').click(function () {
 });
 
 // Toggle blog categories on/off (C) Cameron Doyle
-$('.archive-category').click(function() {    
+$('.category').click(function() {    
     toggleCategory($(this));
 });
 
-$('.archive-toggle').click(function() {
+$('.category-toggle').click(function() {
     toggleAllCategories($(this));
-});
-
-$('.archive-mobile-category').click(function() {
-    selectSingleCategory($(this));
 });
 
 function archiveFilterFromHash() {
@@ -77,51 +73,7 @@ function applyToggles() {
     var none = true;
     
     // Loop through the blog posts, and un-hide any blog posts that match any selected categories
-    $('.archive-category').each(function() {
-        var category = $(this).attr('id');
-        if ($(this).hasClass('selected')) {
-            $('.archive-excerpt').each(function() {
-                if ($(this).find('tr>td>span>a').hasClass('#'+category)) {
-                    if ($(this).hasClass('hidden')) {
-                        $(this).removeClass('hidden');
-                        none = false;
-                    }
-                }
-            });
-        }
-    });
-    
-    // If no blog posts match the selected categories, show the "No Posts Found" default post
-    if (none) {
-        $("#category-list").removeClass("category-list-bottom");
-        $("#category-list").removeClass("category-list-fixed");
-        if($("#no-blog-posts").hasClass("hidden")) {
-            $("#no-blog-posts").removeClass("hidden");
-        }
-    } else if(!$("#no-blog-posts").hasClass("hidden")) {
-        $("#no-blog-posts").addClass("hidden");  
-    }
-}
-
-function selectSingleCategory(categoryFilter) {
-    $('.archive-mobile-category').each(function() {
-        if ($(this).hasClass('selected')) {
-            $(this).removeClass('selected');
-        }
-    });
-    
-    categoryFilter.addClass('selected');    
-        // Hide all blog posts in the archive
-    $('.archive-excerpt').each(function() {
-        if (!$(this).hasClass('hidden')) {
-            $(this).addClass('hidden');
-        }
-    });
-    
-    var none = true;
-    
-    // Loop through the blog posts, and un-hide any blog posts that match any selected categories
-    $('.archive-mobile-category').each(function() {
+    $('.category').each(function() {
         var category = $(this).attr('id');
         if ($(this).hasClass('selected')) {
             $('.archive-excerpt').each(function() {
@@ -163,7 +115,7 @@ function toggleCategory(categoryFilter) {
 function deselectAndToggleCategory(category) {
     $("#category-list").removeClass("category-list-bottom");
     $("#category-list").removeClass("category-list-fixed");
-    $('.archive-category').each(function() {
+    $('.category').each(function() {
         if ($(this).hasClass('selected')) {
             $(this).removeClass('selected');
             $(this).find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
@@ -180,7 +132,7 @@ function deselectAndToggleCategory(category) {
 
 function toggleAllCategories(toggleAll) {
     if (toggleAll.hasClass('selectall')) {
-        $('.archive-category').each(function() {
+        $('.category').each(function() {
             if (!$(this).hasClass('selected')) {
                 $(this).addClass('selected');
                 $(this).find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
@@ -199,7 +151,7 @@ function toggleAllCategories(toggleAll) {
     } else {
         $("#category-list").removeClass("category-list-bottom");
         $("#category-list").removeClass("category-list-fixed");
-        $('.archive-category').each(function() {
+        $('.category').each(function() {
             if ($(this).hasClass('selected')) {
                 $(this).removeClass('selected');
                 $(this).find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
