@@ -5,10 +5,11 @@
     text-align: center;
     padding: 15px 0 15px 0;
     letter-spacing: 1px;
-    border-bottom: 2px solid $accent-colour;
+    border-bottom: 6px solid $accent-colour;
     
     a {
-        font-size: 20px;
+        font-size: 24px;
+        font-weight: bold;
         
         &:hover,&:focus,&:active {
             outline: 0;

@@ -87,9 +87,10 @@ tbody {
   text-align: center;
   padding: 15px 0 15px 0;
   letter-spacing: 1px;
-  border-bottom: 2px solid #BABABA; }
+  border-bottom: 6px solid #BABABA; }
   .navbar-custom a {
-    font-size: 20px; }
+    font-size: 20px;
+    font-weight: bold; }
     .navbar-custom a:hover, .navbar-custom a:focus, .navbar-custom a:active {
       outline: 0;
       background-color: transparent; }

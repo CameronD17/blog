@@ -1,8 +1,8 @@
 # [blog.camerondoyle.co.uk] (http://blog.camerondoyle.co.uk)
 
-blogcamerondoyle.co.uk is my personal blog, updated sporadically whenever I remember. It is linked closely to my [main site](http://camerondoyle.co.uk).
+blog.camerondoyle.co.uk is my personal blog, updated sporadically whenever I remember, although I do try to post at least twice a month. It started life as an offshoot of my [main site](http://camerondoyle.co.uk) although it has been redesigned since then. 
 
-The site is generated using [Jekyll](http://jekyllrb.com), and the design is based on my main site, developed from the [Start Bootstrap](http://startbootstrap.com/) [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) template.
+The site is generated using [Jekyll](http://jekyllrb.com), and built on the [Bootstrap](http://getbootstrap.com/) framework.
 
 ## Bugs / Issues
 
@@ -16,6 +16,4 @@ blog.camerondoyle.co.uk was created by and is maintained by **Cameron Doyle**
 
 ## Copyright and License
 
-Copyright 2016 Cameron Doyle. Code released under the [Apache 2.0](https://github.com/CameronD17/blog/blob/master/LICENSE) license.
-
-Grayscale Template - Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
+Copyright 2016 Cameron Doyle. Code released under the [Apache 2.0](https://github.com/CameronD17/blog/blob/gh-pages/LICENSE) license.
