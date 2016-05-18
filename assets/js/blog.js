@@ -111,13 +111,23 @@ function toggleCategory(categoryFilter) {
     var allSelected = true;
     var noneSelected = true;
     
+    // Loop through each category and check it's status
     $('.category').each(function() {
+        // If any are not selected, then we can't be clearing + selecting a single category
         if (!$(this).hasClass('selected')) {
-            allSelected = false;    
-        } else if ($(this).hasClass('selected') && categoryFilter.attr('id') != $(this).attr('id')) {
+            allSelected = false;
+        }
+        
+        // If any are selected, then we can't be selecting all unless ONLY the current category is selected
+        if ($(this).hasClass('selected') && categoryFilter.attr('id') != $(this).attr('id')) {
             noneSelected = false;
         }
     });
+    
+    // If the current category is not selected, and neither is any other category, we only want to select one category, not all of them
+    if (!categoryFilter.hasClass('selected') && noneSelected) {
+        noneSelected = false;
+    }
     
     if (allSelected) {
         toggleAllCategories('off');
