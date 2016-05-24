@@ -14,7 +14,7 @@ $('.read-more').click(function() {
 
 /* Lock category pane to window (C) Cameron Doyle */ 
 $(window).scroll(function() {
-    if ((($(window).height()) > $('#category-list').height()) && (($('#category-list').height() + 130) < $('#blog-archive').height())) {
+    if ((($(window).height()) > $('#category-list').height() + 100) && (($('#category-list').height() + 130) < $('#blog-archive').height())) {
         var archiveTop          = $('#blog-archive').offset().top;
         var archiveBottom       = archiveTop + $('#blog-archive').height();
         var categoryListBottom  = $(window).scrollTop() + $('#category-list').height(); 
