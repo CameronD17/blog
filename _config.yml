@@ -22,7 +22,7 @@ author:
 description: > 
   Personal blog of Cameron Doyle, a programmer 
   and software engineer based in Edinburgh, Scotland.
-  
+
 markdown: kramdown
 
 gems:
@@ -31,4 +31,4 @@ gems:
   
 sass:
     style: compressed
-    sass_dir: assets/stylesheets
+    sass_dir: assets/stylesheets/_sass
