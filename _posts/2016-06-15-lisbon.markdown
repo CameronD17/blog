@@ -35,7 +35,10 @@ The walking tour finished in the picturesque Praça do Comércio, where the Port
 
 Lisbon is definitely a city I'll return to in the future. I had a little under 24 hours to explore it on my own, which was nowhere near enough to see everything the place has to offer, despite the compactness of the city centre. It really is a beautiful place, and deserves more of my time to appreciate in full.
 
-> This post is part 1 of 2 of a trip I took in June 2016. [The next section, covering the football tournament, can be found here.]({% post_url 2016-06-15-lisbon %})
+> This post is part 1 of 4 of a trip I took in June 2016.  
+> [Part 2]({% post_url 2016-06-20-cgi-euros-2016-group-stage %}) covers the opening stages of the CGI Euros 2016.  
+> Part 3 covers the knock-out stages of the CGI Euros.  
+> Part 4 covers the CGI European Championship final.
 
 [st-anthonys-festival]: http://www.slate.com/articles/news_and_politics/roads/2015/06/st_anthony_s_day_portugal_s_annual_booze_fuelled_sardine_blowout_is_a_one.html
 [sandemans-walking-tour]: http://www.newlisbontours.com
