@@ -1,5 +1,6 @@
 body {
     width: 100%;
+    overflow-x: hidden;
     height: 100%;
     font-family: $body-font;
     color: $font-colour;
@@ -57,9 +58,14 @@ a {
 }
 
 table {
+    margin: 0px auto;
     width: 100%;
+    max-width: 400px;
+    display: table;
     word-wrap: break-word;
 }
+
+
 
 tbody {
     border-top: none !important;

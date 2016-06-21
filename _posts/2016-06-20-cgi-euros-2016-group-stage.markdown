@@ -18,12 +18,21 @@ The CGI Euros are played with 16 teams over two days, with the group stages on t
 
 ---
 
-|Group A|Group B|Group C|Group D|
-|:---|:---|:---|:---|
-|PT Sintra|PT Jose Malhoa|PT AMS|PT DMS|
-|Munich|Czech Republic|Cologne|Sulzbach|
-|Birmingham|Reading|Gloucester|London|
-|**Scotland**|Netherlands|Wales|France|
+|Group A|Group B|
+|:---|---:|
+|PT Sintra|PT Jose Malhoa|
+|Munich|Czech Republic|
+|Birmingham|Reading|
+|**Scotland**|Netherlands|
+
+---
+
+|Group C|Group D|
+|:---|---:|
+|PT AMS|PT DMS|
+|Cologne|Sulzbach|
+|Gloucester|London|
+|Wales|France|
 
 ---
 
@@ -104,5 +113,5 @@ We travelled back to our hotel elated with our qualification to the European Cha
 
 > This post is part 2 of 4 of a trip I took in June 2016.  
 > [Part 1]({% post_url 2016-06-15-lisbon %}) covers my time in Lisbon itself.  
-> Part 3 covers the knock-out stages of the CGI Euros.  
+> [Part 3]({% post_url 2016-06-21-cgi-euros-2016-knock-outs %}) covers the knock-out stages of the CGI Euros.  
 > Part 4 covers the CGI European Championship final.
