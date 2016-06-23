@@ -38,7 +38,7 @@ Lisbon is definitely a city I'll return to in the future. I had a little under 2
 > This post is part 1 of 4 of a trip I took in June 2016.  
 > [Part 2]({% post_url 2016-06-20-cgi-euros-2016-group-stage %}) covers the opening stages of the CGI Euros.  
 > [Part 3]({% post_url 2016-06-21-cgi-euros-2016-knock-outs %}) covers the knock-out stages of the CGI Euros.  
-> Part 4 covers the CGI European Championship final.
+> [Part 4]({% post_url 2016-06-23-cgi-euros-2016-final %}) covers the CGI European Championship final.
 
 [st-anthonys-festival]: http://www.slate.com/articles/news_and_politics/roads/2015/06/st_anthony_s_day_portugal_s_annual_booze_fuelled_sardine_blowout_is_a_one.html
 [sandemans-walking-tour]: http://www.newlisbontours.com

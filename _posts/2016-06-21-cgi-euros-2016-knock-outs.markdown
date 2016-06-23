@@ -66,4 +66,4 @@ London look dejected and in disbelief, but we barely notice as we surround the w
 > This post is part 3 of 4 of a trip I took in June 2016.  
 > [Part 1]({% post_url 2016-06-15-lisbon %}) covers my time in Lisbon itself.  
 > [Part 2]({% post_url 2016-06-20-cgi-euros-2016-group-stage %}) covers the opening stages of the CGI Euros.  
-> Part 4 covers the CGI European Championship final.
+> [Part 4]({% post_url 2016-06-23-cgi-euros-2016-final %}) covers the CGI European Championship final.
