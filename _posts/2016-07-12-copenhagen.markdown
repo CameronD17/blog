@@ -2,7 +2,7 @@
 layout:     post
 title:      "Copenhagen"
 date:       2016-07-12 14:30:00 +0000
-tags:       travel review
+tags:       travel
 custom_js:  instagram
 ---
 
@@ -39,6 +39,6 @@ Not that we learned our lesson, hitting the same bar as the first night and stay
 Running low on Danish Krone, we elected to eat in the hostel and stay in for a relatively quiet final night in Copenhagen ahead of a morning train to Stockholm via Malmö the following day. We watched the semi-final of the Euros between Wales and Portugal, and had a few quiet drinks in a bar near the City Hall called The Scottish Bar. Where else would we spend our last night in Denmark?
 
 > This post is part 1 of 2 of a trip I took in July 2016.  
-> Part 2 covers our time in Stockholm.
+> [Part 2]({% post_url 2016-07-12-copenhagen %}) covers our time in Stockholm.
 
 [urban-house-link]: https://urbanhouse.me/

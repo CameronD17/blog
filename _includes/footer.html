@@ -1,5 +1,5 @@
         <!-- Footer -->
-        <footer class="container">
+        <footer class="container">            
             <div class="left-footer">
                 <ul class="list-inline banner-social-buttons">
                     <li>
@@ -14,10 +14,18 @@
                     <li>
                         <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" class="btn social-icon" title="Instagram"><i class="fa fa-instagram fa-fw"></i></a>
                     </li>
-                    <li class="open-subscribe-popup">
-                        <a class="btn social-icon" title="Subscribe via email"><i class="fa fa-send-o fa-fw"></i></a>
-                    </li>
                 </ul>
+            </div>
+            <div class="centre-footer">
+                <div id="mc_embed_signup">
+                    <form action="//camerondoyle.us13.list-manage.com/subscribe/post?u=1f1ccfe804d7833ca1f07c968&amp;id=519660a598" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                        <div id="mc_embed_signup_scroll">                
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1f1ccfe804d7833ca1f07c968_519660a598" tabindex="-1" value=""></div>
+                        <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+                        </div>
+                    </form>
+                </div>
             </div>
             <div class="right-footer">
                 <p>Last updated <abbr title="Most recent site rebuild: {{ site.time }}">{{ site.time | date:'%B %Y' }}</abbr> <i class="fa fa-calendar fa-fw"></i></p>
@@ -33,8 +41,6 @@
         <script src="{{ 'assets/js/main.js' | prepend: site.baseurl }}"></script>        
         {% endif %}
         {% if page.custom_js %}{% for js_file in page.custom_js %}{% if js_file == "instagram" %}<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>{% else %}<script src="/assets/js/{{ js_file }}.js"></script>{% endif %}{% endfor %}{% endif %}
-        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
-        <script src="{{ 'assets/js/subscribe.js' | prepend: site.baseurl }}"></script>
         
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

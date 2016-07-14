@@ -2,7 +2,7 @@
 layout:     post
 title:      "Lisbon"
 date:       2016-06-15 19:00:00 +0000
-tags:       travel review
+tags:       travel
 custom_js:  instagram
 ---
 
@@ -25,7 +25,7 @@ I didn't do a great deal of research on Lisbon before I came if I'm honest. I ch
 
 One thing I didn't realise about Lisbon is how many hills there are. Fortunately, living in Edinburgh, I'm used to steep walks, but Lisbon proved an additional challenge with the 30°C heat. Not that this was a real obstacle; for a three-hour walking tour, we didn't do a great deal of walking at all, given how compact the city is; another characteristic it shares with Edinburgh, along with the hill-top Castle of São Jorge analogous to Edinburgh's own castle.
 
-The walking tour finished in the picturesque Praça do Comércio, where the Portguese were constructing a massive screen to show the real Euro 2016 games. I headed for the entrance to the plaza, and climbed the Arco da Rua Augusta for some beautiful panoramic views of downtown Lisbon. From here, I took a slow, leisurely walk north through the city, watching the inhabitants prepare for the upcoming Sardine Festival. Naturally, I stopped at the Hard Rock Café for a late lunch (good quality food, probably not in my top ten though), and then wandered up towards the hotel through Miradouro do Parque Eduardo VIII to meet the rest of the squad before we got into full tournament-mode. 
+The walking tour finished in the picturesque Praça do Comércio, where the Portuguese were constructing a massive screen to show the real Euro 2016 games. I headed for the entrance to the plaza, and climbed the Arco da Rua Augusta for some beautiful panoramic views of downtown Lisbon. From here, I took a slow, leisurely walk north through the city, watching the inhabitants prepare for the upcoming Sardine Festival. Naturally, I stopped at the Hard Rock Café for a late lunch (good quality food, probably not in my top ten though), and then wandered up towards the hotel through Miradouro do Parque Eduardo VIII to meet the rest of the squad before we got into full tournament-mode. 
 
 <div class="instagram-container">
     <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
