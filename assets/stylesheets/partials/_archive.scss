@@ -2,13 +2,13 @@
     display: table;
 }
 
-.archive-left-side {
+.archive-right-side {
     width: 100%;
 }
 
-.archive-right-side {
+.archive-left-side {
     float: none;
-    display: table-cell;
+    display: table;
     position: relative;
     text-align: left;
     min-height: 100%;
@@ -106,24 +106,29 @@
 }
 
 #category-list {
-    display: block;
+    display: table;
     width: 240px;
+    margin: 0 auto;
 }
 
 @media(min-width:1040px) {
     #category-list {
+        position: absolute;
         display: block;
     }
     
-    .archive-left-side {
+    .archive-right-side {
         float: none;
         display: table-cell;
         position: relative;
         width: 75%;
     }
     
-    .archive-right-side {
+    .archive-left-side {
         width: 25%;
+        float: none;
+        left: 0;
+        display: table-cell;
         padding-bottom: 0;
     }
     
@@ -139,7 +144,7 @@
 .category-list-fixed {
     position: fixed !important;
     top: 100px;
-    width: 20.83%;
+    width: 240px;
     margin: 0;
 }
 
