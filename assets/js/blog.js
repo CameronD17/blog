@@ -14,7 +14,7 @@ $('.read-more').click(function() {
 
 /* Lock category pane to window (C) Cameron Doyle */ 
 $(window).scroll(function() {
-    if ((($(window).height()) > $('#category-list').height() + 100) && (($('#category-list').height() + 130) < $('#blog-archive').height())) {
+    if ((($(window).height()) > $('#category-list').height() + 100) && (($('#category-list').height() + 130) < $('#blog-archive').height()) && document.documentElement.clientWidth > 1040) {
         var archiveTop          = $('#blog-archive').offset().top;
         var archiveBottom       = archiveTop + $('#blog-archive').height();
         var categoryListBottom  = $(window).scrollTop() + $('#category-list').height(); 
@@ -53,23 +53,28 @@ $('.all-categories').click(function() {
     if($(this).hasClass('selectall')) {
         toggleAllCategories('on');
     }
-    else {        
+    else {
         toggleAllCategories('off');
     }
+    scrollToTop();
 });
 
 // Click category on external page (e.g. blog post)
 function archiveFilterFromHash() {
     if(window.location.hash) {
-        $('html, body').animate({
-            scrollTop: $('#blog-archive').offset().top
-        }, 'slow');
         toggleSingleCategory(window.location.hash);
+        scrollToTop();
     }
 } window.onload = archiveFilterFromHash();
 
 
 /* Toggle blog categories helper functions */
+
+function scrollToTop() {
+    $('html, body').animate({
+        scrollTop: $('#blog-archive').offset().top
+    }, 'slow');
+}
 
 function applyToggles() {
     // Hide all blog posts in the archive
@@ -105,6 +110,8 @@ function applyToggles() {
     } else if(!$("#no-blog-posts").hasClass("hidden")) {
         $("#no-blog-posts").addClass("hidden");  
     }
+    
+    scrollToTop();
 }
 
 function toggleCategory(categoryFilter) {
