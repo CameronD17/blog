@@ -72,7 +72,7 @@ function archiveFilterFromHash() {
 
 function scrollToTop() {
     $('html, body').animate({
-        scrollTop: $('#blog-archive').offset().top
+        scrollTop: $('#post-list').offset().top-50
     }, 'slow');
 }
 

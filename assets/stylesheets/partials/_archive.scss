@@ -2,19 +2,35 @@
     display: table;
 }
 
-.archive-right-side {
-    width: 100%;
-}
-
 .archive-left-side {
     float: none;
     display: table;
     position: relative;
     text-align: left;
-    min-height: 100%;
+    height: 600px;
     padding-bottom: 100px;
     width: 100%;
+    
+    @include mobile {
+        float: none;
+        display: table-cell;
+        position: relative;
+        padding-bottom: 0;
+        width: 25%;
+    }
 }
+
+.archive-right-side {
+    width: 100%;
+    
+    @include mobile {
+        float: none;
+        display: table-cell;
+        position: relative;
+        width: 75%;
+    }
+}
+
 
 .posts {
     list-style-type: none;
@@ -48,6 +64,10 @@
 .blog-teaser-wordcount,
 .blog-teaser-tag {
     display: none;
+    
+    @include mobile {
+        display: inline;
+    }
 }
 
 .blog-teaser-excerpt {
@@ -56,15 +76,13 @@
     text-align: left;
 }
 
-@media(min-width:1040px){
-    .blog-teaser-wordcount,
-    .blog-teaser-tag {
-        display: inline;
-    }
-}
-
 .archive-title {
     text-align: left;
+    
+    @include mobile {
+        margin: 0;
+        padding: 15px 0 15px 0;
+    }
 }
 
 .post-divider{
@@ -90,61 +108,29 @@
     display: none;
 }
 
-@media(min-width:1200px){    
-    .archive-title {
-        margin: 0;
-        padding: 15px 0 15px 0;
-    } 
-}
-
 #no-blog-posts {
     display: table-cell;
-}
-
-#no-blog-posts.hidden {
-    display: none;
+    
+    .hidden {
+        display: none;
+    }
 }
 
 #category-list {
     display: table;
     width: 240px;
     margin: 0 auto;
-}
-
-@media(min-width:1040px) {
-    #category-list {
+    
+    @include mobile {
         position: absolute;
         display: block;
     }
-    
-    .archive-right-side {
-        float: none;
-        display: table-cell;
-        position: relative;
-        width: 75%;
-    }
-    
-    .archive-left-side {
-        width: 25%;
-        float: none;
-        left: 0;
-        display: table-cell;
-        padding-bottom: 0;
-    }
-    
-    .archive-mobile {
-        display: none;
-    }
 }
-
-.category-toggle {
-    font-weight: bold;
-}   
 
 .category-list-fixed {
     position: fixed !important;
     top: 100px;
-    width: 240px;
+    width: 20.83%;
     margin: 0;
 }
 

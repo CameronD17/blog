@@ -1,0 +1,7 @@
+$mobile-width: 1040px;
+
+@mixin mobile {
+    @media (min-width: #{$mobile-width}) {
+        @content;
+    }
+}
