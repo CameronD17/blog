@@ -1,7 +1,7 @@
-$mobile-width: 1040px;
+$desktop-width: 1040px;
 
-@mixin mobile {
-    @media (min-width: #{$mobile-width}) {
+@mixin desktop {
+    @media (min-width: #{$desktop-width}) {
         @content;
     }
 }

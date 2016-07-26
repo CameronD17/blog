@@ -20,31 +20,29 @@ footer {
     p {
         font-size: 15px;
     }
+    
+    @include desktop {
+        float: left;
+        width: 25%;
+        text-align: left;
+    }
 } 
 
 .centre-footer {
     width: 100%;
     text-align: center;
-}
-
-.right-footer {
-    display: none;
-}
-
-@media(min-width:1040px){
-    .left-footer {
-        float: left;
-        width: 25%;
-        text-align: left;
-    }
     
-    .centre-footer {
+    @include desktop {
         width: 50%;
         display: inline-block;
         text-align: center;
     }
+}
 
-    .right-footer {
+.right-footer {
+    display: none;
+    
+    @include desktop {
         display: inline;
         float: right;
         width: 25%;

@@ -29,7 +29,7 @@ $(window).scroll(function() {
             $("#category-list").removeClass("category-list-bottom");
             $("#category-list").removeClass("category-list-fixed");
         }
-    } else {                                                                                // Exit Above Archive
+    } else {                                                                                    // Exit Above Archive
         $("#category-list").removeClass("category-list-bottom");
         $("#category-list").removeClass("category-list-fixed");
     }
