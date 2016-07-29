@@ -24,7 +24,7 @@
                                                 {{ page.title }}
                                             </h1>
                                             <div class="post-details intro-text">
-                                                {{ page.date | date: "%d %B" }} | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
+                                                {{ page.date | date: "%d %B %Y" }} | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
                                                 {% for tag in page.tags %}
                                                     <a href="{{ site.baseurl }}#{{tag}}">{{tag}}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                                 {% endfor %}

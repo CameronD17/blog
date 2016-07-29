@@ -2,7 +2,7 @@
 layout:     post
 title:      "YNAB"
 date:       2016-05-03 12:00:00 +0000
-tags:       productivity finance review
+tags:       productivity review
 ---
 
 If you met me in person sometime in the last year or so, engaged in conversation with me about personal finance, or even just made an off-hand comment about budgeting or not having enough money, chances are I'll have mentioned (okay, let's be honest, forced down your throat) the benefits of the budgeting software [YNAB][ynab-home-link] - You Need A Budget.
@@ -48,7 +48,7 @@ So, I've been using YNAB for 16 months now. Has it worked? Yes, it has. I've tak
 ![Net worth Jan-15 to Apr-16]({{site.baseurl}}assets/img/ynab-net-worth.jpg)
 *Net worth from January 2015 to April 2016*
 
-*Note: I am not affiliated with YNAB in anyway, but I will continue to recommend YNAB4 for the impact it has had on my financial well-being.*
+*Note: I am not affiliated with YNAB in any way, but I will continue to recommend YNAB4 for the impact it has had on my financial well-being.*
 
 [ynab-home-link]: http://www.youneedabudget.com
 [ynab-classic-four-rules]: http://classic.youneedabudget.com/method/rule-one
