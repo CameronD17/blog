@@ -58,7 +58,7 @@
                                         {% for tag in page.tags %}
                                             {% assign tagsize = site.tags[tag] | size %}
                                             {% if tagsize != 1 %}
-                                                {% if page.tags.size != 1 %}<div class="col-lg-6">{% endif %}
+                                                {% if page.tags.size == 2 %}<div class="col-lg-6">{% elsif page.tags.size == 3 %}<div class="col-lg-4">{% endif %}
                                                     <h3>Recent "{{ tag }}" posts</h3>
                                                     <div class="post-divider"></div>
                                                     <table class="table posts">
@@ -78,12 +78,10 @@
                                                                     </tr>
                                                                 </tbody>
                                                             {% endif %}
-                                                            {% if postCounter >= maxPosts %}
-                                                                {% break %}
-                                                            {% endif %}
+                                                            {% if postCounter >= maxPosts %}{% break %}{% endif %}
                                                         {% endfor %}
                                                     </table>
-                                                    {% if tagsize > 3 %}
+                                                    {% if tagsize > maxPosts %}
                                                         <h4>
                                                             <a href="{{ site.baseurl }}#{{tag}}">More "{{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}" posts</a>
                                                         </h4>
