@@ -14,6 +14,14 @@ $('.read-more').click(function() {
 
 /* Lock category pane to window (C) Cameron Doyle */ 
 $(window).scroll(function() {
+    lockCategoryPane();
+});
+
+$(window).resize(function() {
+    lockCategoryPane();
+});
+
+function lockCategoryPane(){
     if ((($(window).height()) > $('#category-list').height() + 100) && (($('#category-list').height() + 130) < $('#blog-archive').height()) && document.documentElement.clientWidth > 1040) {
         var archiveTop          = $('#blog-archive').offset().top;
         var archiveBottom       = archiveTop + $('#blog-archive').height();
@@ -33,7 +41,7 @@ $(window).scroll(function() {
         $("#category-list").removeClass("category-list-bottom");
         $("#category-list").removeClass("category-list-fixed");
     }
-});
+}
 
 /* Toggle blog categories on/off (C) Cameron Doyle */
 
