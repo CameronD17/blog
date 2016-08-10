@@ -126,14 +126,36 @@
     }
 }
 
-.category-list-fixed {
+#date-list {
+    display: table;
+    width: 240px;
+    margin: 0 auto;
+    
+    @include desktop {
+        position: absolute;
+        display: block;
+    }
+}
+
+
+.list-fixed {
     position: fixed !important;
     top: 100px;
     width: 20.83%;
     margin: 0;
 }
 
-.category-list-bottom {
+.list-bottom {
     position: absolute; 
     bottom: 0px;
+}
+
+.filter-toggle {
+    text-align: center;
+    font-style: italic;
+    width: 100%;
+}
+
+.filter-hidden {
+    display: none !important;
 }
