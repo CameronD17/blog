@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "Patience"
+date:       2016-08-12 10:00:00 +0000
+tags:       productivity
+---
+
+*"Good things come to those who wait."* Not a phrase that I've really lived by thus far. I always tend to take the immediate gratification route, rather than investing heavily in my future self. Screw him, he can deal with it when it gets to him.
+
+<!-- Read More -->
+
+## Marshmallows
+
+In the late 1960s and early 1970s, a psychologist at Stanford University by the name of Walter Mischel led a series of now-famous studies on delayed gratification in young children. In the studies, known as the [Stanford marshmallow experiment][stanford-marshmallow-experiment-wikipedia], a child was offered the choice between one small reward provided immediately (a marshmallow), or two small rewards (two marshmallows) if they waited a short while for them.
+
+The results of the study showed that approximately two-thirds of the children tested ate the marshmallow before the 15 minute window elapsed, and did not earn the second marshmallow. Only a little over 30% of the four- to six-year-olds could wait long enough to have the second treat.
+
+Okay, so what does this mean? On its own, not much - but in 1988 and 1990, Mischel performed follow-up experiments, and found that the children (now adolescents) who were able to delay gratification and wait for the second marshmallow were signifcantly more competent, had higher SAT scores, and were higher achievers in their chosen fields than those who could not.
+
+Delayed gratification is hard. Giving more importance to a theoretical, future version of yourself over the current, live, present version is a difficult trick. It's why people fail at diets and fitness regimes, and it's why people constantly leave projects unfinished. Putting time and effort in now with an aim of reaping rewards further down the line is a difficult decision.
+
+## Improvements
+
+Now, as a four-year-old, I would have been part of the group that ate the marshmallow early. I know that, it's who I am; it's my in-built tendency to put present-me ahead of future-me. However, by acknowledging this, I took the first step towards balancing myself out. 
+
+Two years ago, I was in a hole financially. Now, I'm happier and more secure with my money (thanks in no small part to [YNAB]({% post_url 2016-05-03-ynab %})), but that took sacrifice and perseverance. I did it for future me. 
+
+One year ago, [I quit smoking]({% post_url 2016-06-30-smoke %}). Not an easy task, it took a lot of willpower, and more than once politely declining the offer of a cigarette. I'm now a year smoke-free. I did it for future me.
+
+It's a balancing act, finding the right ratio of present-focus and future-focus. Some days I screw future me over, maybe by spending more money than I need to, maybe by over-indulging in a bad habit. But sometimes I need to do that, to keep my focus level.
+
+I have other small changes I'm making in a conscious effort to help my future self. It's a balancing act, but there are two important lessons I've learned along the way. Lesson one: don't change too much all at once. You'll burn out; take baby steps and focus on one improvement at a time. Lesson two: don't tell anybody your plans. If you tell people you're going to start working out, or quit smoking, *that counts as immediate gratification*. You take the endorphin rush from people supporting you, and then you never follow through. Do it, do it quietly, and let the results tell people, not your Facebook status.
+
+> *"I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'"* - Muhammad Ali
+
+[stanford-marshmallow-experiment-wikipedia]: https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment
