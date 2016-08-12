@@ -80,15 +80,14 @@ title:      Blog
                     <div id="filter-wrapper">
                         <ul class="list-inline filter-toggle">
                             <li><a class="filter-switch filter-on"><i class="fa fa-check-circle-o fa-fw"></i> Category</a></li>
-                            <li><a class="filter-switch filter-off"> <i class="fa fa-circle-o fa-fw"></i> Date</a></li>
+                            <li><a class="filter-switch filter-off"><i class="fa fa-circle-o fa-fw"></i> Date</a></li>
                         </ul>
                         <div class="post-divider"></div>
+                        <ul class="list-inline select-clear">
+                            <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
+                            <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
+                        </ul>
                         <div id="category-list">
-                            <ul class="list-inline select-clear">
-                                <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
-                                <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
-                            </ul>
-                            <div class="post-divider"></div>
                             <ul class="list-unstyled">
                             {% for tag in sortedtags %}
                                 <li><a class="category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %} ({{ site.tags[tag] | size }})</a></li>
@@ -96,16 +95,11 @@ title:      Blog
                             </ul>
                         </div>
                         <div id="date-list" class="filter-hidden">
-                            <ul class="list-inline select-clear">
-                                <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
-                                <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
-                            </ul>
-                            <div class="post-divider"></div>
                             <ul class="list-unstyled">
                             {% assign counter = 0 %}
                             {% for post in site.posts %}
-                                {% capture month %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-                                {% capture prevmonth %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
+                                {% capture month %}{{ post.date | date: '%b %Y' }}{% endcapture %}
+                                {% capture prevmonth %}{{ post.previous.date | date: '%b %Y' }}{% endcapture %}
                                 {% assign counter = counter | plus: 1 %}
                                 {% if month != prevmonth %}
                                     <li><a class="date selected" id="{{ post.date | date: '%b%Y' }}"><i class="fa fa-check-square fa-fw"></i> {{ post.date | date: '%b %Y' }} ({{ counter }})</a></li>
@@ -125,7 +119,7 @@ title:      Blog
                                 <td class="blog-teaser-title">No Posts Found</td>
                             </tr>
                             <tr>
-                                <td class="blog-teaser-excerpt">Please use the category filters on the right to select a category of posts to view, or click "Select All" to display the full archive of posts. The total number of posts in each category is listed in brackets next to the category name.</td>
+                                <td class="blog-teaser-excerpt">Please use the filters on the left to select a subset of posts to view, or click "Select All" to display the full archive of posts. The total number of posts in each filter is listed in brackets next to the filter name.</td>
                             </tr>
                             <tr>
                                 <td colspan="2"><div class="post-divider"></div></td>

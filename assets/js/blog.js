@@ -48,10 +48,11 @@ $(window).resize(function() {
 
 function lockFilterPane(){
     var filterList = $('#filter-wrapper');
+    var postList = $('#blog-archive');
     
-    if ((($(window).height()) > filterList.height() + 100) && ((filterList.height() + 130) < $('#blog-archive').height()) && document.documentElement.clientWidth > 1040) {
-        var archiveTop          = $('#blog-archive').offset().top;
-        var archiveBottom       = archiveTop + $('#blog-archive').height();
+    if ((($(window).height()) > filterList.height() + 100) && ((filterList.height() + 130) < postList.height()) && document.documentElement.clientWidth > 1040) {
+        var archiveTop          = postList.offset().top;
+        var archiveBottom       = archiveTop + postList.height();
         var categoryListBottom  = $(window).scrollTop() + filterList.height(); 
 
         if (($(window).scrollTop() >= archiveTop) && (categoryListBottom <= archiveBottom)) {   // Enter Archive
