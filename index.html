@@ -40,7 +40,7 @@ title:      Blog
             <div class="row">
                 <div class="col-md-8 col-md-offset-2 intro-bg">
                     <h1>Cameron Doyle - Blog</h1>
-                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ formattedtotalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>, can be read below. A full, date-sorted archive of posts is available at the bottom of this page.</p>
+                    <p>I've written a total of {{ postcount }} posts on this site, consisting of {{ formattedtotalwords }} words (an average of {{ totalwords | divided_by: postcount }} words per article). The most recent post, <a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>, can be read below. The full archive is available at the bottom of this page.</p>
                 </div>
             </div>
         </div>
@@ -77,40 +77,43 @@ title:      Blog
         <div class="row archive">
             <div class="col-lg-10 col-lg-offset-1">
                 <div class="col-lg-3 archive-left-side">
-                    <div id="category-list">
-                        <div class="filter-toggle"><a>(Filter by Date)</a></div>
-                        <h2>Categories</h2>
-                        <ul class="list-inline select-clear">
-                            <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
-                            <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
+                    <div id="filter-wrapper">
+                        <ul class="list-inline filter-toggle">
+                            <li><a class="filter-switch filter-on"><i class="fa fa-check-circle-o fa-fw"></i> Category</a></li>
+                            <li><a class="filter-switch filter-off"> <i class="fa fa-circle-o fa-fw"></i> Date</a></li>
                         </ul>
                         <div class="post-divider"></div>
-                        <ul class="list-unstyled">
-                        {% for tag in sortedtags %}
-                            <li><a class="category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %} ({{ site.tags[tag] | size }})</a></li>
-                        {% endfor %}
-                        </ul>
-                    </div>
-                    <div id="date-list" class="filter-hidden">
-                        <div class="filter-toggle"><a>(Filter by Category)</a></div>
-                        <h2>Dates</h2>
-                        <ul class="list-inline select-clear">
-                            <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
-                            <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
-                        </ul>
-                        <div class="post-divider"></div>
-                        <ul class="list-unstyled">
-                        {% assign counter = 0 %}
-                        {% for post in site.posts %}
-                            {% capture month %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-                            {% capture prevmonth %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
-                            {% assign counter = counter | plus: 1 %}
-                            {% if month != prevmonth %}
-                                <li><a class="date selected" id="{{ post.date | date: '%b%Y' }}"><i class="fa fa-check-square fa-fw"></i> {{ post.date | date: '%b %Y' }} ({{ counter }})</a></li>
-                                {% assign counter = 0 %}
-                            {% endif %}
-                        {% endfor %}
-                        </ul>
+                        <div id="category-list">
+                            <ul class="list-inline select-clear">
+                                <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
+                                <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
+                            </ul>
+                            <div class="post-divider"></div>
+                            <ul class="list-unstyled">
+                            {% for tag in sortedtags %}
+                                <li><a class="category selected" id="{{ tag }}"><i class="fa fa-check-square fa-fw"></i> {{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %} ({{ site.tags[tag] | size }})</a></li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                        <div id="date-list" class="filter-hidden">
+                            <ul class="list-inline select-clear">
+                                <li><a class="all-posts selectall"><i class="fa fa-plus-square fa-fw"></i> Select All</a></li>
+                                <li><a class="all-posts clearall"><i class="fa fa-minus-square fa-fw"></i> Clear All</a></li>
+                            </ul>
+                            <div class="post-divider"></div>
+                            <ul class="list-unstyled">
+                            {% assign counter = 0 %}
+                            {% for post in site.posts %}
+                                {% capture month %}{{ post.date | date: '%Y %b' }}{% endcapture %}
+                                {% capture prevmonth %}{{ post.previous.date | date: '%Y %b' }}{% endcapture %}
+                                {% assign counter = counter | plus: 1 %}
+                                {% if month != prevmonth %}
+                                    <li><a class="date selected" id="{{ post.date | date: '%b%Y' }}"><i class="fa fa-check-square fa-fw"></i> {{ post.date | date: '%b %Y' }} ({{ counter }})</a></li>
+                                    {% assign counter = 0 %}
+                                {% endif %}
+                            {% endfor %}
+                            </ul>
+                        </div>
                     </div>
                 </div>
                 <div id="post-list" class="col-lg-9 archive-right-side">

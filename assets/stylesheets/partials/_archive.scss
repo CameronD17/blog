@@ -115,7 +115,7 @@
     }
 }
 
-#category-list {
+#filter-wrapper {
     display: table;
     width: 240px;
     margin: 0 auto;
@@ -125,18 +125,6 @@
         display: block;
     }
 }
-
-#date-list {
-    display: table;
-    width: 240px;
-    margin: 0 auto;
-    
-    @include desktop {
-        position: absolute;
-        display: block;
-    }
-}
-
 
 .list-fixed {
     position: fixed !important;
@@ -152,7 +140,6 @@
 
 .filter-toggle {
     text-align: center;
-    font-style: italic;
     width: 100%;
 }
 

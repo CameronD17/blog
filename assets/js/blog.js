@@ -14,16 +14,27 @@ $('.read-more').click(function() {
 
 
 /* Switch between category and date filter */
-$('.filter-toggle').click(function() {
-    if ($('#category-list').hasClass('filter-hidden')) {        // Switch to categories
-        $('#category-list').removeClass('filter-hidden');
-        $('#date-list').addClass('filter-hidden');
-    } else {                                                    // Switch to dates
-        $('#date-list').removeClass('filter-hidden');
-        $('#category-list').addClass('filter-hidden');
+$('.filter-switch').click(function() {
+    if ($(this).hasClass('filter-off')) {
+        $('.filter-on').each(function() {
+            $(this).addClass('filter-off');
+            $(this).removeClass('filter-on');
+            $(this).find($(".fa")).removeClass('fa-check-circle-o').addClass('fa-circle-o');
+        });
+        $(this).addClass('filter-on');
+        $(this).removeClass('filter-off');
+        $(this).find($(".fa")).removeClass('fa-circle-o').addClass('fa-check-circle-o');
+        
+        if ($('#category-list').hasClass('filter-hidden')) {        // Switch to categories
+            $('#category-list').removeClass('filter-hidden');
+            $('#date-list').addClass('filter-hidden');
+        } else {                                                    // Switch to dates
+            $('#date-list').removeClass('filter-hidden');
+            $('#category-list').addClass('filter-hidden');
+        }
+        toggleAllPosts('on');
+        lockFilterPane();
     }
-    toggleAllPosts('on');
-    lockFilterPane();
 });
 
 /* Lock category pane to window (C) Cameron Doyle */ 
@@ -36,10 +47,7 @@ $(window).resize(function() {
 });
 
 function lockFilterPane(){
-    var filterList = $('#category-list');
-    if ($('#category-list').hasClass('filter-hidden')) {
-        filterList = $('#date-list');
-    }
+    var filterList = $('#filter-wrapper');
     
     if ((($(window).height()) > filterList.height() + 100) && ((filterList.height() + 130) < $('#blog-archive').height()) && document.documentElement.clientWidth > 1040) {
         var archiveTop          = $('#blog-archive').offset().top;
