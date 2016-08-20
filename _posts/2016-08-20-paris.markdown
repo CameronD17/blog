@@ -1,0 +1,54 @@
+---
+layout:     post
+title:      "Paris"
+date:       2016-08-20 16:00:00 +0000
+tags:       travel
+custom_js:  instagram
+---
+
+A little over six years ago, aged eighteen, I took my girlfriend to Paris for our one-year anniversary. It was the first time I'd made my own travel plans, and since then I've visited over twenty countries and forty cities, before returning earlier this week.
+
+<!-- Read More -->
+
+For the Edinburgh Fringe Festival, we rented our flat out to a theatre group for a week. As we had the time off and no plans, I looked online for cheap flights, with no destination in mind. As it happened, Air France had cheap flights to Paris from Newcastle, and as it was only a few days after our seven-year anniversary, we decided to book and revisit the first place we travelled to as a couple.
+
+In 2010, our Paris trip was much less last-minute. We booked a river cruise in advance, all our transportation and transfers, a window table in the Eiffel Tower on our anniversary itself. Our travel styles have changed somewhat since then though; this year we forwent the private transfer in favour of the train and Metro from the airport. We traded in the river cruise for a free walking tour, and the Eiffel Tower three-course meal for on-street cafés and bistros. The only real holdover from six years ago was the inveterate Hard Rock Café - a disappointment, to be honest. Food and service was nothing special, they didn't have a Local Legendary, and nearly 10EUR for a pint. Not the best Café to earn our 25th visit pin!
+
+We arrived early at Charles de Gaulle on our first of three days in Paris. A busy time as it turned out; it took nearly an hour to clear immigration, so by the time we caught the train into Paris city centre, it was already early afternoon. We headed straight to our hotel, [Hotel Val Girard][hotel-val-girard]; the same hotel we stayed in six years ago. It's had a revamp since then, but they've thankfully retained the comically small lift. The sign affixed to the lift claims that you can fit three people inside, but the sign is a lie; we could barely squeeze in the two of us, and we chose to take the stairs to our third-floor room most of the time. We showered and changed, then headed out towards the Metro station near the hotel. We bought a *carnet* of Metro tickets to get around, and used the first to get to the Hard Rock Café at the other side of the city for an easy start to our trip.
+
+After eating, we walked down through the 2nd *arrondissement* to Ile de la Cité to see Notre Dame, one of the major attractions that we skipped in 2010. The queues were still ridiculously long though, so we contented ourselves with walking around, before heading down towards Le Jardin du Luxembourg.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BJNa-lzAKj-/" target="_blank"></a>
+    </blockquote>
+</div>
+
+The heat at this point was unexpectedly high, so we caught the Metro back to our hotel to refresh, with plans to go out for a few drinks afterwards. It didn't quite work like that though; a combination of the heat and the early morning flight turned what was supposed to be a quick half-hour nap into a four-hour sleep. Nevermind; we woke bright and early on our second day, and caught the Metro to Place Saint-Michel for the 11am walking tour.
+
+Our walking tour was once again a [Sandeman's tour][sandemans-paris-tour], having had good experiences in [Brussels]({% post_url 2016-03-27-brussels %}) and [Lisbon]({% post_url 2016-06-15-lisbon %}). Our Paris tour guide, Oliver, exceeded all previous tour guides though, with a fantastically engaging history of Paris. He took us around Ile de la Cité, along the Seine, across the bridges and to the Musée du Louvre and Jardin des Tuileries. After the tour, we visited a relatively cheap café for lunch, and after parting ways with the tour group, headed west through Jardin des Tuileries.
+
+We crossed Place de la Concorde, and then walked the length of Avenue des Champs-Élysées under the warm Parisian sun to the Arc de Triomphe. As we did in 2010, we climbed the monument for free (likely for the last time, we're not getting any younger), and drank in the views of Paris from the top.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BJOIm_ZAY7b/" target="_blank"></a>
+    </blockquote>
+</div>
+
+After the Arc de Triomphe, we caught the Metro to Montparnasse, and headed up the huge Tour Montparnasse skyscraper for more spectacular views of the Paris cityscape. We sat at the floor-to-ceiling windows awhile, watching the city breathe below us. Eventually, we headed back down, and walked back to our hotel as the sun set in front of us. After showering and changing, we found a little Italian place near the hotel, and drank red wine before an early night, as we needed to be up by 7am the next morning.
+
+As planned, we woke early on our final full day in France, and took the Metro to Place du Châtelet and waited for our coach to arrive to take us to Disneyland. The day trip to Disneyland was my anniversary present for Sasha, so it wasn't a surprise, but she sat like an excited 10-year-old on the coach as we pulled into the park. The weather was forecast for thunderstorms all day, but luckily the rain held off and we stayed dry. We spent a few hours wandering around the Walt Disney Studios park, before heading across to the main Disneyland Park for the rest of the day.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BJSAE_2gAmL/" target="_blank"></a>
+    </blockquote>
+</div>
+
+It was surprisingly quiet, given that we visited in the middle of summer, and we barely queued for anything the whole time we were there. We rode Space Mountain: Mission 2 four times, the Rock 'n' Roller Coaster twice, as well as pretty much every other major attraction the park had to offer. We watched the parade of Disney characters pass through the park, before heading back to the coach to return to Paris.
+
+After Disneyland, we needed another early night to wake up in time for our morning flight home, so we headed straight back to the hotel. We watched the Eiffel Tower light up from our hotel room before we retired for the night. Paris is still just as magical as it was six years ago.
+
+[hotel-val-girard]: http://www.girard-hotel-paris.com/
+[sandemans-paris-tour]: http://www.neweuropetours.eu/paris/en/home
