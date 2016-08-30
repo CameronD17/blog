@@ -1,0 +1,55 @@
+---
+layout:     post
+title:      "LastPass"
+date:       2016-08-30 09:00:00 +0000
+tags:       productivity review
+---
+
+Two years ago, if you'd wanted to access any of my online accounts, you probably wouldn't have struggled. Rampant password reuse. Weak, low-entropy passwords. No two-factor authentication. I was an easy target.
+
+<!-- Read More -->
+
+2014 was a big year for me. I graduated from university. I backpacked across eastern Europe. I moved back to Edinburgh permanently. I started my first graduate job. Very busy. It was also a big year for major data breaches. [Heartbleed][heartbleed-wikipedia-link] was the first big scare, a security bug in OpenSSL in April 2014 while I was neck-deep in dissertation writing. In August, not long after I moved to Edinburgh, the infamous [Celebgate][celebgate-wikipedia-link] (or "The Fappening") occurred, where hundreds of private photographs were published on 4chan after a breach to Apple's iCloud. The final wake-up call was the [Sony hack][sony-hack-wikipedia-link] in November 2014, where confidential data and personal information was leaked, suspected to be perpetrated by North Korea. 
+
+## Password Managers
+
+At this point, I figured it was probably time I started taking security seriously, and stop reusing the same three passwords I'd used since I was thirteen. I started researching secure password management, and deciding on what features were most important to me.
+
+Most importantly for me (after security, obviously), I needed a password manager that would sync across devices, and could be accessed anywhere. I also wanted a seamless UX, where I would barely notice the password manager at all. I chose [LastPass][lastpass-homepage] initially because it ticked both of these boxes; it's also free, which made it easy to evaluate without committing fully.
+
+## Setting Up
+
+By far the most painful part of starting to use a password manager is the initial setup phase - importing all of your existing passwords into your vault. LastPass does give many options for importing existing passwords though, and I chose to start with any saved passwords I had in Chrome. This was an eye-opener, with LastPass's angry red interface telling me how weak my short, reused passwords were, imploring me to change them immediately. Fortunately, for most major sites LastPass provides an auto-change feature, updating your passwords with a single click to a randomly generated secure password. This helped get started; while the software went to work on the big players, I started working on the smaller sites that didn't have auto-update set up.
+
+Three hours later (yes seriously, I can see why people fall at the first hurdle), I'd imported and updated about 40 passwords. LastPass seemed happy with my progress, but I knew that I had a long way to go. There were still hundreds of websites out there that needed updating, I just didn't have them saved in Chrome. I decided that with the regularly used and important passwords changed, I'd just change the others as and when I logged into them again. Even now I still come across the odd site that hasn't been LastPass-ed and needs importing into my huge vault.
+
+So, having started my journey to a more secure online presence, I decided to check the rating LastPass gave my security. They have a Security Challenge that they encourage users to check regularly, which checks for weak, reused, and old passwords, as well as checking other security features you have in place. At this point I hadn't looked into the other features on offer, so my score was fairly low. Time for more security!
+
+## Two-Factor Authentication
+
+One of the more appealing features of LastPass, and one that is becoming more prevalent across the web too, is [two-factor authentication][multi-factor-wikipedia-link] (2FA). Briefly, 2FA is an additional security layer, requiring both something you *know* (in this case, your password) and something you *have* (such as a mobile phone or separate device of your choosing) to gain access. This way, even if your password is compromised, an attacker can't gain access to your account without the approval of your separate device (most people, myself included, use their phone as the second authentication layer). A common everyday example of 2FA is withdrawing money from a cash machine; you need both the bank card (what you have) and a PIN (what you know) to withdraw money.
+
+LastPass supports a wide range of multi-factor authentication tools. As this was my first foray into multi-factor authentication, I chose the one with the highest rating at the time, [Duo][duo-homepage]. After a painless setup, I now had to authenticate any logins to my LastPass vault via the Duo app on my phone before access would be granted. As I always have my phone on me, I am a) always able to access my account, and b) quickly able to see if there are any login attempts that I'm not aware of. Fortunately, that hasn't happened yet, but I can be safe in the knowledge that I'm protected if it were to happen. From their end, LastPass encrypts all data locally with 256-bit AES, so nothing is sent to the LastPass servers that could be read by a third-party. A more detailed overview on the encryption and salting can be found on [LastPass' 'How We Do It'][lastpass-how-we-do-it] page. 
+
+## Ongoing
+
+Now that I've spent a couple of years using a password manager, I don't think I could ever go back. I have to remember only a handful of strong, single-use passwords, including my master LastPass password, and I don't need to even know what the password is when I log in anywhere, as LastPass autofills the fields for me. LastPass also autogenerates strong passwords for new sites that I sign up to, removing the need to keep track of where I have accounts, as they are all stored in my vault. I have less to remember, and yet I'm so much more secure than I was previously, with an overall net increase in productivity, as it's one less thing to worry about. I consciously keep checking my LastPass security score every month or so to see if anything needs my attention, but as it's so well integrated into my workflow now, I don't really need to.
+
+![My LastPass score (as of this writing)]({{site.baseurl}}assets/img/lastpass-security-challenge.jpg)
+*My LastPass score (as of this writing)*
+
+If you don't already have a password manager, I would strongly advise you to get and use one. LastPass isn't the only option, and if you don't feel comfortable storing your passwords on a separate server, other services such as [KeePass][keepass-homepage] allow you to store your passwords locally only, although this obviously has the drawback of not being synced anywhere else. By using a password manager effectively, you can all but remove the threat of compromising your account (although a password manager can't necessarily protect against [social engineering attacks][wired-mat-honan-article]).
+
+Overall, I have been very pleased with LastPass and how well it has integrated into my everyday usage. I'm not sure how I survived with my poor security practices beforehand, and I would highly recommend trying it out for yourself. The web version is free, the only paid upgrade is for the mobile apps at $12/year, which as far as I'm concerned represents great value for money.
+
+*Note: I am not affiliated with LastPass in any way, but I will continue to recommend it for the impact it has had on my online security.*
+
+[heartbleed-wikipedia-link]: https://en.wikipedia.org/wiki/Heartbleed
+[celebgate-wikipedia-link]: https://en.wikipedia.org/wiki/ICloud_leaks_of_celebrity_photos
+[sony-hack-wikipedia-link]: https://en.wikipedia.org/wiki/Sony_Pictures_Entertainment_hack
+[multi-factor-wikipedia-link]: https://en.wikipedia.org/wiki/Multi-factor_authentication
+[lastpass-homepage]: https://lastpass.com/
+[lastpass-how-we-do-it]: https://lastpass.com/whylastpass_technology.php
+[duo-homepage]: https://duo.com/
+[keepass-homepage]: http://keepass.info/
+[wired-mat-honan-article]: http://www.wired.com/2012/08/apple-amazon-mat-honan-hacking
