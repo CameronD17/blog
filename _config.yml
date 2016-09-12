@@ -1,6 +1,6 @@
 # Site settings
 title: Cameron Doyle
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.camerondoyle.co.uk"
 homeurl: "http://camerondoyle.co.uk"
 permalink: /:title/

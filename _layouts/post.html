@@ -6,7 +6,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-custom" role="navigation">
             <div class="container">
-                <a href="{{ site.baseurl }}">Archive</a>
+                <a href="{{ site.baseurl }}/">Archive</a>
             </div>
         </nav>
         <!-- Page Content -->
@@ -26,7 +26,7 @@
                                             <div class="post-details intro-text">
                                                 {{ page.date | date: "%d %B %Y" }} | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
                                                 {% for tag in page.tags %}
-                                                    <a href="{{ site.baseurl }}#{{tag}}">{{tag}}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                                                    <a href="{{ site.baseurl }}/#{{tag}}">{{tag}}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                                 {% endfor %}
                                             </div>
                                         </div>
@@ -83,7 +83,7 @@
                                                     </table>
                                                     {% if tagsize > maxPosts %}
                                                         <h4>
-                                                            <a href="{{ site.baseurl }}#{{tag}}">More "{{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}" posts</a>
+                                                            <a href="{{ site.baseurl }}/#{{tag}}">More "{{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}" posts</a>
                                                         </h4>
                                                     {% endif %}
                                                 {% if page.tags.size != 1 %}</div>{% endif %}

@@ -14,14 +14,14 @@
     
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
     
-    <link rel="shortcut icon" href="{{ 'assets/img/favicon.ico' | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}"/>
     
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" type="text/css">
-    <link rel="stylesheet" href="{{ 'assets/stylesheets/external/bootstrap.min.css' | prepend: site.baseurl }}" type="text/css">
-    <link rel="stylesheet" href="{{ 'assets/stylesheets/external/bootstrap-theme.min.css' | prepend: site.baseurl }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/external/bootstrap.min.css' | prepend: site.baseurl }}" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/external/bootstrap-theme.min.css' | prepend: site.baseurl }}" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="{{ 'assets/stylesheets/main.css' | prepend: site.baseurl }}" type="text/css">
-    <link rel="alternate" href="{{ 'feed.xml' | prepend: site.baseurl }}"  type="application/atom+xml">
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/main.css' | prepend: site.baseurl }}" type="text/css">
+    <link rel="alternate" href="{{ '/feed.xml' | prepend: site.baseurl }}"  type="application/atom+xml">
 </head>
