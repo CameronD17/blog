@@ -24,7 +24,7 @@ Outcome: On and off. 5-a-side has been a constant Monday night feature, but I've
 
 > Zero cigarettes for 2015
 
-Outcome: I regressed into my bad habits in April, and started smoking again at social events. However, after a chance encounter in Cologne in June (which I will write about at a later date), I quit entirely, and have been smoke-free for six months now.
+Outcome: I regressed into my bad habits in April, and started smoking again at social events. However, after a [chance encounter in Cologne]({% post_url 2016-06-30-smoke %}) in June, I quit entirely, and have been smoke-free for six months now.
 
 > No alcohol outside of social events, and none at all for the first six weeks of the year.
 
