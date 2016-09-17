@@ -2,7 +2,8 @@
 layout:     post
 title:      "Local"
 date:       2016-09-11 21:00:00 +0000
-tags:       personal
+tags:       personal charlie
+custom_js:  instagram
 ---
 
 One year ago today, I collected the keys from the solicitors for our first flat. I'd already lived in Edinburgh for over a year at that point, but I didn't really [feel like a permanent resident]({% post_url 2016-03-09-home %}) of this great city while I was renting.
@@ -22,6 +23,12 @@ For our first date night, way back on November 2nd last year, I took Sasha to my
 Even with our newfound touring of the city, we still weren't fully 'connected'. We were still outsiders, foreigners, invaders; until April of this year, when [Charlie joined the family]({% post_url 2016-04-25-puppy %}). All of a sudden, we were talking to pretty much everyone in our neighbourhood. People love puppies, and it opened up conversations easily with new people. Charlie is six months old now, and we know all of the couple dozen people who walk their dogs at Saughton Park across the road from our flat. Or at least, we know the names of the dogs. Humans, not so much.
 
 To celebrate our one-year flat-iversary, we took Charlie to one of my favourite spots in the city; the peak of Arthur's Seat in Holyrood Park. We caught the bus to Lothian Road, then walked through the ever-busy Meadows and Newington to Holyrood Park. We headed up the steeper western ascent, pausing halfway to watch the [Riding of the Marches][riding-of-the-marches] procession heading along Queen's Drive towards the Royal Mile. Charlie proved his sure-footedness, leaping around the steep rocks and inclines with ease, stopping only to check that we hadn't fallen too far behind. As always, people stopped to make a fuss of him the whole way up (he loves the attention, so no complaining from him), including when we finally reached the extraordinarily busy peak. The winds were strong at the top as usual, so we didn't linger too long, instead heading down the easy eastern slope into Duddingston.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BKWTr2UgWX2/" target="_blank"></a>
+    </blockquote>
+</div>
 
 One of my favourite things about Edinburgh is the abundance of dog-friendly establishments. [The Sheep Heid Inn][the-sheep-heid-inn], Edinburgh's oldest pub, in Duddingston is one of them, and we called in for Sunday lunch. Charlie curled up and went to sleep under the table while we ate, as he usually does after a long walk. He's happy and content to sleep anywhere, as long as we're there with him.
 
