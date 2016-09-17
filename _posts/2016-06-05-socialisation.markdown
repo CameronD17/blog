@@ -27,5 +27,5 @@ Since starting his socialisation, I would estimate Charlie has met about a hundr
 
 Now that he's allowed to walk outside with us though, this has definitely gotten easier. Every morning, we take a walk around the cycle path near to the flat, which inevitably means meeting a lot of other dog walkers and commuting cyclists. He spends a lot of time off-leash, allowing him to interact with others at his own pace. Which tends to be a hundred miles an hour, but I suppose that's to be expected with a Border Collie. He's already becoming a friendly and sociable dog, which will hopefully continue on as he grows.
 
-![Charlie, with his new friends Penny and Barney]({{site.baseurl}}assets/img/socialisation-charlie-barney-penny.jpg)
+![Charlie, with his new friends Penny and Barney]({{site.baseurl}}/assets/img/socialisation-charlie-barney-penny.jpg)
 *Charlie, with his new friends Penny and Barney.*

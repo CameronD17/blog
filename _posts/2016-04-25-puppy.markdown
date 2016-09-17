@@ -29,7 +29,7 @@ Almost immediately after starting to look, we found a listing for Border Collie 
 
 Apparently, no, that's not how it works. As soon as I walked through the door and saw the five puppies playfighting on the floor, I knew I wasn't going home without one (so much for just window-shopping). But which one! I isolated the two unclaimed male puppies, and damn, it was a tough decision. But Charlie won my heart (even though he wasn't going to be called Charlie at this stage), and I claimed him there and then. However, he was only six weeks old at this point, and not quite ready to fly the nest just yet. So the waiting began!
 
-![Two remaining puppies, Charlie on the left]({{site.baseurl}}assets/img/puppy-charlie-decision.jpg)
+![Two remaining puppies, Charlie on the left]({{site.baseurl}}/assets/img/puppy-charlie-decision.jpg)
 *The two remaining male puppies. How do you choose?! (Charlie is on the left)*
 
 It was a long two weeks to wait for him. He had to have his initial injection and his microchip two days before we collected him, which gave us a whole fortnight to prepare. A very expensive fortnight as it turned out; I just couldn't resist buying everything for him. God knows what I'll be like if I ever have a child. But we got all sorted, and waited patiently for him to be ready.
@@ -38,12 +38,12 @@ It was a long two weeks to wait for him. He had to have his initial injection an
 
 We picked Charlie up at midday on Sunday, April 24th, 2016. He's still too young to go out for a walk as he hasn't yet had his final injections (due on May 20th), but as part of our preparation in the preceding two weeks, we'd puppy-proofed the garden with chicken wire, so he had a place to explore outdoors. 
 
-![Charlie in the garden on arrival day]({{site.baseurl}}assets/img/puppy-charlie-outside-ball.jpg)
+![Charlie in the garden on arrival day]({{site.baseurl}}/assets/img/puppy-charlie-outside-ball.jpg)
 *Charlie in the garden on arrival day*
 
 He actually spent the best part of four hours outside in the sun on his first day, exploring and playing with his new toys. He settled in remarkably quickly, no signs of stress or anxiety, and he already follows us around wherever we go. From the first time inside, he was content to sleep anywhere that we were, so we brought his crate into the living room to get him used to it, and lay his big blanket on the laminate flooring to nap on.
 
-![Tired Charlie after a long first day]({{site.baseurl}}assets/img/puppy-charlie-sleeping.jpg)
+![Tired Charlie after a long first day]({{site.baseurl}}/assets/img/puppy-charlie-sleeping.jpg)
 *Tired Charlie after a long first day*
 
 Having Charlie move in represents a turning point for me. Within the last two years, I've graduated from university, started my first professional job, bought my first flat; but Charlie feels like the first time I've had to be an 'adult', with all the responsibilities that come with taking care of another life. 

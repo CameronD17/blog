@@ -11,7 +11,7 @@ Having seen off the arguably strongest side in the tournament, we looked forward
 
 Of all the teams to lose to in the final though, Munich were probably the best we could have hoped for; they're a great side, and losing to them would be no shame. We'd already far exceeded our own and everyone else's expectations getting this far. If it ended here, so be it.
 
-![Pre-final lineup]({{site.baseurl}}assets/img/cgi-euros-2016-final-lineup.jpg)
+![Pre-final lineup]({{site.baseurl}}/assets/img/cgi-euros-2016-final-lineup.jpg)
 *Pre-final lineup*
 
 Not that we took that attitude onto the pitch though. Our captain, despite running out of positive motivational speeches, rallied the remains of the team in preparation for a final that was realistically within our grasp. Munich were missing their talismanic number 7 through injury, which took a lot of the pace and sting out of their attacking threat. If we could keep the remaining strikers neutralised, we'd give ourselves a fair shot.
@@ -26,7 +26,7 @@ I subbed myself off at this point. I'd taken a knock to my ankle in the London g
 
 I don't recall ever being so tense watching a game from the sidelines. It took a lot of willpower not to sub myself back onto the field to see the game out. Munich turned the dial up to 11 and fired barrage after barrage of attacks on our goal. We held firm, into added time in extra time now. Munich won a corner, surely their last chance of the game. The ball was swung in, headed goalwards. Hearts in mouths, our keeper palmed it backwards against the bar! We cleared our lines as the referee blew his whistle for full time. We'd actually done it! SCOTLAND ACTUALLY WON! WE'RE CHAMPIONS OF EUROPE!!
 
-![Tired but elated after the final whistle]({{site.baseurl}}assets/img/cgi-euros-2016-job-well-done-vs-munich-final.jpg)
+![Tired but elated after the final whistle]({{site.baseurl}}/assets/img/cgi-euros-2016-job-well-done-vs-munich-final.jpg)
 *Tired but elated after the final whistle*
 
 ---
@@ -38,7 +38,7 @@ I don't recall ever being so tense watching a game from the sidelines. It took a
 
 It didn't really sink in straight away. We weren't used to still being sober at this point; usually we'd head straight to the bar after being knocked out. This was uncharted territory. We walked off the pitch to a standing ovation from the remaining teams - everybody loves an underdog. We sheepishly looked around, not entirely sure how to handle the situation. It felt a little surreal. We returned to the main area for the trophy presentation and awarding of medals. Last years winners, France, after a shock exit in the group stages, had won the Europa Vase tournament.
 
-![Celebrating our win with the Europa Vase winners, France]({{site.baseurl}}assets/img/cgi-euros-2016-celebrating-with-france.jpg)
+![Celebrating our win with the Europa Vase winners, France]({{site.baseurl}}/assets/img/cgi-euros-2016-celebrating-with-france.jpg)
 *Celebrating our win with the Europa Vase winners, France*
 
 ### Final Positions

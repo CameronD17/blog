@@ -38,7 +38,7 @@ The CGI Euros are played with 16 teams over two days, with the group stages on t
 
 We were drawn in arguably the toughest group (perhaps as tough as Group D, with last years 1st and 3rd place finishers in France and London). With this in mind, we weren't hoping for too much from the group stages; we agreed that a win against Birmingham in the tournament opener would define whether we progressed to the European Championship or the Europa Vase on the Sunday.
 
-![Pre-tournament team photo of Scotland]({{site.baseurl}}assets/img/cgi-euros-2016-team-photo.jpg)
+![Pre-tournament team photo of Scotland]({{site.baseurl}}/assets/img/cgi-euros-2016-team-photo.jpg)
 *Pre-tournament team photo of Scotland*
 
 ### Opening fixture vs Birmingham
@@ -71,7 +71,7 @@ Each team started to open up after the equaliser in search of a winner, but both
 
 The draw with Birmingham, while not disastrous, left us with a tough run for the remainder of the group. In Game Two, we played our old friends Munich, who we met and played against in Frankfurt in 2015. They came out of the blocks fast, with a pacey front three causing problems for our defensive line. We held out for the majority of the first half, until a controversial decision by the linesman to allow an offside through-ball to stand, leading to the opening goal of the game.
 
-![Disappointment after conceding against Munich]({{site.baseurl}}assets/img/cgi-euros-2016-disappointment-vs-munich.jpg)
+![Disappointment after conceding against Munich]({{site.baseurl}}/assets/img/cgi-euros-2016-disappointment-vs-munich.jpg)
 *Disappointment after conceding against Munich*
 
 Slightly demoralised and feeling a little cheated, we got our heads up and started strongly in the second half. The game stayed much more even in the centre of the pitch, but the Germans made good use of their speed along the flanks, and two good balls split the centre-backs twice in quick succession, both leading to good finishes. Undeterred, we finished strong and were unlucky to get a consolation goal for our efforts. The Germans saw the game out, and finished up worthy winners.
@@ -96,7 +96,7 @@ The defeat against Munich all but ended our chances of progressing to the Europe
 
 We started off incredibly strong against PT Sintra, with a fantastic solo effort from our attacking midfielder providing the opening goal within the first two minutes of the game. 1-0 to Scotland! The goal woke up the Portuguese side though, and they launched wave after wave of attack against the Scotland goal; but we stood firm and defended well, and managed to scramble a second goal home after a swift counter-attack, taking the two-goal lead in at half-time.
 
-![Defending well against Sintra]({{site.baseurl}}assets/img/cgi-euros-2016-action-vs-pt-sintra.jpg)
+![Defending well against Sintra]({{site.baseurl}}/assets/img/cgi-euros-2016-action-vs-pt-sintra.jpg)
 *Defending well against Sintra*
 
 Legs were getting tired in the second half after nearly two-and-a-half hours of football in the thirty degree heat of Lisbon. The Portuguese, being used to this, didn't show many signs of slowing and a moment of magic from their winger pulling back a wonderful ball after a mazy run saw them pull a goal back. This only steeled our resolve however, and we managed to hold onto our lead until the final whistle blew. We'd done everything we could; now it was over to the Germans to see us through as group runners-up.

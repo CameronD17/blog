@@ -15,7 +15,7 @@ The Portuguese side started strongly, but did not enjoy the physical side of the
 
 Given the quality of their defence, I imagine that this was more due to their forwards preventing any attacks from starting rather than their defence working well together. After the goal, the Portuguese side regrouped, dropping a winger into central midfield to protect the defence, and allowing the remaining three up-front to cause havoc. In turn, we sat deep and absorbed the pressure, and held on until half-time - thanks in no small part to our goalkeeper, pulling off some fantastic saves.
 
-![Holding our positions against AMS]({{site.baseurl}}assets/img/cgi-euros-2016-action-vs-pt-ams.jpg)
+![Holding our positions against AMS]({{site.baseurl}}/assets/img/cgi-euros-2016-action-vs-pt-ams.jpg)
 *Holding our positions against AMS*
 
 The second half started much the same as the last, with Scotland looking to hold the ball up and see the game out, while absorbing the pressure from the AMS attacks. Our opponents switched to a lone striker formation, choosing to play the ball through the ranks, rather than try to play high balls against our towering back line. This worked in our favour, and we defended extremely well until the very last kick of the game, when we were split open by a mis-hit through ball, which landed at their strikers feet and he dispatched the shot into the bottom corner. 1-1, and a very frustrating end to a game in which we had held out for so long.
@@ -43,7 +43,7 @@ Our celebrations were short-lived, however, as we learned that we'd drawn the to
 
 It paid off immediately, as we scored from our first corner of the game in the opening minutes. London, it seemed, had underestimated this Scotland side, and weren't expecting this game to be much more than a formality. We had awoken the beast, and prepared ourselves for the inevitable onslaught. We had a 1-0 advantage though, and we were determined to hold onto our lead. We split the central midfield to help the defence, and began playing essentially a 4-2-3-1 formation. It paid off, as a combination of distance strikes off-target and some solid defending kept the scoreline the same for most of the first half.
 
-![Defending a high ball against a London attack]({{site.baseurl}}assets/img/cgi-euros-2016-high-ball-vs-london.jpg)
+![Defending a high ball against a London attack]({{site.baseurl}}/assets/img/cgi-euros-2016-high-ball-vs-london.jpg)
 *Defending a high ball against a London attack*
 
 We were pinned back with wave after wave of attacks, barely getting the ball out of our own half. After we lost the ball in a rare counter-attack, London showed their pace with a ball over the top taking our full-backs out of the game. Two vs two, I showed their striker the wing, but a fortunate bounce from the tackle sent him away on a run into the area. He pulled back to try and cross to his strike partner, but his pace threw him off-balance, and he sliced the ball, wrong-footing our goalkeeper as the ball trickled painfully into the net. 1-1.

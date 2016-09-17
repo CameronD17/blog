@@ -25,7 +25,7 @@ More importantly, Charlie also learned to walk on a loose leash (i.e. not pullin
 
 Charlie has learned a lot at his classes, but more importantly seems to enjoy them immensely, and I've already signed him up to do some advanced training starting in September.
 
-![Charlie with his graduation rosette]({{site.baseurl}}assets/img/puppy-training-charlie-graduation.jpg)
+![Charlie with his graduation rosette]({{site.baseurl}}/assets/img/puppy-training-charlie-graduation.jpg)
 *Charlie with his graduation rosette*
 
 > Charlie's puppy training (and his upcoming Progress training) is with [Karen's DOGS][karens-dogs-link] in Livingston, and I would highly recommend her as a trainer.
