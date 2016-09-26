@@ -1,0 +1,54 @@
+---
+layout:     post
+title:      "Growing"
+date:       2016-09-26 10:00:00 +0000
+tags:       charlie
+custom_js:  instagram
+---
+
+Five months ago on Saturday, Charlie came home with us from his birthplace in East Lothian for the first time. Since he was vaccinated and able to go for walks outside, we've taken him to so many places we hadn't been before, and might not have been without him.
+
+<!-- Read More -->
+
+Initially, we couldn't take him too far, as too much exercise for developing puppies can damage their joints and developing bone structure. The rule of thumb often passed around is [five minutes per month of age][kennel-club-puppy-walking] while the dog is still growing (so a three month old puppy should be out for no more than 15 minutes, up to twice a day). We stuck loosely to this rule; as he's from working stock, he needs more exercise than a Chihuahua or terrier of the same age would need, but we were careful not to overdo it nonetheless.
+
+Our exploring was restricted at first to the nearby park, and the cycle path around the golf course across the road. Both places are popular with dog walkers, which helped immeasurably with his [socialisation]({% post_url 2016-06-05-socialisation %}) (everyone stops to see a puppy), and helped him develop confidence around other people, cyclists, joggers, and animals. Even now, we typically go to the park at least once a day to throw a tennis ball around and let Charlie [see his friends]({% post_url 2016-09-11-local %}).
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BF4VN7tA9h4/" target="_blank"></a>
+    </blockquote>
+</div>
+
+As he's grown older and bigger, we've been able to take him further afield in Edinburgh, such as up Corstorphine Hill to Rest-and-Be-Thankful (my favourite vantage point of the city), into the city centre, along the Water of Leith and along Union Canal (he's slowly getting used to swimming, but he's still not confident enough to go too far out). His recall is at a good standard, so we tend to let him off-leash wherever possible, although not yet along main roads. 
+
+We've also taken him exploring in other areas like Livingston for his [training classes]({% post_url 2016-08-06-puppy-training %}) and [back home]({% post_url 2016-03-09-home %}) in Blyth. In August when Sasha and I went to [Paris]({% post_url 2016-08-20-paris %}), Charlie spent the week in Blyth with my family's puppy Penny; playfighting with her is, I think, his favourite pastime.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BJVU6O0gfxr/" target="_blank"></a>
+    </blockquote>
+</div>
+
+In the past six weeks or so in particular, we've hunted out dog-friendly pubs and cafés in the city to take Charlie to (my personal favourite is the Red Squirrel on Lothian Road, great burgers). Before we got Charlie, I hadn't really realised how dog-friendly Edinburgh is, but so many places we've come across are happy to let dogs in if you ask. It helps that he's well-behaved, but even so we tend to tire him out before we go, even if just to give us some peace and quiet while we eat and drink.
+
+Two weeks ago was the first weekend for months that I'd had no plans, so Charlie and I headed to the beach at Cramond for only the second time (although we have been to other beaches back home). Earlier this year, I visited Cramond regularly on a Saturday morning to do [parkrun][edinburgh-parkrun] (I really must get back into that habit), but I haven't really been since then. Charlie had a great time, even though the tide was in so we couldn't visit Cramond Island, playing with dogs and chasing his tennis balls along the shoreline. It was the first time I'd really noticed that people have stopped seeing him as a puppy, and more like a fully-grown dog; in fairness, he is already the size of an adult Border Collie despite only being six months old.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BKLMqmbglYJ/" target="_blank"></a>
+    </blockquote>
+</div>
+
+Yesterday, we took the bus out to Portobello so he could explore yet another beach. We saw plenty of other dogs and their owners doing the same thing, and aside from the odd retreiver or German Shepherd, he towered over most of the dogs he met. He's still not quite fully aware of his size, but he's starting to be gentler with smaller dogs when he's playfighting at least (this courtesy doesn't extend to bigger dogs; his friend Roxie the German Shepherd still feels the full force of his strength whenever they meet).
+
+I'm not sure I like the fact that he's not really a puppy anymore; I imagine this is what parents feel like when their kids grow up into teenagers. He's still young, and we still have many more adventures together ahead of us, but I'm going to miss hearing the excited squeal of fully grown adults when we're out for a walk together: "aww look at the puppy!". 
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BKx2T9zAZgL/" target="_blank"></a>
+    </blockquote>
+</div>
+
+[kennel-club-puppy-walking]: http://www.thekennelclub.org.uk/getting-a-dog-or-puppy/general-advice-about-caring-for-your-new-puppy-or-dog/puppy-and-dog-walking/
+[edinburgh-parkrun]: http://www.parkrun.org.uk/edinburgh/
