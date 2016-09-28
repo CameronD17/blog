@@ -1,0 +1,25 @@
+        <!-- Navigation -->
+        <nav class="navbar navbar-custom" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                        <i class="fa fa-bars fa-lg"></i>
+                    </button>
+                </div>
+                <div class="navbar-collapse collapse navbar-main-collapse">
+                    <ul class="nav navbar-nav navbar-left">
+                        <li>
+                            <a href="{{ site.baseurl }}/">Cameron Doyle</a>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="{{ '/about' | prepend: site.baseurl }}">About</a>
+                        </li>
+                        <li>
+                            <a href="{{ '/contact' | prepend: site.baseurl }}">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
