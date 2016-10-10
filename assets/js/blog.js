@@ -97,6 +97,7 @@ $('.all-posts').click(function() {
 $('.archive-filter').click(function() {
     var category = $(this).attr('class').split(' ')[1];
     toggleSingleCategory(category);
+    clearHash();
 });
 
 // Click category on external page (e.g. blog post)
@@ -109,6 +110,10 @@ function archiveFilterFromHash() {
 
 
 /* Toggle blog categories helper functions */
+
+function clearHash() {
+    history.pushState('','', window.location.pathname);
+}
 
 function scrollToTop() {
     $('html, body').animate({
@@ -123,7 +128,6 @@ function applyToggles() {
             $(this).addClass('hidden');
         }
     });
-    
     
     // Loop through the blog posts, and un-hide any blog posts that match any selected filter
     var filterList = $('#category-list');
@@ -218,6 +222,7 @@ function toggleFilter(filter) {
     }
     
     applyToggles();
+    clearHash();
 }
 
 function toggleSingleCategory(categoryFilter) {
@@ -295,5 +300,6 @@ function toggleAllPosts(toggle) {
         if($("#no-blog-posts").hasClass("hidden")) {
             $("#no-blog-posts").removeClass("hidden");
         }
-    }    
+    }
+    clearHash();
 }
