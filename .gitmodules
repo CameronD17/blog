@@ -1,0 +1,3 @@
+[submodule "slidemenu"]
+	path = slidemenu
+	url = https://github.com/CameronD17/menu
