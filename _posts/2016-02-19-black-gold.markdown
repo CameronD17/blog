@@ -2,7 +2,7 @@
 layout:     post
 title:      "Black Gold"
 date:       2016-02-19 12:00:00 +0000
-tags:       interests coffee
+tags:       coffee
 ---
 
 I am a relative newcomer to the world of good quality coffee. Growing up, all that was available in our house were the cheap jars of instant, only ever used if we had guests who did not drink tea. I suspect this is a fairly common arrangement in most households in Britain, because what sort of primitive animal doesn't drink tea?

@@ -2,7 +2,7 @@
 layout:     post
 title:      "Unfocused"
 date:       2016-01-11 15:00:00 +0000
-tags:       productivity personal
+tags:       productivity
 ---
 
 I am the worst person in the world when it comes to procrastination. Combined with a short attention span, it's a wonder I ever get anything done. Even right now, I have Netflix playing in the background, and I've rewritten this sentence three times already because I can't concentrate without looking up every five seconds. Damn.

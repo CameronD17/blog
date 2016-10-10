@@ -2,7 +2,7 @@
 layout:     post
 title:      "CGI Euros - The Final"
 date:       2016-06-23 15:15:00 +0000
-tags:       personal events
+tags:       events
 ---
 
 Having seen off the arguably strongest side in the tournament, we looked forward to the final against Munich with a relatively relaxed attitude. The semi final had taken its toll on all of us; many players weren't convinced they could play another game, let alone win. 
