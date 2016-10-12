@@ -23,7 +23,7 @@ As the weeks progressed, Charlie also learned other important commands, includin
 
 More importantly, Charlie also learned to walk on a loose leash (i.e. not pulling), and also how to calmly interact with other dogs whilst out exploring. He's also learning to walk away from dogs when called, even if he is in the middle of a play session or a chase; we're not 100% there with this yet, but the majority of the time he will come when called. We also covered handling and grooming techniques, but as he's a confident and outgoing dog already, these didn't prove to be any real challenge for us to master.
 
-Charlie has learned a lot at his classes, but more importantly seems to enjoy them immensely, and I've already signed him up to do some advanced training starting in September.
+Charlie has learned a lot at his classes, but more importantly seems to enjoy them immensely, so I've already signed him up to do some [advanced training]({% post_url 2016-10-12-progress-training %}) starting in September.
 
 ![Charlie with his graduation rosette]({{site.baseurl}}/assets/img/puppy-training-charlie-graduation.jpg)
 *Charlie with his graduation rosette*
