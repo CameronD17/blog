@@ -2,7 +2,7 @@
 layout:     post
 title:      "Respecting Your Reader"
 date:       2016-09-07 09:00:00 +0000
-tags:       technology
+tags:       development
 ---
 
 There are two things that I consider to be disrespectful to the reader when browsing online; intrusive advertising, and excessive page-weight. Both tell me exactly what the author or page-owner thinks of their audience, and it isn't positive.
