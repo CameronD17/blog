@@ -1,0 +1,48 @@
+<div id="scoped-slide-menu">
+    <style type="text/css" scoped>
+        #scoped-slide-menu html, body {height: 100%; padding: 0;  margin: 0; font-family: 'Open Sans',sans-serif; font-size: 100%;}
+        #scoped-slide-menu .wrapper{overflow:hidden;}
+        #scoped-slide-menu #side-menu-about{background: #004870;}
+        #scoped-slide-menu #side-menu-blog{background: #D00000;}
+        #scoped-slide-menu #side-menu-projects{background: #008000;}
+        #scoped-slide-menu #side-menu-now{background: #4B0082;}
+        #scoped-slide-menu .side-menu-block-level {float:left; text-align: center; color: #FFF; width: 100%; height: 25%; opacity: 0.75; position: relative;}
+        #scoped-slide-menu .side-menu-block-level:hover {opacity: 1.0;}
+        #scoped-slide-menu .side-menu-block-level h1 {margin: 0; position: absolute; top: 50%; left: 47.5%; transform: translate(-50%, -50%)}
+        #scoped-slide-menu .side-menu-block-level p {text-align: center; font-style: italic; margin: 0; position: absolute; top: 80%; left: 47.5%; transform: translate(-50%, -50%)}
+        #scoped-slide-menu .side-menu-block-link a {position: absolute; width: 100%; height: 100%; top: 0; left: 0; text-decoration: none; z-index:9900; background-color: #FFF; opacity: 0;}
+        #scoped-slide-menu .side-menu-nav{position:fixed; top:0; left:0; width:50%; height:100%; margin:0 0 0 -49%; -moz-transition:all 250ms ease-in; -webkit-transition:all 250ms ease-in; -o-transition:all 250ms ease-in; transition:all 250ms ease-in; z-index: 9900;}
+        #scoped-slide-menu .side-menu-nav ul{width:100%; height:100%; padding:0; margin:0; list-style:none; background:#FFF; overflow:hidden;}
+        #scoped-slide-menu .side-menu-nav li{height: 25%; margin:0;}
+        #scoped-slide-menu .side-menu-label{font-size:2em; display:table; vertical-align: middle; width:20px; height:100%; position:fixed; float:left; padding-left: 1.5%; z-index:10000; -moz-transition:all 250ms ease-in; -webkit-transition:all 250ms ease-in; -o-transition:all 250ms ease-in; transition:all 250ms ease-in;}
+        #scoped-slide-menu .side-menu-label:hover {font-size: 2.25em;}
+        #scoped-slide-menu #chevron-for-side-menu {display:table-cell; vertical-align: middle; width: 20px; text-align: right;}
+        #scoped-slide-menu input[type="checkbox"]{display:none;}
+        #scoped-slide-menu input[type="checkbox"]:checked ~ nav{margin:0;}
+        #scoped-slide-menu input[type="checkbox"]:checked ~ label{left:50%; z-index:9800; background: rgba(54, 54, 54, .5); width:50%;}
+        #scoped-slide-menu input[type="checkbox"]:checked ~ label > span{padding-right: -1.5%; -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg); -ms-transform: rotate(180deg); transform: rotate(180deg);}
+    </style>
+    <div class="wrapper">
+        <input type="checkbox" id="navigation" />
+        <label class="side-menu-label" for="navigation">
+            <span id="chevron-for-side-menu">&#xbb;</span>
+        </label>
+        <nav class="side-menu-nav">
+            <ul>
+                <li id="side-menu-about"  class="side-menu-block-level side-menu-block-link">
+                    <h1>About</h1><a href="http://camerondoyle.co.uk"></a>
+                </li>
+                <li id="side-menu-blog"  class="side-menu-block-level side-menu-block-link">
+                    <h1>Blog</h1><a href="http://blog.camerondoyle.co.uk"></a>
+                </li>
+                <li id="side-menu-projects"  class="side-menu-block-level side-menu-block-link">
+                    <h1>Projects</h1><a href="http://projects.camerondoyle.co.uk"></a>
+                </li>
+                <li id="side-menu-now"  class="side-menu-block-level side-menu-block-link">
+                    <h1>Now</h1><a href="#"></a>
+                    <p>Coming Soon</p>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
