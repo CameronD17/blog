@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Bokeh"
+date:       2016-10-31 14:15:00 +0000
+tags:       personal
+---
+
+For as long as I can remember, I've worn contact lenses on a daily basis, to the point I sometimes forget what my vision is actually like without assistance. In the wild, I'd have been killed off long ago by a predator I couldn't see coming.
+
+<!-- Read More -->
+
+I've worn contact lenses every day for about ten or twelve years now, and in just about every form they come in; daily disposable, monthly, continuous wear. My vision has leveled out in my twenties at -4.00 sphere (I'm very short-sighted, my focal length is about a foot or so in front of my face), although as a child I started out somewhere around -2.00. I never really liked wearing glasses, and for about four or five years until earlier this year, I didn't even own a pair that matched my prescription; I was relying entirely on contact lenses to see. In fact, I only updated my glasses this year because they were heavily discounted when bought alongside my contact lens [subscription]({% post_url 2016-09-28-subscriptions %}). As I wear continuous wear lenses now that can be worn 24 hours a day and slept in, I felt I should at least occasionally take them out to give my eyes rest, and avoid overworking the epithelial oxygen uptake of my corneas. I now wear my glasses about one day a week, or for a full weekend if I don't have any plans. 
+
+## HD Vision
+
+Almost without fail, the thing people first notice after being prescribed glasses is that they can see individual leaves on trees. I was the same, when I was younger I didn't know that trees weren't just blurry green masses to everyone else; having your sight corrected properly is like seeing things in high definition for the first time. Without correction, I wouldn't be able to drive, play football, recognise faces, or perform any task that required seeing things further away than I can reach. It's oddly terrifying that in a zombie apocalypse, my survival would almost certainly hinge on whether or not I had my glasses on.
+
+Now that winter is approaching, British Summer Time is over, the clocks have been put back, and nights are getting darker, I've bought [Charlie][charlie-blog-filter] a flashing LED collar to wear when I take him for walks in the evening. His favourite park is unlit, and as a predominantly black dog that likes to forage through the woods, it gives me a sense of security that I can still see his collar flashing in the darkness, even if I can't actually see him. With my glasses, I can make out each individual LED light on his collar, even when he's a full football pitch away in the distance. On quiet nights, when the only sound is the traffic passing in the distance, I like to stand in the middle of the park, and take off my glasses. The streetlights immediately increase tenfold in size. Charlie and his bright collar disappear and are replaced by a two-foot wide ball of indistinguishable red light. The world looks like I'm viewing it through a rainy window. It's strangely calming, essentially removing one of my senses; it should be scary, yet it isn't. It's soothing.
+
+![Bokeh Cityscape]({{site.baseurl}}/assets/img/bokeh-skyline.jpg)
+*Source: [Pexels][pexels-photo-link]. Licensed under the [Creative Commons Zero (CC0) license][creative-commons-zero-licence].*
+
+[charlie-blog-filter]: http://blog.camerondoyle.co.uk/#charlie
+[pexels-photo-link]: https://www.pexels.com/photo/lights-out-of-focus-bokeh-night-37016/
+[creative-commons-zero-licence]: https://creativecommons.org/publicdomain/zero/1.0/
