@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "Everyday Carry"
+date:       2016-11-10 19:00:00 +0000
+tags:       minimalism
+---
+
+When I was in middle school, like a lot of kids at the time, I had about a dozen keyrings on my keys. Or rather, key, singular. Maybe it's just part of the ritual of being entrusted with the Front Door Key for the first time that makes you feel the need to carry half a kilo of plastic along with the single, lonely key, lest you forget and leave it somewhere.
+
+<!-- Read More -->
+
+It didn't stop in middle school either. After I turned 18 and started going out in bars and clubs regularly, I'd inevitably end up buying a keyring from the ubiquitous photographers patrolling the dancefloor (looking at you [I AM VIP][i-am-vip-newcastle]). At one point I think I had about ten of the same style keyring; cheap plastic with a dark photo of my drunk self and whoever I happened to be with at the time. Why does a fiver sound reasonable when you're on your sixth Jäger? All they did was get in the way, but I still hauled them around for a good couple of years. Fortunately, I've seen sense since then, and my keys have just one keyring left; a steel, guitar-shaped bottle opener that I've had almost a decade now, as well as two loyalty-card keyrings for two of the stores I visit most often.
+
+My wallet was another criminally-overstuffed behemoth that I dragged around with me everywhere. Literally splitting at the seams, I never ever took anything out of it. Expired bank cards, loyalty cards for places that closed down months ago, old receipts for products I no longer had. Obscenely full. I only ever used about 10% of the contents, the rest were there 'just in case'.
+
+Around the time of my final year of university, my old wallet finally gave out. I figured this would be a good time to take stock of what I actually needed to be carrying around with me all of the time. This wasn't long after I [really started thinking about minimalism as a lifestyle]({% post_url 2016-05-24-minimalism %}); I was moving around a lot, four addresses in three years made me conscious of what I owned. 
+
+To start with, I simply bought a standard wallet from Topman or Burton or somewhere else that gave student discount (I was still living in my overdraft at this stage, so nothing flash) and tried to make myself be strict with what I carried. As I was still at University and a [regular at Campus Coffee]({% post_url 2016-02-19-black-gold %}), I still carried around a half dozen of their loyalty cards, as well as my student card, drivers licence, three bank cards, and a couple of other miscellaneous cards like my blood/organ donor cards, National Insurance number, and a handful of occassionally-used loyalty and discount cards (my [Propaganda][propaganda-events] card sticks out in my mind as one that made the cut).
+
+Most of these still weren't really necessary though. After moving to Edinburgh permanently, I bought a phone case wallet with space for just two credit cards in order to force myself to prioritise. I chose my drivers licence and credit card to carry with me to start, but it became obvious that two slots wasn't quite enough, and overstuffing the case along with my phone made it too bulky to carry comfortably in my pocket. About 18 months ago, I switched to a [minimalist wallet][space-wallet-amazon] to carry alongside my phone. I pared down my cards to just five; my drivers licence, bank card, credit card, 16-25 railcard, and my Cineworld Unlimited card. I still have another ten or so in my wardrobe because they're necessary, but not to be used on a regular basis (such as my blood donor card).
+
+So now, my everyday carry in all of its glory. My phone (LG G3, due to be upgraded in January), my Spacewallet with five cards and the occasional fiver, and my house keys with the single keyring and loyalty cards. Everything I need and nothing I don't.
+
+![Everyday Carry]({{site.baseurl}}/assets/img/everyday-carry.jpeg)
+*My everyday carry for the last year*
+
+[i-am-vip-newcastle]: https://www.facebook.com/iamvip.newcastle/
+[propaganda-events]: http://www.thepropaganda.com/events/
+[space-wallet-amazon]: https://www.amazon.co.uk/Small-tiny-practical-wallet-leather/dp/B00VV8S9ZS/
