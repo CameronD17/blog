@@ -9,7 +9,7 @@ While I am in no way a connoisseur of fine coffee (not yet anyway), I can defini
 
 <!-- Read More -->
 
-Way back in 2014, I realised that the ongoing consumption of decent coffee was starting to cripple my finances. A good quality coffee machine was starting to sound like a good investment - however, with £500+ price tags, it was not a decision to be taken lightly. I spent a few months researching different models and styles for my new place in Edinburgh, but along the way I came across a magical invention - the AeroPress.
+Way back in 2014, I realised that the ongoing consumption of decent coffee was starting to cripple my finances. A good quality coffee machine was starting to sound like a good investment - however, with £500+ price tags, it was not a decision to be taken lightly. I spent a few months researching different models and styles for my new place in Edinburgh, but along the way I came across a magical invention - the [AeroPress]({% post_url 2016-11-14-aeropress %}).
 
 ## AeroPress
 
