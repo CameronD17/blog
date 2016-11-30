@@ -39,6 +39,20 @@
                         <section class="content-section">
                             <div class="container">
                                 <div class="col-lg-10 col-lg-offset-1">
+                                    {% for tag in page.tags %}
+                                        {% if tag == "projects" %}
+                                            {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+                                            {% capture posted %}{{page.date | date: '%s'}}{% endcapture %}
+                                            {% assign diff = now | minus: posted %}
+                                            {% if diff > 15780000 %}
+                                                <blockquote class="old-project">
+                                                    <p>
+                                                        This post discusses a project that is over six months old. This project may not have been maintained much since then, and the content or links <em>may</em> be out of date.
+                                                    </p>
+                                                </blockquote>
+                                            {% endif %}
+                                        {% endif %}
+                                    {% endfor %}
                                     {{ content }}
                                     {% for tag in page.tags %}
                                         {% if tag == "charlie" %}

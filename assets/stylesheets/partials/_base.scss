@@ -107,3 +107,20 @@ tbody {
     vertical-align: super;
     font-size: 80%;
 }
+
+.old-project {
+    border-left: 10px solid $link-colour !important;
+    background: $accent-colour-muted;
+    padding-left: 40px;
+    
+    &:before {
+        color: $link-colour;
+        font-size: 40px;
+        font-weight: 800;
+        content: "!";
+        position: absolute;
+        left: 40px;
+        vertical-align: center;
+        padding-top: 0;
+    }
+}
