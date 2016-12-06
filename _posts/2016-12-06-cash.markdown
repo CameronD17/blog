@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Cash"
+date:       2016-12-06 10:00:00 +0000
+tags:       personal
+---
+
+As of September 2016, I no longer track cash as a separate [YNAB]({% post_url 2016-05-03-ynab %}) account. Aside from bus fare (Transport for Edinburgh really need to catch on to the Transport for London model), I have very little need to carry any cash at all anymore.
+
+<!-- Read More -->
+
+Almost everywhere in the UK that processes monetary transactions now accepts card, even if there's occasionally a fee attached. Most places have also moved on to accept contactless transactions, and transactions via Apple Pay, Android Pay, or similar. Sure, there are some holdouts - my local fish and chip shop only accepts cash, for example - but for all intents and purposes, it's a fair assessment that paying without cash is now essentially ubiquitous.
+
+That's not to say I *never* carry cash. If I'm going out on a bar crawl for example, I'd hate to be that guy who pays by card for every individual vodka and coke in a nightclub; much easier to just take £50 (or £150 like last weekend...) in cash out at the beginning of the night. On the other hand, if I'm somewhere like Wetherspoons that accepts contactless, essentially removing the delay in paying by card, I have no issue tapping the card every time it's my round.
+
+Restaurants are another place I still prefer cash *if I'm splitting the bill*. Mainly to avoid the awkward how-much-should-I-tip? when paying by card that isn't there when you can round up to the nearest £5 or £10 and throw the notes into the pile at the end of the night, but also because it still feels a little clunky when everyone pays by card individually. There are apps like [Splitwise][splitwise-app] that can ease this process, but they're not quite ubiquitous enough (at least not in my circles) to eliminate the issue.
+
+Worldwide, we're heading further and further towards a cashless society, both in developed and developing countries. In 2015, cash transactions [fell below 50% for the first time][raconteur-cashless-future] in the UK to 48%, although it was still the most popular form of payment. This is expected to fall to around a third within the next 8-10 years, and six in ten young people prefer not to carry cash at all. Sweden is looking likely to be the first completely cashless society, with only [2% of all transactions made using cash][guardian-sweden-cashless] last year, likely to drop to just 0.5% within five years.
+
+Outside of the developed countries, India is fast approaching a cashless society; [two villages have already transitioned to cashless][india-times-cashless-economy], and while 90% of transactions are still made in cash, the Indian Prime Minister last month [removed the 500 and 1000 rupee notes from circulation][gizmodo-indian-note-removal] (accounting for 80% of the country's currency), partly to combat black market deals and corruption, but also to start realizing his dream of a cashless society. Nandan Nilekani, Indian co-founder of Infosys, is currently building a system called [Unified Payment Interface][hindu-upi] which will help towards this dream by allowing money transfer between any two bank accounts using a smartphone.
+
+So, the future? It's unlikely that we'll reach a fully cashless society in the near future at least, but the trend is there. With the fast-moving world of digital payments, it's not inconceivable that we'll be all but cash-free within the next few decades. These new plastic fivers may well be the last design we see released.
+
+> This blog post was partially influenced by the [Freakonomics][freakonomics-home] podcast episode [Why Are We Still Using Cash?][freakonomics-cash-episode] broadcast on September 28th, 2016, as well as the introduction of the new £5 notes printed by the Bank of Scotland, Royal Bank of Scotland, and the Bank of England.
+
+[splitwise-app]:                https://www.splitwise.com/
+[raconteur-cashless-future]:    http://raconteur.net/technology/are-we-heading-towards-a-cashless-future
+[guardian-sweden-cashless]:     https://www.theguardian.com/business/2016/jun/04/sweden-cashless-society-cards-phone-apps-leading-europe
+[india-times-cashless-economy]: http://www.indiatimes.com/news/india/these-two-places-in-india-are-already-living-pm-modi-s-dream-of-cashless-economy-266574.html
+[gizmodo-indian-note-removal]:  http://gizmodo.com/indias-prime-minister-plans-for-cashless-society-1789403344
+[hindu-upi]:                    http://www.thehindu.com/business/Economy/What-is-Unified-Payment-Interface/article14593189.ece
+[freakonomics-home]:            http://freakonomics.com/
+[freakonomics-cash-episode]:    http://freakonomics.com/podcast/still-using-cash/
