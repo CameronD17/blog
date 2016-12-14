@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "It's American Press"
-date:       2016-11-19 11:00:00 +0000
-tags:       coffee
+layout:         post
+title:          "It's American Press"
+date:           2016-11-19 11:00:00 +0000
+categories:     coffee
 ---
 
 Around this time a year ago, I donated $80 to the [It's American Press' Indiegogo][american-press-indiegogo-page] campaign - and then largely forgot about it, until my reward of a shiny new American Press arrived at my door last week.

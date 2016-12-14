@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Mystery Date Nights"
-date:       2016-12-01 09:00:00 +0000
-tags:       projects
+layout:         post
+title:          "Mystery Date Nights"
+date:           2016-12-01 09:00:00 +0000
+categories:     projects
 ---
 
 Recently, I realised that I hadn't developed anything major outside of work for a while - since this blog or website a year or so ago. Wanting to change that, I dived into the extremely intimidating and fast-moving world of JavaScript frameworks, and started learning [Angular 2][angular-io].

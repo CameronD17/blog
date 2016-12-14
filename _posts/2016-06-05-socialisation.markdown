@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Socialisation"
-date:       2016-06-05 15:00:00 +0000
-tags:       charlie
+layout:         post
+title:          "Socialisation"
+date:           2016-06-05 15:00:00 +0000
+categories:     charlie
 ---
 
 Over the last couple of weeks, Charlie and I have been attending "puppy parties" hosted by his vet to help with his socialisation. Up until recently, when I started seriously researching adopting a puppy, I had no idea just how important good socialisation was for young dogs.

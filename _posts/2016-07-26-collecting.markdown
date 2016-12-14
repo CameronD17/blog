@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Collecting"
-date:       2016-07-26 10:00:00 +0000
-tags:       minimalism
+layout:         post
+title:          "Collecting"
+date:           2016-07-26 10:00:00 +0000
+categories:     minimalism
 ---
 
 When I was younger, I had a slightly unhealthy obsession with not letting go of old things. Material possessions, things I found at the back of a wardrobe that I didn't even remember, I wouldn't throw them out. I come from a family of borderline hoarders, so it's not really a big surprise I grew up with this mentality.

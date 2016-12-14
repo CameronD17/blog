@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Cash"
-date:       2016-12-06 10:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Cash"
+date:           2016-12-06 10:00:00 +0000
+categories:     personal
 ---
 
 As of September 2016, I no longer track cash as a separate [YNAB]({% post_url 2016-05-03-ynab %}) account. Aside from bus fare (Transport for Edinburgh really need to catch on to the Transport for London model), I have very little need to carry any cash at all anymore.

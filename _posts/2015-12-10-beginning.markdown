@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Beginning"
-date:       2015-12-10 10:00:00 +0000
-tags:       blog
+layout:         post
+title:          "Beginning"
+date:           2015-12-10 10:00:00 +0000
+categories:     blog
 ---
 It's been a slow couple of weeks at work. I had originally anticipated the development of this blog to take one or two months, maybe an hour or so every couple of nights, given that I've never tried it before, and I've never used any of the languages involved. But here we are, about 90% done before Christmas!
 

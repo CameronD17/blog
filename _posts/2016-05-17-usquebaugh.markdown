@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Usquebaugh"
-date:       2016-05-17 20:00:00 +0000
-tags:       whisky
+layout:         post
+title:          "Usquebaugh"
+date:           2016-05-17 20:00:00 +0000
+categories:     whisky
 ---
 
 I feel like all of my writing could quite easily start off describing the view outside. It’s usually how I begin; staring off into the deep blue Scottish sky. I prefer to write with a clear head, disconnected from the outside world, where I can think and type in peace. 

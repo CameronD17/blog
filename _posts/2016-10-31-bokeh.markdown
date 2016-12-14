@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Bokeh"
-date:       2016-10-31 14:15:00 +0000
-tags:       personal
+layout:         post
+title:          "Bokeh"
+date:           2016-10-31 14:15:00 +0000
+categories:     personal
 ---
 
 For as long as I can remember, I've worn contact lenses on a daily basis, to the point I sometimes forget what my vision is actually like without assistance. In the wild, I'd have been killed off long ago by a predator I couldn't see coming.

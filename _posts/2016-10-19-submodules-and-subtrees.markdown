@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Submodules and Subtrees"
-date:       2016-10-19 09:00:00 +0000
-tags:       development projects
+layout:         post
+title:          "Submodules and Subtrees"
+date:           2016-10-19 09:00:00 +0000
+categories:     development projects
 ---
 
 You may have noticed a new addition to the blog recently; a slide-out menu on the left hand side, linking to the other subdomains. For the last few months, I've been thinking of ways to restructure my website, to integrate the blog back into my main homepage, as well as incorporate other subdomains as I develop them. This menu was the answer I came up with.

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Patience"
-date:       2016-08-12 10:00:00 +0000
-tags:       productivity
+layout:         post
+title:          "Patience"
+date:           2016-08-12 10:00:00 +0000
+categories:     productivity
 ---
 
 *"Good things come to those who wait."* Not a phrase that I've really lived by thus far. I always tend to take the immediate gratification route, rather than investing heavily in my future self. Screw him, he can deal with it when it gets to him.

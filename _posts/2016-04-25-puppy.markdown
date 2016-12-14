@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Puppy"
-date:       2016-04-25 13:00:00 +0000
-tags:       charlie
-custom_js:  instagram
+layout:         post
+title:          "Puppy"
+date:           2016-04-25 13:00:00 +0000
+categories:     charlie
+custom_js:      instagram
 ---
 
 On Sunday, a new lodger moved into the flat in Edinburgh, rent-free. His name is Charlie, and he's an eight-week-old Border Collie. I feel sorry for all of my social media contacts, as they've been inundated with pictures of his face since he arrived. This is unlikely to stop anytime soon.

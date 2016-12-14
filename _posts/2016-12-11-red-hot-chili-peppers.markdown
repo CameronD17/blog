@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Red Hot Chili Peppers"
-date:       2016-12-11 21:00:00 +0000
-tags:       events
-custom_js:  instagram
+layout:         post
+title:          "Red Hot Chili Peppers"
+date:           2016-12-11 21:00:00 +0000
+categories:     events
+custom_js:      instagram
 ---
 
 Last Thursday, I spent the night in Glasgow at the SSE Hydro watching funk-rock legends the Red Hot Chili Peppers as they toured with their latest album _The Getaway_. As one of my three favourite rock acts of all time, I had naturally been looking forward to this for quite a while.

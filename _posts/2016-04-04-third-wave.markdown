@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Third Wave"
-date:       2016-04-04 14:00:00 +0000
-tags:       coffee
+layout:         post
+title:          "Third Wave"
+date:           2016-04-04 14:00:00 +0000
+categories:     coffee
 ---
 
 While I am in no way a connoisseur of fine coffee (not yet anyway), I can definitely discern the difference between a good and bad cup. This is both a blessing and a curse; while I can appreciate the art of a good coffee, the cumulative price of continuous quality coffee does my bank balance no good.

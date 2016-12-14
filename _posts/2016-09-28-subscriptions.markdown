@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Subscriptions"
-date:       2016-09-28 13:00:00 +0000
-tags:       minimalism
+layout:         post
+title:          "Subscriptions"
+date:           2016-09-28 13:00:00 +0000
+categories:     minimalism
 ---
 
 Today was the ninth payday of 2016. It's the 21st payday since I started tracking my finances in [YNAB]({% post_url 2016-05-03-ynab %}), which means it's the 21st time I've filled out my budget for next month, and the 21st time I've been thankful for being a minimalist, because I'm no longer wasting money on things I don't need.

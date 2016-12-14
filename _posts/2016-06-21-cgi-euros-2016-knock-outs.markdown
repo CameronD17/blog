@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "CGI Euros - Knock-Outs"
-date:       2016-06-21 08:15:00 +0000
-tags:       events
+layout:         post
+title:          "CGI Euros - Knock-Outs"
+date:           2016-06-21 08:15:00 +0000
+categories:     events
 ---
 
 Despite the drinking, we still made it back relatively early; our killjoy captain insisting on a good night's sleep before the knock-out phase in the morning. We woke fresh, and made our way to the stadium to find we'd been drawn against the free-scoring Portuguese side AMS - they'd won their group games 5-0, 5-0, and 3-0. This did not bode well for our defence.

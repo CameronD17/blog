@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Favourites"
-date:       2016-08-01 10:00:00 +0000
-tags:       minimalism
+layout:         post
+title:          "Favourites"
+date:           2016-08-01 10:00:00 +0000
+categories:     minimalism
 ---
 
 One of the unexpected joys of minimalism is that I no longer own anything that isn't my favourite. After getting rid of the excess, the duplicates, the lower value versions of all of my possessions, I was left with (in my opinion) the best of everything. It's easier to enjoy things when they're your favourite.

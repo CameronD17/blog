@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Holly"
-date:       2016-04-11 12:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Holly"
+date:           2016-04-11 12:00:00 +0000
+categories:     personal
 ---
 
 This time last week, I took the train home to Newcastle (can I call it [home]({% post_url 2016-03-09-home %})? Jury's still out) to say goodbye to my dog and best friend of thirteen years, Holly.

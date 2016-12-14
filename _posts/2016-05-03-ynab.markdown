@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "YNAB"
-date:       2016-05-03 12:00:00 +0000
-tags:       productivity review
+layout:         post
+title:          "YNAB"
+date:           2016-05-03 12:00:00 +0000
+categories:     productivity review
 ---
 
 If you met me in person sometime in the last year or so, engaged in conversation with me about personal finance, or even just made an off-hand comment about budgeting or not having enough money, chances are I'll have mentioned (okay, let's be honest, forced down your throat) the benefits of the budgeting software [YNAB][ynab-home-link] - You Need A Budget.

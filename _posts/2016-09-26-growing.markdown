@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Growing"
-date:       2016-09-26 10:00:00 +0000
-tags:       charlie
-custom_js:  instagram
+layout:         post
+title:          "Growing"
+date:           2016-09-26 10:00:00 +0000
+categories:     charlie
+custom_js:      instagram
 ---
 
 Five months ago on Saturday, Charlie came home with us from his birthplace in East Lothian for the first time. Since he was vaccinated and able to go for walks outside, we've taken him to so many places we hadn't been before, and might not have been without him.

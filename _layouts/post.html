@@ -26,8 +26,8 @@
                                             </h1>
                                             <div class="post-details intro-text">
                                                 {{ page.date | date: "%d %B %Y" }} | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
-                                                {% for tag in page.tags %}
-                                                    <a href="{{ site.baseurl }}/#{{tag}}">{{tag}}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.tags.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                                                {% for category in page.categories %}
+                                                    <a href="{{ site.baseurl }}/#{{category}}">{{category}}{% if category == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.categories.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                                 {% endfor %}
                                             </div>
                                         </div>
@@ -39,8 +39,8 @@
                         <section class="content-section">
                             <div class="container">
                                 <div class="col-lg-10 col-lg-offset-1">
-                                    {% for tag in page.tags %}
-                                        {% if tag == "projects" %}
+                                    {% for category in page.categories %}
+                                        {% if category == "projects" %}
                                             {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
                                             {% capture posted %}{{page.date | date: '%s'}}{% endcapture %}
                                             {% assign diff = now | minus: posted %}
@@ -54,10 +54,10 @@
                                         {% endif %}
                                     {% endfor %}
                                     {{ content }}
-                                    {% for tag in page.tags %}
-                                        {% if tag == "charlie" %}
+                                    {% for category in page.categories %}
+                                        {% if category == "charlie" %}
                                         <blockquote>
-                                            <p><em><a href="https://www.instagram.com/charlie.border.collie">Charlie is on Instagram as charlie.border.collie, if you would like to see more pictures of him.</a></em></p>
+                                            <p><em><a href="https://www.inscategoryram.com/charlie.border.collie">Charlie is on Inscategoryram as charlie.border.collie, if you would like to see more pictures of him.</a></em></p>
                                         </blockquote>
                                         {% endif %}
                                     {% endfor %}
@@ -66,8 +66,8 @@
                         </section>
                         
                         {% assign otherposts = false %}
-                        {% for tag in page.tags %}
-                            {% assign postsWithTag = site.tags[tag] | size %}
+                        {% for category in page.categories %}
+                            {% assign postsWithTag = site.categories[category] | size %}
                             {% if postsWithTag != 1 %}
                                 {% assign otherposts = true %}
                             {% endif %}
@@ -77,27 +77,27 @@
                             <section class="content-section text-center">
                                  <div class="container">
                                     <div class="col-lg-10 col-lg-offset-1">
-                                        {% assign pagetags = page.tags.size %}
-                                        {% for tag in page.tags %}
+                                        {% assign pagecategories = page.categories.size %}
+                                        {% for category in page.categories %}
                                             {% assign postCount = 0 %}
-                                            {% for post in site.tags[tag] %}
+                                            {% for post in site.categories[category] %}
                                                 {% assign postCount = postCount | plus: 1 %}
                                             {% endfor %}
                                             {% if postCount == 1 %}
-                                                {% assign pagetags = pagetags | minus: 1 %}
+                                                {% assign pagecategories = pagecategories | minus: 1 %}
                                             {% endif %}
                                         {% endfor %}
 
-                                        {% for tag in page.tags %}                                        
-                                            {% assign postsWithTag = site.tags[tag] | size %}                                            
+                                        {% for category in page.categories %}                                        
+                                            {% assign postsWithTag = site.categories[category] | size %}                                            
                                             {% if postsWithTag > 1 %}
-                                                {% if pagetags == 2 %}<div class="col-lg-6">{% elsif pagetags == 3 %}<div class="col-lg-4">{% endif %}
-                                                    <h3>Recent "{{ tag }}" posts</h3>
+                                                {% if pagecategories == 2 %}<div class="col-lg-6">{% elsif pagecategories == 3 %}<div class="col-lg-4">{% endif %}
+                                                    <h3>Recent "{{ category }}" posts</h3>
                                                     <div class="post-divider"></div>
                                                     <table class="table posts">
                                                         {% assign postCounter = 0 %}
                                                         {% assign maxPosts = 3 %}
-                                                        {% for post in site.tags[tag] %}
+                                                        {% for post in site.categories[category] %}
                                                             {% if post.title != page.title %}
                                                                 {% assign postCounter = postCounter | plus: 1 %}
                                                                 <tbody class="archive-excerpt">
@@ -115,10 +115,10 @@
                                                     </table>
                                                     {% if postsWithTag > maxPosts %}
                                                         <h4>
-                                                            <a href="{{ site.baseurl }}/#{{tag}}">More "{{ tag }}{% if tag == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}" posts</a>
+                                                            <a href="{{ site.baseurl }}/#{{category}}">More "{{ category }}{% if category == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}" posts</a>
                                                         </h4>
                                                     {% endif %}
-                                                {% if pagetags != 1 %}</div>{% endif %}
+                                                {% if pagecategories != 1 %}</div>{% endif %}
                                             {% endif %}
                                         {% endfor %}
                                     </div>

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Redesign"
-date:       2016-04-22 12:30:00 +0000
-tags:       blog
+layout:         post
+title:          "Redesign"
+date:           2016-04-22 12:30:00 +0000
+categories:     blog
 ---
 
 This past week, I've sat and read through most of the 14 posts I've written since I started this blog, and in doing so realised something fairly crucial. It is not easy to read. Time for a redesign (already)!

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "CGI Euros - Group Stage"
-date:       2016-06-20 08:00:00 +0000
-tags:       events
+layout:         post
+title:          "CGI Euros - Group Stage"
+date:           2016-06-20 08:00:00 +0000
+categories:     events
 ---
 In late June 2015, the Scotland team finished the CGI Euros tournament in Frankfurt in dead last place. One win, one draw, four losses. Missing several key players, we went into the 2016 tournament in Lisbon with minimal expectations.
 

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "AeroPress"
-date:       2016-11-14 14:00:00 +0000
-tags:       coffee
+layout:         post
+title:          "AeroPress"
+date:           2016-11-14 14:00:00 +0000
+categories:     coffee
 ---
 
 For the last two years, my daily morning coffee routine hasn't changed at all, at least during the working week. My routine is so ingrained I could probably do it in my sleep, and uses just three items; my coffee mug, my Hario Skerton hand grinder, and of course, my AeroPress.

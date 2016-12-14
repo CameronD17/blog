@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Minimalism"
-date:       2016-05-24 13:30:00 +0000
-tags:       minimalism
+layout:         post
+title:          "Minimalism"
+date:           2016-05-24 13:30:00 +0000
+categories:     minimalism
 ---
 
 I'm foregoing the obvious opportunity to leave this blog post blank as a statement about minimalism. It pains me to do so, but I don't want to waste an entire blog post on a pun, however clever I might think I am.

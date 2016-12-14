@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Progress Training"
-date:       2016-10-12 20:00:00 +0000
-tags:       charlie
+layout:         post
+title:          "Progress Training"
+date:           2016-10-12 20:00:00 +0000
+categories:     charlie
 ---
 
 Tonight was Charlie's final session of his six Level 2 training classes held out in Livingston. He's learned a lot over the last month and a half, although as he's reaching his adolescence it sure is hard to tell at times.

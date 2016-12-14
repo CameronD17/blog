@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Everyday Carry"
-date:       2016-11-10 19:00:00 +0000
-tags:       minimalism
+layout:         post
+title:          "Everyday Carry"
+date:           2016-11-10 19:00:00 +0000
+categories:     minimalism
 ---
 
 When I was in middle school, like a lot of kids at the time, I had about a dozen keyrings on my keys. Or rather, key, singular. Maybe it's just part of the ritual of being entrusted with the Front Door Key for the first time that makes you feel the need to carry half a kilo of plastic along with the single, lonely key, lest you forget and leave it somewhere.

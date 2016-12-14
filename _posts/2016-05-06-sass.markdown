@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Sass"
-date:       2016-05-06 12:00:00 +0000
-tags:       development
+layout:         post
+title:          "Sass"
+date:           2016-05-06 12:00:00 +0000
+categories:     development
 ---
 
 I've spent over a year now [designing]({% post_url 2015-11-30-test-post-please-ignore %}), building, and [tweaking]({% post_url 2016-04-22-redesign %}) this blog and [accompanying portfolio site][homepage-link]. When I first started, I was still relatively green when it came to front-end development, so I avoided CSS preprocessors in favour of the more familiar pure CSS. I wish I hadn't. 

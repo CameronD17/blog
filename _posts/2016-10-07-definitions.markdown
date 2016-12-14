@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Definitions"
-date:       2016-10-07 15:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Definitions"
+date:           2016-10-07 15:00:00 +0000
+categories:     personal
 ---
 
 Most social media platforms have a space for a short biography of some sorts. An 'About Me', maybe a paragraph or so. Couple hundred words at the most. 'Tell us about yourself!', they ask. 'Distill everything you are, and everything you want to be, into a soundbite elevator pitch'. How do you do that? How do you choose your definitions?

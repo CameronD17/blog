@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Copenhagen"
-date:       2016-07-12 14:30:00 +0000
-tags:       travel
-custom_js:  instagram
+layout:         post
+title:          "Copenhagen"
+date:           2016-07-12 14:30:00 +0000
+categories:     travel
+custom_js:      instagram
 ---
 
 After barely recovering from the crippling hangovers of Spain in 2015, our group started thinking of places to go next. We decided on the more expensive Scandinavian cities of Copenhagen and Stockholm, so we could visit friends who lived there. At least, that was the plan.

@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Hangover"
-date:       2016-02-15 10:00:00 +0000
-tags:       writing
+layout:         post
+title:          "Hangover"
+date:           2016-02-15 10:00:00 +0000
+categories:     writing
 ---
 
 A sharp, piercing scream penetrates the air like an arrow whistling through the trees. You awake violently, the pain slamming into your head like a sledgehammer, instantly regretting any sort of movement as you slap blindly at the source of the noise. Who sets an alarm for a Sunday morning?

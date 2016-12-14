@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Brussels"
-date:       2016-03-27 11:00:00 +0000
-tags:       travel
-custom_js:  instagram
+layout:         post
+title:          "Brussels"
+date:           2016-03-27 11:00:00 +0000
+categories:     travel
+custom_js:      instagram
 ---
 
 We flew to Brussels direct from Gdańsk on literally the cheapest flight I've ever been on. £6.69. I paid more to get the tram to Edinburgh Airport than I did for this flight; at that price, I don't even mind if I don't get a seat. How Wizz Air can possibly make a profit I have no idea, but I'm not complaining.

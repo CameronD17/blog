@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Change"
-date:       2016-01-29 11:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Change"
+date:           2016-01-29 11:00:00 +0000
+categories:     personal
 ---
 
 When you're a child, it's hard to visualise the future. It's hard to extract yourself from day-to-day life and genuinely picture what it will be like to be an adult. To have a job, to move out; to grow up, essentially. The future is an uncharted and remote destination, not quite mythical, but not exactly set in stone either. It's hard to imagine what will be different between now and then.

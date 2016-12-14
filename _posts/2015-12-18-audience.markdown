@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Audience"
-date:       2015-12-18 10:00:00 +0000
-tags:       blog
+layout:         post
+title:          "Audience"
+date:           2015-12-18 10:00:00 +0000
+categories:     blog
 ---
 Writing has always been an odd subject for me. It's an integral part of life, even if it's just in the form of emails or texts, it's something you do without even really stopping to consider just how much you actually do.
 

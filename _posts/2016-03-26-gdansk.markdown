@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Gdańsk"
-date:       2016-03-26 14:00:00 +0000
-tags:       travel
-custom_js:  instagram
+layout:         post
+title:          "Gdańsk"
+date:           2016-03-26 14:00:00 +0000
+categories:     travel
+custom_js:      instagram
 ---
 
 After a whole eight months without leaving the country (seriously, this must be the longest I've gone without travelling since I turned 18), I finally decided to go away for a few days in March of 2016. I spent a good few days looking for the cheapest possible flights I could find, and eventually settled on Gdańsk, in Northern Poland. It was definitely a good choice.

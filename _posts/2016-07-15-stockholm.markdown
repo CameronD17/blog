@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Stockholm"
-date:       2016-07-15 15:00:00 +0000
-tags:       travel
-custom_js:  instagram
+layout:         post
+title:          "Stockholm"
+date:           2016-07-15 15:00:00 +0000
+categories:     travel
+custom_js:      instagram
 ---
 
 We travelled to Stockholm by train from Copenhagen, with a few short hours in Malmö on the way. Four and a half hours is by no means the longest train I've ever gotten, but when the scenery outside literally doesn't change for close to 400 miles, it tends to drag a little.

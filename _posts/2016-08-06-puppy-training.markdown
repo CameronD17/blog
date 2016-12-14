@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Puppy Training"
-date:       2016-08-06 15:30:00 +0000
-tags:       charlie
+layout:         post
+title:          "Puppy Training"
+date:           2016-08-06 15:30:00 +0000
+categories:     charlie
 ---
 
 Each Saturday morning for the past couple of months, Charlie and I have taken the tram and then the train to Livingston to attend his puppy training classes. The hours after we get home, when he curls up next to me and goes to sleep, is the only quiet time I get all week.

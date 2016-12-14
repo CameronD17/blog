@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Lisbon"
-date:       2016-06-15 19:00:00 +0000
-tags:       travel
-custom_js:  instagram
+layout:         post
+title:          "Lisbon"
+date:           2016-06-15 19:00:00 +0000
+categories:     travel
+custom_js:      instagram
 ---
 
 Last summer, I visited Frankfurt for the 2015 CGI Euros football tournament. The very last thing to happen in Frankfurt was the announcement that the 2016 competition was to be held in Lisbon. I took the opportunity to explore the city before the tournament; any excuse to travel, right?

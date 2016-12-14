@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Local"
-date:       2016-09-11 21:00:00 +0000
-tags:       personal charlie
-custom_js:  instagram
+layout:         post
+title:          "Local"
+date:           2016-09-11 21:00:00 +0000
+categories:     personal charlie
+custom_js:      instagram
 ---
 
 One year ago today, I collected the keys from the solicitors for our first flat. I'd already lived in Edinburgh for over a year at that point, but I didn't really [feel like a permanent resident]({% post_url 2016-03-09-home %}) of this great city while I was renting.

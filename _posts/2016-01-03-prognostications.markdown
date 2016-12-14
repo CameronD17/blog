@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Prognostications"
-date:       2016-01-03 14:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Prognostications"
+date:           2016-01-03 14:00:00 +0000
+categories:     personal
 ---
 
 I awoke in time to watch the day break this morning. Since then, there's been a cold winter sun shining down over Edinburgh, releasing a beautiful backdrop for deep and insightful thoughts. I'm writing next to my window; the clouds are drifting lazily by, casting long, languid shadows across the hedgerow outside. There are better views, admittedly, but it's calming to watch the skies from pretty much anywhere.

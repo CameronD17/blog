@@ -1,8 +1,8 @@
 ---
-layout:     post
-title:      "Smoke"
-date:       2016-06-30 11:00:00 +0000
-tags:       personal
+layout:         post
+title:          "Smoke"
+date:           2016-06-30 11:00:00 +0000
+categories:     personal
 ---
 
 Today marks one year since my last cigarette. A whole year smoke free, the first time I've gone more than a couple of months without since I was 18, and yet I've never considered myself a smoker.
