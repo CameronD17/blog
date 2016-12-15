@@ -138,6 +138,7 @@ function resetFilters() {
         if (!$(this).hasClass('selected')) {
             $(this).addClass('selected');
             $(this).find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
+            $(this).removeClass('tag-unselected');
         }
     });
     
@@ -145,6 +146,7 @@ function resetFilters() {
         if (!$(this).hasClass('selected')) {
             $(this).addClass('selected');
             $(this).find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
+            $(this).removeClass('tag-unselected');
         }
     });
     
@@ -275,15 +277,18 @@ function toggleFilter(filter) {
         toggleAllPosts('off');
         filter.addClass('selected');
         filter.find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
+        filter.removeClass('tag-unselected');
     } else if (noneSelected) {
         toggleAllPosts('on');
     } else {
         if (filter.hasClass('selected')) {
             filter.removeClass('selected');
             filter.find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
+            filter.addClass('tag-unselected');
         } else {
             filter.addClass('selected');
             filter.find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
+            filter.removeClass('tag-unselected');
         }
     }
     
@@ -299,12 +304,14 @@ function toggleSingleCategory(categoryFilter) {
         if ($(this).hasClass('selected')) {
             $(this).removeClass('selected');
             $(this).find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
+            $(this).addClass('tag-unselected');
         }
     });
     
     if (!$(categoryFilter).hasClass('selected')) {
         $(categoryFilter).addClass('selected');
         $(categoryFilter).find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
+        $(this).removeClass('tag-unselected');
     }      
     
     applyToggles();
@@ -348,6 +355,7 @@ function toggleAllPosts(toggle) {
             if ($(this).hasClass('selected')) {
                 $(this).removeClass('selected');
                 $(this).find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
+                $(this).addClass('tag-unselected');
             }
         });
         
@@ -355,6 +363,7 @@ function toggleAllPosts(toggle) {
             if ($(this).hasClass('selected')) {
                 $(this).removeClass('selected');
                 $(this).find($(".fa")).removeClass('fa-check-square').addClass('fa-square');
+                $(this).addClass('tag-unselected');
             }
         });
         
