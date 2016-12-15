@@ -2,7 +2,7 @@
 layout:         post
 title:          "Holly"
 date:           2016-04-11 12:00:00 +0000
-tags:           holly dog reminiscences blyth
+tags:           holly reminiscence blyth
 categories:     personal
 ---
 

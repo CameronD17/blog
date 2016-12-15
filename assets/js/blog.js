@@ -41,7 +41,8 @@ $('.filter-switch').click(function() {
             $('#date-list').addClass('filter-hidden');
             $('#select-all-posts').addClass('filter-hidden');
         }
-        toggleAllPosts('on');
+        toggleAllPosts('on'); 
+        scrollToTop();
         lockFilterPane();
     }
 });
@@ -58,6 +59,7 @@ $(window).resize(function() {
 function lockFilterPane(){
     var filterList = $('#filter-wrapper');
     var postList = $('#blog-archive');
+    $('.archive-left-side').height(filterList.height());
     
     if ((($(window).height()) > filterList.height() + 100) && ((filterList.height() + 130) < postList.height()) && document.documentElement.clientWidth > 1040) {
         var archiveTop          = postList.offset().top;
@@ -311,8 +313,8 @@ function toggleSingleCategory(categoryFilter) {
     if (!$(categoryFilter).hasClass('selected')) {
         $(categoryFilter).addClass('selected');
         $(categoryFilter).find($(".fa")).removeClass('fa-square').addClass('fa-check-square');
-        $(this).removeClass('tag-unselected');
-    }      
+        $(categoryFilter).removeClass('tag-unselected');
+    }
     
     applyToggles();
 }

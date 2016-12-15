@@ -2,7 +2,7 @@
 layout:         post
 title:          "Local"
 date:           2016-09-11 21:00:00 +0000
-tags:           charlie dog instagram edinburgh blyth introspection
+tags:           charlie edinburgh blyth introspection sasha photography
 categories:     personal charlie
 custom_js:      instagram
 ---

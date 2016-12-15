@@ -29,6 +29,12 @@
                                                 {% for category in page.categories %}
                                                     <a href="{{ site.baseurl }}/#{{category}}">{{category}}{% if category == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.categories.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                                 {% endfor %}
+                                                <br/> 
+                                                <span class="post-tags">Tags: 
+                                                {% for tag in page.tags %}
+                                                    {{ tag | replace:'-',' ' }}{% unless post.categories.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
+                                                {% endfor %}
+                                                </span>
                                             </div>
                                         </div>
                                     </div>
@@ -57,7 +63,7 @@
                                     {% for category in page.categories %}
                                         {% if category == "charlie" %}
                                         <blockquote>
-                                            <p><em><a href="https://www.inscategoryram.com/charlie.border.collie">Charlie is on Inscategoryram as charlie.border.collie, if you would like to see more pictures of him.</a></em></p>
+                                            <p><em><a href="https://www.instagram.com/charlie.border.collie">Charlie is on Instagram as charlie.border.collie, if you would like to see more pictures of him.</a></em></p>
                                         </blockquote>
                                         {% endif %}
                                     {% endfor %}

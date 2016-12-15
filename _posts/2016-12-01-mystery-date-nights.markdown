@@ -2,7 +2,7 @@
 layout:         post
 title:          "Mystery Date Nights"
 date:           2016-12-01 09:00:00 +0000
-tags:           projects angular2 typescript development web
+tags:           projects angular-2 typescript development web sasha
 categories:     projects
 ---
 

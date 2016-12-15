@@ -2,7 +2,7 @@
 layout:         post
 title:          "Copenhagen"
 date:           2016-07-12 14:30:00 +0000
-tags:           copenhagen denmark europe travel instagram
+tags:           travel photography
 categories:     travel
 custom_js:      instagram
 ---

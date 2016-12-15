@@ -2,7 +2,7 @@
 layout:         post
 title:          "Prognostications"
 date:           2016-01-03 14:00:00 +0000
-tags:           resolutions fitness plans productivity
+tags:           resolutions fitness productivity
 categories:     personal
 ---
 

@@ -2,7 +2,7 @@
 layout:         post
 title:          "Redesign"
 date:           2016-04-22 12:30:00 +0000
-tags:           meta
+tags:           meta projects screenshot
 categories:     blog
 ---
 

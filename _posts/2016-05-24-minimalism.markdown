@@ -2,7 +2,7 @@
 layout:         post
 title:          "Minimalism"
 date:           2016-05-24 13:30:00 +0000
-tags:           minimalism reminiscences edinburgh
+tags:           minimalism reminiscence edinburgh
 categories:     minimalism
 ---
 

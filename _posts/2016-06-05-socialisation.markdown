@@ -2,7 +2,7 @@
 layout:         post
 title:          "Socialisation"
 date:           2016-06-05 15:00:00 +0000
-tags:           charlie dog training socialisation
+tags:           charlie training socialisation
 categories:     charlie
 ---
 

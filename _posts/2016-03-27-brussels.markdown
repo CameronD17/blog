@@ -2,7 +2,7 @@
 layout:         post
 title:          "Brussels"
 date:           2016-03-27 11:00:00 +0000
-tags:           brussels belgium europe sasha instagram
+tags:           sasha travel photography
 categories:     travel
 custom_js:      instagram
 ---

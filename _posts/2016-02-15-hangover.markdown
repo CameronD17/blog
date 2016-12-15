@@ -2,7 +2,7 @@
 layout:         post
 title:          "Hangover"
 date:           2016-02-15 10:00:00 +0000
-tags:           monologue story fiction
+tags:           monologue story fiction writing
 categories:     writing
 ---
 

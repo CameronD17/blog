@@ -2,7 +2,7 @@
 layout:         post
 title:          "Gdańsk"
 date:           2016-03-26 14:00:00 +0000
-tags:           gdansk poland europe sasha instagram
+tags:           sasha travel photography
 categories:     travel
 custom_js:      instagram
 ---

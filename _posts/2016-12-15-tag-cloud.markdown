@@ -1,0 +1,42 @@
+---
+layout:         post
+title:          "Tag Cloud"
+date:           2016-12-15 12:30:00 +0000
+tags:           meta design projects
+categories:     blog
+---
+
+When I first started this blog a year or so ago, I wasn't really clear on how I should be using tags and categories. Naturally, I did neither correctly. This week I went through and corrected my existing tag/categories to categories, and added a bunch of new tags to my posts.
+
+<!-- Read More -->
+
+When I first started [designing this blog]({% post_url 2015-12-10-beginning %}), I didn't really think through how I wanted to sort and organise my blog posts. Obviously in the beginning, I didn't have anything to actually sort, so I had nothing to test against an play around with - honestly, I was more concerned about keeping up my writing than making it easy to filter through what I'd previously written. Since then though, my post count has grown considerably, and while it's still manageable to sort through unaided, it'll soon become unmanageable.
+
+My initial solution to start with relied on a mix of categories and tags. In all honesty, they were categories, but I [mixed up the terminology][commit-change-tags-to-categories] throughout the site, and there wasn't really a clear line that my categories weren't tags. As part of my implementation for the tag cloud, I've cleaned up the terminology, and now category means category, and tag means tag - and posts can be filtered by either. Back in August I also introduced [filtering by dates][commit-filter-by-date] although I didn't write anything about it at the time.
+
+## Categories vs Tags
+
+So, what's the difference between categories and tags. They're both just ways of sorting posts, right? Well, yes and no. Categories are broad groupings of posts; sort of a contents list for the blog. Tags on the other hand, are much narrower in scope, and cover more specific details. It would not be unusual for a category to have 10 or 12 posts within it, and for a tag to only have one or two. For example, my [Travel][travel-category-posts] category currently has six posts. Those six posts have among them tags such as 'Europe', 'Poland', 'Stockholm'. Tags that wouldn't make sense as a bucket for multiple posts (that would be a category), but that would make sense if a visitor was looking for that sort of thing specifically.
+
+## Tag Cloud
+
+Unlike with my lists of categories and dates, which are all the same size (popularity denoted by the figure in brackets listing the post count), my tag 'cloud' has different font sizes depending on how often the tag has been used. I deliberately did not include the post count for each tag in the cloud, as I feel these detract from the visualisation of the font size changes. I may need to tweak the algorithm for font sizes as my post count grows, but for now it looks rather good if I do say so myself.
+
+![Tag cloud with the first-draft tags]({{site.baseurl}}/assets/img/tag-cloud.jpg)
+
+Along with the introductions of tags and the tag cloud, I've also made a couple of other minor changes and fixes to the blog, so to recap, these are the updates as of this post:
+
+- Categories are now correctly labelled as such (it was only within [Liquid][liquid-link] and and the [YAML][yaml-link] front matter that it was wrong anyway, so there's no visible change here, but consistency is important!)
+- Added new tags to all of the existing posts. These are visible on the post pages, but not the archive page itself.
+- Added a tag cloud along with the category / date filters, which can be used to filter posts to those with an individual tag.
+- Fixed the height switching of the left-hand archive panel when filters cause the filters to be longer than the list of posts.
+- Unselected categories and dates (and all tags by default) are now greyed out rather than just unticked, to emphasise the selections that have been made.
+
+Overall, I'm pleased I finally got around to sorting out my categories and tags - I think if I'd left it much longer, it would have become too big a task to bother with. No doubt there'll be errors here and there (if you find any, [please tell me][github-bug-report]), and I'll be tweaking the design and tags themselves over the coming months, but on the whole I do enjoy the new design. I'd like to also add full-post searching at some point, although that may well be a project all of its own.
+
+[commit-change-tags-to-categories]: https://github.com/CameronD17/blog/commit/ee4bdee9abe78101bf1f9706e4a49a0473c9e5b8
+[commit-filter-by-date]: https://github.com/CameronD17/blog/commit/ee4bdee9abe78101bf1f9706e4a49a0473c9e5b8
+[travel-category-posts]: http://blog.camerondoyle.co.uk/#travel
+[liquid-link]: https://shopify.github.io/liquid/
+[yaml-link]: http://yaml.org/
+[github-bug-report]: https://github.com/CameronD17/blog/issues
