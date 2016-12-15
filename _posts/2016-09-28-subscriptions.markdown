@@ -2,6 +2,7 @@
 layout:         post
 title:          "Subscriptions"
 date:           2016-09-28 13:00:00 +0000
+tags:           minimalism lifestyle
 categories:     minimalism
 ---
 

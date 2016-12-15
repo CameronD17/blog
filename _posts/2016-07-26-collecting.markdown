@@ -2,6 +2,7 @@
 layout:         post
 title:          "Collecting"
 date:           2016-07-26 10:00:00 +0000
+tags:           possessions minimalism
 categories:     minimalism
 ---
 

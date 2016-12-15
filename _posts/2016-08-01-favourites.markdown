@@ -2,6 +2,7 @@
 layout:         post
 title:          "Favourites"
 date:           2016-08-01 10:00:00 +0000
+tags:           possessions minimalism
 categories:     minimalism
 ---
 

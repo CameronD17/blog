@@ -2,6 +2,7 @@
 layout:         post
 title:          "CGI Euros - The Final"
 date:           2016-06-23 15:15:00 +0000
+tags:           lisbon cgi-euros football fitness
 categories:     events
 ---
 

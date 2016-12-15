@@ -2,6 +2,7 @@
 layout:         post
 title:          "Puppy"
 date:           2016-04-25 13:00:00 +0000
+tags:           charlie holly dog instagram
 categories:     charlie
 custom_js:      instagram
 ---

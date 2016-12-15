@@ -2,6 +2,7 @@
 layout:         post
 title:          "Retrospection"
 date:           2015-12-26 15:00:00 +0000
+tags:           resolutions about fitness finance
 categories:     personal
 ---
 In a similar vein to birthdays, the worst part about a new year is the realisation that you're getting old. Or maybe when you're old enough to realise that, it's already too late? Damn, I sure hope that's not the case.

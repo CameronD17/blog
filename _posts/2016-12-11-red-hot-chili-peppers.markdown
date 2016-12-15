@@ -2,6 +2,7 @@
 layout:         post
 title:          "Red Hot Chili Peppers"
 date:           2016-12-11 21:00:00 +0000
+tags:           glasgow music events instagram
 categories:     events
 custom_js:      instagram
 ---

@@ -2,6 +2,7 @@
 layout:         post
 title:          "Respecting Your Reader"
 date:           2016-09-07 09:00:00 +0000
+tags:           web development technology
 categories:     development
 ---
 

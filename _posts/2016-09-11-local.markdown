@@ -2,6 +2,7 @@
 layout:         post
 title:          "Local"
 date:           2016-09-11 21:00:00 +0000
+tags:           charlie dog instagram edinburgh blyth introspection
 categories:     personal charlie
 custom_js:      instagram
 ---
@@ -34,5 +35,9 @@ One of my favourite things about Edinburgh is the abundance of dog-friendly esta
 
 Yesterday, I took Charlie to Cramond beach. We met a woman there with three Border Collies, and got talking (in between throwing tennis balls into the sea for the dogs of course). The subject of where I'm from came up, my accent not quite passing as native just yet. After I told her where I'm from, she asked me "so how long have you been an Edinburgher?". I haven't been asked that before, and I haven't really thought about it either. When does the transition occur, what's the criteria? Maybe I am a local now.
 
+> Update December 2016: Our Mystery Date Nights are now chronicled in my [Angular 2 project][mystery-date-nights-project-page], [MysteryDateNights.co.uk][mdn-link]! There is a [blog post]({% post_url 2016-12-01-mystery-date-nights %}) about the project too.
+
+[mystery-date-nights-project-page]: http://projects.camerondoyle.co.uk/
+[mdn-link]: http://mysterydatenights.co.uk/
 [riding-of-the-marches]: http://www.edinburghridingthemarches.co.uk/
 [the-sheep-heid-inn]: http://www.thesheepheidedinburgh.co.uk/

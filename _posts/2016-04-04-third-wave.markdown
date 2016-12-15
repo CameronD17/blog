@@ -2,6 +2,7 @@
 layout:         post
 title:          "Third Wave"
 date:           2016-04-04 14:00:00 +0000
+tags:           aeropress subscription coffee vice
 categories:     coffee
 ---
 

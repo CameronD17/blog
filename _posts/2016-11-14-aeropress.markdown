@@ -2,6 +2,7 @@
 layout:         post
 title:          "AeroPress"
 date:           2016-11-14 14:00:00 +0000
+tags:           coffee vice aeropress review
 categories:     coffee
 ---
 

@@ -2,6 +2,7 @@
 layout:         post
 title:          "Stockholm"
 date:           2016-07-15 15:00:00 +0000
+tags:           stockholm sweden europe travel instagram
 categories:     travel
 custom_js:      instagram
 ---

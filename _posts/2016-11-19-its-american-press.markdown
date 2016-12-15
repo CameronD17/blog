@@ -2,6 +2,7 @@
 layout:         post
 title:          "It's American Press"
 date:           2016-11-19 11:00:00 +0000
+tags:           coffee vice american-press review
 categories:     coffee
 ---
 

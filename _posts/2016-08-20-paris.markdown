@@ -2,6 +2,7 @@
 layout:         post
 title:          "Paris"
 date:           2016-08-20 16:00:00 +0000
+tags:           paris france europe travel sasha instagram
 categories:     travel
 custom_js:      instagram
 ---
