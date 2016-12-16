@@ -2,7 +2,7 @@
 layout:         post
 title:          "Black Gold"
 date:           2016-02-19 12:00:00 +0000
-tags:           reminiscence coffee vice
+tags:           memories coffee vice
 categories:     coffee
 ---
 

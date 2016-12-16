@@ -2,7 +2,7 @@
 layout:         post
 title:          "Unfocused"
 date:           2016-01-11 15:00:00 +0000
-tags:           introspection procrastination reminiscence
+tags:           introspection procrastination memories
 categories:     productivity
 ---
 
