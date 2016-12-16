@@ -1,9 +1,9 @@
-/* Toggle the 'Read more' and 'Read less' links (C) Cameron Doyle */
+/* Toggle the 'Read more' and 'Read less' links */
 $('.read-more').click(function() {
     if ($(this).attr("aria-expanded") == "false") {
-        $(this).find($(".fa")).removeClass('fa-toggle-down').addClass('fa-toggle-up');    // Switch the font-awesome up/down arrow
-        $(this).find($('span')).text($(this).text().replace('more','less'));              // Change text from 'more' to 'less'
-        $(this).find($('span')).text().trim();                                            // Trim trailing whitespace
+        $(this).find($(".fa")).removeClass('fa-toggle-down').addClass('fa-toggle-up');
+        $(this).find($('span')).text($(this).text().replace('more','less'));
+        $(this).find($('span')).text().trim();
     }
     else if($(this).attr("aria-expanded") == "true") {
         $(this).find($(".fa")).removeClass('fa-toggle-up').addClass('fa-toggle-down');
@@ -16,26 +16,19 @@ $('.read-more').click(function() {
 /* Switch between category and date filter */
 $('.filter-switch').click(function() {
     if ($(this).hasClass('filter-off')) {
-        $('.filter-on').each(function() {
-            $(this).addClass('filter-off');
-            $(this).removeClass('filter-on');
-            $(this).find($(".fa")).removeClass('fa-check-circle-o').addClass('fa-circle-o');
-        });
-        $(this).addClass('filter-on');
-        $(this).removeClass('filter-off');
-        $(this).find($(".fa")).removeClass('fa-circle-o').addClass('fa-check-circle-o');
+        switchFilterRadioButton($(this));
         
-        if ($(this).is('#category-switch')) {                     // Switch to categories
+        if ($(this).is('#category-switch')) {
             $('#category-list').removeClass('filter-hidden');
             $('#date-list').addClass('filter-hidden');
             $('#tag-list').addClass('filter-hidden');
             $('#select-all-posts').removeClass('filter-hidden');
-        } else if ($(this).is('#date-switch')) {                  // Switch to dates
+        } else if ($(this).is('#date-switch')) {
             $('#date-list').removeClass('filter-hidden');
             $('#category-list').addClass('filter-hidden');
             $('#tag-list').addClass('filter-hidden');
             $('#select-all-posts').removeClass('filter-hidden');
-        } else {                                                  // Switch to tags
+        } else if ($(this).is('#tag-switch')) {
             $('#tag-list').removeClass('filter-hidden');
             $('#category-list').addClass('filter-hidden');
             $('#date-list').addClass('filter-hidden');
@@ -46,6 +39,20 @@ $('.filter-switch').click(function() {
         lockFilterPane();
     }
 });
+
+function switchFilterRadioButton(switchTo) {
+    /* Toggle all radios off */
+    $('.filter-on').each(function() {
+        $(this).addClass('filter-off');
+        $(this).removeClass('filter-on');
+        $(this).find($(".fa")).removeClass('fa-check-circle-o').addClass('fa-circle-o');
+    });
+    
+    /* Toggle on selection */
+    $(switchTo).addClass('filter-on');
+    $(switchTo).removeClass('filter-off');
+    $(switchTo).find($(".fa")).removeClass('fa-circle-o').addClass('fa-check-circle-o');
+}
 
 /* Lock category pane to window (C) Cameron Doyle */ 
 $(window).scroll(function() {
@@ -110,11 +117,21 @@ $('.all-posts').click(function() {
 // Click category on archive (not category list)
 $('.archive-filter').click(function() {
     var category = $(this).attr('class').split(' ')[1];
+    
+    if ($('#category-switch').hasClass('filter-off')) {
+        switchFilterRadioButton('#category-switch');   
+        $('#category-list').removeClass('filter-hidden');
+        $('#date-list').addClass('filter-hidden');
+        $('#tag-list').addClass('filter-hidden');
+        $('#select-all-posts').removeClass('filter-hidden');       
+        toggleAllPosts('on');
+    }
+    
     toggleSingleCategory(category);
     clearHash();
 });
 
-// Click category on external page (e.g. blog post)
+/* Click category on external page (e.g. blog post) */
 function archiveFilterFromHash() {
     if(window.location.hash) {
         toggleSingleCategory(window.location.hash);
