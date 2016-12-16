@@ -2,7 +2,7 @@
 layout:         post
 title:          "Definitions"
 date:           2016-10-07 15:00:00 +0000
-tags:           introspection
+tags:           introspection identity
 categories:     personal
 ---
 

@@ -2,7 +2,7 @@
 layout:         post
 title:          "CGI Euros - Knock-Outs"
 date:           2016-06-21 08:15:00 +0000
-tags:           lisbon cgi-euros football fitness
+tags:           cgi-euros football fitness
 categories:     events
 ---
 
