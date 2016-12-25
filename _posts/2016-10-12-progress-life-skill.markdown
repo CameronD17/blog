@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Progress Training"
+title:          "Progress Life Skill"
 date:           2016-10-12 20:00:00 +0000
 tags:           charlie dog-training socialisation
 categories:     charlie
@@ -10,7 +10,7 @@ Tonight was Charlie's final session of his six Level 2 training classes held out
 
 <!-- Read More -->
 
-As with his [puppy training]({% post_url 2016-08-06-puppy-training %}), Charlie had little trouble picking up most of the skills and tricks we learned at his class (with the notable exception of the emergency stop, but he is getting there slowly). It helped that a lot of his new skills are fun for him too, and help stimulate his mind; something that can be a struggle for non-working Border Collies.
+As with his [puppy training]({% post_url 2016-08-06-puppy-life-skill %}), Charlie had little trouble picking up most of the skills and tricks we learned at his class (with the notable exception of the emergency stop, but he is getting there slowly). It helped that a lot of his new skills are fun for him too, and help stimulate his mind; something that can be a struggle for non-working Border Collies.
 
 His training classes were again at [Karen's DOGS][karens-dogs-link], although this time he was joined by only two other dogs; a calm and gentle whippet called Saffy (who he absolutely adored), and an energetic golden Labrador named Millie (who he could not stand). It was unfortunate that he didn't get on with her, as it curtailed the socialisation aspect of his training classes, but I couldn't really fault him; Millie was incredibly full-on and, as she was twice the size of him, I don't blame him for being wary.
 
