@@ -25,7 +25,7 @@
                                                 {{ page.title }}
                                             </h1>
                                             <div class="post-details intro-text">
-                                                {{ page.date | date: "%d %B %Y" }} | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
+                                                <abbr title="Posted at {{ page.date | date: '%H:%M on %A, %d %B %Y' }}">{{ page.date | date: "%d %B %Y" }}</abbr> | <abbr title="{{ page.content | number_of_words }} words">{{ wordcount | divided_by: 200 | plus: 1 }} min{% if wordcount > 200 %}s{% endif %}</abbr><br />
                                                 {% for category in page.categories %}
                                                     <a href="{{ site.baseurl }}/#{{category}}">{{category}}{% if category == "charlie" %} <i class="fa fa-paw fa-fw"></i>{% endif %}</a>{% unless post.categories.size == 1 %}{% if forloop.rindex0 == 1 %} &{% elsif forloop.last == false %}, {% endif %}{% endunless %}
                                                 {% endfor %}
