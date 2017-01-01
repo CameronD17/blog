@@ -1,0 +1,98 @@
+---
+layout:         post
+title:          "Refresh"
+date:           2017-01-01 15:30:00 +0000
+tags:           resolutions fitness finance introspection memories productivity
+categories:     personal
+---
+
+This time last year, I sat down with the remnants of a Hogmanay hangover and went over my [resolutions for the 2015 year]({% post_url 2015-12-26-retrospection %}), marked off what I had and hadn't achieved, and [wrote down my plans for 2016]({% post_url 2016-01-03-prognostications %}).
+
+<!-- Read More -->
+
+No Hogmanay in Edinburgh for me this year though; after going to the famous (infamous?) Street Party in both 2014 and 2015, I decided for 2016 to have a quieter New Year celebration with friends back in the North-East. As such, I'm able to write this post after just half a day of recovery, rather than the typical two Scottish bank holidays normally required for recuperation. 
+
+I'm on the train back to my adoptive homeland of Scotland with [Charlie][charlie-blog-posts] now though, and again for this year, my resolutions fall into three broad categories; health, finance, and development:
+
+## Health and Fitness
+
+### 2016 Outcome  
+
+> Exercise a minimum of three times a week <i class="fa fa-times" aria-hidden="true"></i>
+
+Not really; similar to this time last year, five-a-side is the only exercise I'm doing on a consistent basis. I do walk a lot more now thanks to [Charlie][charlie-blog-posts], but that's still not as much as I'd like.
+
+> Zero cigarettes in 2016 <i class="fa fa-check" aria-hidden="true"></i>
+
+So close. Cigarette free entirely until the work Christmas party a few weeks ago when I had a half cigarette. Nevermind, it's close enough; 0.5 can round down to zero. I consider this one done.
+
+> Run a sub-23 minute 5K <i class="fa fa-times" aria-hidden="true"></i>  
+> Run a sub-53 minute 10K <i class="fa fa-times" aria-hidden="true"></i>  
+> Run a cumulative million metres in 2016 (1000km) <i class="fa fa-times" aria-hidden="true"></i>
+
+None of the above. After a fractured ankle in April followed almost immediately by getting [Charlie][charlie-blog-posts], running has been essentially non-existant for the last eight months or so. I do want to get back into it, with the dog as my running partner, but training him not to herd me and nip my ankles when I run has proved difficult thus far.
+
+### 2017 Goals
+
+This year's goals are going to be similar to last year's, given that I essentially failed at them entirely this year. Sorry in advance, January 2017 me:
+
+- Exercise four times per week (three running or gym sessions, and five-a-side on a Monday).
+- No alcohol outside of social situations.
+- No cigarettes.
+- Return to 10k level fitness (sub-55 minute 10k).
+
+## Finance
+
+### 2016 Outcome  
+
+> No negative months <i class="fa fa-check" aria-hidden="true"></i>
+
+I came close to missing this target more than once in 2016, but just about scraped through. This year has been less successful for savings than last year, thanks in no small part to Charlie, who according to [YNAB]({% post_url 2016-05-03-ynab %}) has cost me £2000 over the last eight or so months that we've had him. Good thing he's so damn cute.
+
+> Maintain and slowly increase emergency fund to nine months expenses <i class="fa fa-times" aria-hidden="true"></i>
+
+Realistically, this was a stretch goal. Savings haven't moved a great deal, but considering my outgoings for both the flat and Charlie, just the fact that they haven't reduced is in itself an achievement.
+
+> Hit travel savings targets <i class="fa fa-check" aria-hidden="true"></i>
+
+Yes, I saved (and subsequently spent) more or less all of my travel savings target of £3000 for the year, visiting [Gdańsk]({% post_url 2016-03-26-gdansk %}), [Brussels]({% post_url 2016-03-27-brussels %}), [Lisbon]({% post_url 2016-06-15-lisbon %}), [Copenhagen]({% post_url 2016-07-12-copenhagen %}), [Stockholm]({% post_url 2016-07-15-stockholm %}), and [Paris]({% post_url 2016-08-20-paris %}) over the last 12 months. Some money has also gone towards my upcoming trips to Rome in January and the Pacific North-West in May.
+
+> Continue using YNAB <i class="fa fa-check" aria-hidden="true"></i>
+
+Yes, YNAB is still a constant feature. Official support for YNAB4 expired yesterday (December 31st 2016) though, and I still don't consider the web-based successor to be good enough. With Dropbox withdrawing API support in six months time or so, I may need to revisit what tools I use to keep my finances in check for 2017.
+
+### 2017 Goals
+
+2016 wasn't entirely disastrous, but probably not quite as good as it could have been. That said, I think more of the same for this year is probably a reasonable target: 
+
+- No negative months.  
+- Increase emergency fund by one month (£1500).  
+- Hit travel savings target (£3500).  
+- Continue tracking finances, in YNAB or otherwise.
+
+## Development
+
+### 2016 Outcome
+ 
+> Continue developing and improving my personal website/blog <i class="fa fa-check" aria-hidden="true"></i>
+
+This one I've actually done. Usually, with these sorts of things, I give up after a few months. I've actually enjoyed writing and developing this blog though, so it hasn't felt like a chore.
+
+> Learn a new language and use it in a work/professional capacity <i class="fa fa-times" aria-hidden="true"></i>
+
+Not as much as I'd have liked. I've learned peripheral languages and skills and applied them to my career, but not to the extent I was visualising back in January last year. That said, I have worked on a couple side projects that have taught me new skills, so it's not a total failure for this goal.
+
+### 2017 Goals
+
+Fairly simple for 2017 I suppose, and not a great deal of change from this time last year.
+
+- Continue writing and improving my little eco-system of sites.  
+- Complete one small [side-project][projects-subdomain] every quarter.
+- Increase my writing to an average of one blog post per week.
+
+While that last one isn't strictly related to development, it doesn't really fit in anywhere else. Given that I did stay on track with my blog this year though I think it's doable, and only a slight increase on last year's average of 0.88 posts per week (46 posts in the 52 weeks of 2016).
+
+Well, I guess I'll see you again this time next year. Hopefully with more successfully reached goals, and some more imaginative targets for 2018.
+
+[charlie-blog-posts]: http://blog.camerondoyle.co.uk/#charlie
+[projects-subdomain]: http://projects.camerondoyle.co.uk/
