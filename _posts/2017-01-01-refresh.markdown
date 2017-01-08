@@ -3,7 +3,7 @@ layout:         post
 title:          "Refresh"
 date:           2017-01-01 15:30:00 +0000
 tags:           resolutions fitness finance introspection memories productivity
-categories:     personal
+categories:     goals
 ---
 
 This time last year, I sat down with the remnants of a Hogmanay hangover and went over my [resolutions for the 2015 year]({% post_url 2015-12-26-retrospection %}), marked off what I had and hadn't achieved, and [wrote down my plans for 2016]({% post_url 2016-01-03-prognostications %}).
