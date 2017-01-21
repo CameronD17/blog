@@ -55,7 +55,7 @@ Realistically, this was a stretch goal. Savings haven't moved a great deal, but 
 
 > Hit travel savings targets <i class="fa fa-check" aria-hidden="true"></i>
 
-Yes, I saved (and subsequently spent) more or less all of my travel savings target of £3000 for the year, visiting [Gdańsk]({% post_url 2016-03-26-gdansk %}), [Brussels]({% post_url 2016-03-27-brussels %}), [Lisbon]({% post_url 2016-06-15-lisbon %}), [Copenhagen]({% post_url 2016-07-12-copenhagen %}), [Stockholm]({% post_url 2016-07-15-stockholm %}), and [Paris]({% post_url 2016-08-20-paris %}) over the last 12 months. Some money has also gone towards my upcoming trips to Rome in January and the Pacific North-West in May.
+Yes, I saved (and subsequently spent) more or less all of my travel savings target of £3000 for the year, visiting [Gdańsk]({% post_url 2016-03-26-gdansk %}), [Brussels]({% post_url 2016-03-27-brussels %}), [Lisbon]({% post_url 2016-06-15-lisbon %}), [Copenhagen]({% post_url 2016-07-12-copenhagen %}), [Stockholm]({% post_url 2016-07-15-stockholm %}), and [Paris]({% post_url 2016-08-20-paris %}) over the last 12 months. Some money has also gone towards my upcoming trips to [Rome]({% post_url 2017-01-19-rome %}) in January and the Pacific North-West in May.
 
 > Continue using YNAB <i class="fa fa-check" aria-hidden="true"></i>
 
