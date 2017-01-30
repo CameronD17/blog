@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Test post, please ignore"
+title:          "Test Post, Please Ignore"
 date:           2015-11-30 13:00:00 +0000
 tags:           meta screenshot
 categories:     blog

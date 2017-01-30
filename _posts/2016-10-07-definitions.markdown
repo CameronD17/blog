@@ -22,6 +22,8 @@ I don't maintain myself particularly well in terms of my web biographies. No dou
 
 I'll try to keep my definitions in check.
 
+> Update January 2017: Since writing this article, I've moved my now link to [http://now.camerondoyle.co.uk][now-link] (as opposed to the /now slug). The links in this post have been updated to reflect this change.
+
 [blog-post-travel]: http://blog.camerondoyle.co.uk/#travel
 [now-home-link]: http://nownownow.com/about
-[now-link]: http://blog.camerondoyle.co.uk/now/
+[now-link]: http://now.camerondoyle.co.uk/
