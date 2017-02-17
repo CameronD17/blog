@@ -1,8 +1,8 @@
 ---
 layout:         post
 title:          "Quarter"
-date:           2017-02-17 09:30:00 +0000
-tags:           personal introspection goals edinburgh
+date:           2017-02-17 11:30:00 +0000
+tags:           introspection resolutions edinburgh
 categories:     personal
 ---
 
