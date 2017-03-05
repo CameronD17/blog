@@ -1,0 +1,65 @@
+---
+layout:         post
+title:          "Couch to 5k"
+date:           2017-03-05 21:30:00 +0000
+tags:           fitness running
+categories:     fitness
+---
+
+When I first started this blog, back in November 2015, I was running fairly consistently about 20km a week. In fact the first couple of draft posts I started (and never posted) for the blog were centred around running, including my original [2016 New Years resolutions]({% post_url 2016-01-03-prognostications %}).
+
+<!-- Read More -->
+
+However, early in 2016 running fell by the wayside. I picked up an injury to my ankle playing 5-a-side (minor sprain, maybe 3-4 weeks of no exercise), and never really got back into running after I recovered. Compounded with the [adoption of Charlie]({% post_url 2016-04-25-puppy %}) in April, which meant a huge reduction in free time, I ended up going a good eight months without running at all.
+
+For my 24th birthday last February, just before my injury, I'd asked for money towards a new pair of running shoes in lieu of gifts. As of Christmas just gone, that money was still sitting in my [YNAB]({% post_url 2016-05-03-ynab %}) category waiting to be spent. Given that I was planning to [get back into fitness]({% post_url 2017-01-01-refresh %}) this year anyway, I figured this would be as good a time as any to get fitted for a new pair of running shoes and finally spend the gift money. The day after I got back to Edinburgh in the New Year, I headed to a well-respected running store in Corstorphine, Run4It, and got fitted for a pair of Saucony Guide 10's.
+
+Naturally, having taken such a long hiatus from running, I was essentially starting again from scratch. I'd never really followed a training plan for running, preferring to simply head out and see where I ended up when I felt like it, so a structured plan to follow was fairly foreign to me. Nevertheless, I'd heard good things and great results from people who had followed the nine-week [Couch to 5k (C25K)][cool-running-c25k] plan, so I decided to give it a shot. Each week of the plan has three runs, which was about the level of running I was hoping to get back to, so on Wednesday, January 4th, I started my first run of the C25K method. Every day of the plan started and ended with a five-minute warm-up / cool-down power walk, on top of the given running/walking routines.
+
+## Week 1
+
+The first week was fairly easy. My ego was trying to talk me into skipping this week and starting straight into Week 2 or 3, but experience of shin splints from previous runs when I started up last time overruled me. I needed to ease into the plan, or I'd wind up with an injury that would stop me running at all. All three days of Week 1 consisted of eight repetitions, each one alternating 60 seconds running / 90 seconds walking (20 minutes total). This was a nice and easy introduction back to running - although I did have to force myself to slow down at times, otherwise the pace I was setting would become unsustainable over the coming weeks. 
+
+## Week 2
+
+Following on from the first week of getting used to running again, all three days of Week 2 consisted of six repetitions of alternating 90 seconds running / 2 minutes walking (21 minutes total). Only one minute of actual running more than Week 1 (8 minutes to 9 minutes), so Week 2 still felt quite slow paced. I decided to up the speed for this week and slow down only when I had to. It felt like I was stopping too often, but I'm still pleased I didn't skip these weeks, as I would have almost certainly wound up with an injury.
+
+## Week 3
+
+Week 3 was again three days of the same running pattern, although this time it moved to two cycles of 90 seconds running / 90 seconds walking / 3 minutes running / 3 minutes walking (18 minutes total). The two three-minute runs were actually quite difficult, particularly the first run which I did whilst Sasha and I were in [Rome]({% post_url 2017-01-19-rome %}), and therefore away from the cycle track I normally use for my runs. This only reinforced my decision to complete the first two weeks and give myself a base to build from though, rather than diving straight in to the third week right at the start. 
+
+## Week 4
+
+After struggling a little with Week 3, Week 4 brought the first real challenge of the programme. Again, all three days followed the same pattern of 3 minutes running / 90 seconds walking / 5 minutes running / 2 1/2 minutes walking / 3 minutes running / 90 seconds walking (15 minutes total). Mixing up the run to avoid repetition was a welcome change, but the five minute run in the middle was a big hurdle, and the first time I started to really drop my pace. The last run of the week was particularly difficult, coming on a Sunday night after a long weekend of junk food and alcohol in Belfast, and my muscles were aching after the first half due to the lack of nutrition they'd received - this was by far the worst run of the first half of the plan, but at least I completed it.
+
+## Week 5
+
+Week 5 was the first week that had different running patterns for each of the days. The first run was surprisingly easy after my awful W4D3 run, following a pattern of 5 minutes running / 3 minutes walking / 5 minutes running / 3 minutes walking / 5 minutes running (21 minutes total). I think I'd psyched myself out before this run, but after completing it I felt much better about the rest of the plan. Day 2 was a little more difficult, with 8 minutes running / 5 minutes walking / 8 minutes running (21 minutes total), but that was mainly due to my poor route planning which meant the last three minutes of the second half were all uphill. The uphill finish was a good metaphor though, as I was now more than halfway through the plan!
+
+Day 3 was a shock though. I initially thought it was a mistake - 20 minutes running. No walking breaks, just go out and run. I was dreading it, but I paced it well and completed the full run without stopping for a rest, managing a solid 5:07min/km overall pace. Having completed the plan now, I actually think this was intentional. The 20 minute run is a psychological challenge, not a physical one. Once you've done this run, you feel like all of the future runs of the plan will be a breeze, which is a good motivator to continue into Week 6.
+
+## Week 6
+
+Week 6 again had different running patterns for each day, and was the last week with walking intervals. The first run followed a pattern of 5 minutes running / 3 minutes walking / 8 minutes running / 3 minutes walking / 5 minutes running (24 minutes total), and in all honesty was much harder than I anticipated. After the successful W5D3 20 minute run, I was expecting to breeze this; but I didn't pace it correctly, and the last five minute run in particular was a struggle. The same for Day 2, with the pattern of 10 minutes running / 3 minutes walking / 10 minutes running (23 minutes total), although I was feeling pretty ill for this run. This run felt more like what I expected W5D3 to look like, but again I think the psychological boost of completing W5D3 was much more pronounced than if it had followed a pattern like this.
+
+Having struggled with the runs using walking intervals, Day 3 of 22 minutes running was daunting, but I managed it, albeit with a lower overall pace (5:13min/km) than I was targeting. A lot of the run was into the wind though (not that I'm looking for excuses...) but I felt good enough about the run that I was confident I could complete the program entirely.
+
+## Week 7
+
+Starting in Week 7, there were no more walking breaks for to split up the runs. The plan returns to following the same profile for all three days of the week - this time a 25 minute run for each. Week 7 also coincided with starting 5-a-side on Tuesday nights again, so I had to plan my runs carefully to avoid burning out. Day 1 went well, with the 25 minute run taking me 4.7km - close to my overall target pace of 5:00min/km. I was honestly surprised that I didn't struggle more with the first 25 minute run; Day 2 (which happened to fall on [my birthday]({% post_url 2017-02-17-quarter %}) was a much more difficult run, most likely due to my day of cake and beer before going running. Day 3 felt much better, coming so close to my 5km target (4.99km), boosting my confidence going into the penultimate week.
+
+## Week 8
+
+All three days of the second-to-last week consisted of a single 28 minute running period per run. Day 1 took place the day after my second 5-a-side game of the year, and a terrible night of sleep, so not an ideal run in terms of pace and feel, but I still managed to complete it successfully. Day 2 I ran back in Blyth, pretty much making the route up as I went. In doing so, I ended up running a lot more uphill, and combined with a dodgy GPS tracker made my run look a lot worse than it felt whilst I was running it. Day 3 I actually pushed back to the Monday of the following week as I was playing football twice in Week 8. I'd picked up a slight knock to my right knee during the game which was a little tender, but my pace was still reasonable for the final run of Week 8 at about 5:15min/km, and didn't pose too much of a problem.
+
+## Week 9
+
+By the final week, I had already surpassed the 5k mark during my 28-minute runs, so the three days of 30 minutes running were more of a push to keep my pace. The plan overall assumes a target pace of 6:00min/km (which would be a 5k in 30 minutes), however as I was targeting a 5:00min/km the 30 minute runs should have theoretically taken me to the 6km mark. My actual average pace coming into Week 9 was probably closer to a 5:15min/km pace, so I aimed to just keep that steady pace going. 
+
+Day 1 came after three consecutive football/running days (including W8D3), so I surprised myself by managing to run 5.9km over the 30 minutes, just 4 seconds/km off my target pace. My shins were starting to hurt after the run though, so the day off the next day was much appreciated. Day 2 though was a fairly disappointing penultimate run of the plan. GPS issues meant that I didn't log an accurate pace, and it just didn't feel like a solid run. It took a lot of willpower not to just throw in the towel and try again another day, but I pushed through and finished the run, a little disheartened but at least I didn't quit.
+
+My last run of the plan, W9D3, took place this evening. I have had guests with me in Edinburgh this weekend, none of which chose to come out with me to celebrate completing the plan (not that I can blame them). For a 9pm run after a weekend of drinking and poor diet, the run felt fantastic, clocking a pace almost as good as W9D1; 5:08min/km compared with the 5:04min/km pace earlier in the week. It was a good run for reflection, and thinking about how I want to progress from here. I've just about reached my goal of a 25 minute 5k (back on W7D3), which I'm happy enough with. My next goal is to complete my original 2016 resolution of a sub-23 minute 5k which I failed to achieve last year; targeting the end of April for that one. I'm also planning to start going back to Parkrun on a Saturday morning, as of next weekend, the first of which will be a celebration of completing C25K; next week I'm only going to do one run on Wednesday to recover in time before the Parkrun. 
+
+The running bug is fully back with me, hopefully to stay this time.
+
+[cool-running-c25k]: http://www.coolrunning.com/engine/2/2_3/181.shtml
