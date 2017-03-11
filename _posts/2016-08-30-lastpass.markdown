@@ -43,6 +43,8 @@ If you don't already have a password manager, I would strongly advise you to get
 
 Overall, I have been very pleased with LastPass and how well it has integrated into my everyday usage. I'm not sure how I survived with my poor security practices beforehand, and I would highly recommend trying it out for yourself. The web version is free, the only paid upgrade is for the mobile apps at $12/year, which as far as I'm concerned represents great value for money.
 
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></p>
+
 *Note: I am not affiliated with LastPass in any way, but I will continue to recommend it for the impact it has had on my online security.*
 
 [heartbleed-wikipedia-link]: https://en.wikipedia.org/wiki/Heartbleed

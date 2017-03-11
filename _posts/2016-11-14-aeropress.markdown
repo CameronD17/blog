@@ -94,3 +94,5 @@ Hopefully I've managed to convey my love of the AeroPress well here. A couple of
 If you don't already have an AeroPress, they can be picked up reasonably cheaply in most quality coffee stores, or online stores such as Amazon generally have them. They retail for around £20-25, and a pack of 350 replacement filters is around £4-5 (as is a third-party reusable metal filter), so nothing to break the bank. If you're thinking about diving into the world of good quality coffee, you need look no further than the Aerobie AeroPress.
 
 Now, if you'll excuse me, I'm suddenly feeling the urge to make myself a cup of coffee.
+
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></p>

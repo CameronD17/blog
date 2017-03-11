@@ -2,7 +2,7 @@
 layout:         post
 title:          "Red Hot Chili Peppers"
 date:           2016-12-11 21:00:00 +0000
-tags:           glasgow music events
+tags:           glasgow music events review
 categories:     events
 custom_js:      instagram
 ---
@@ -66,6 +66,6 @@ Throughout the night, there was a solid coherence between the band members. Flea
 
 Altogether, the Chili Peppers lived up to their well-earned reputation developed over the last 30-odd years. With performances like this, there's no reason for them to slow down yet.
 
-<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half" aria-hidden="true"></i></p>
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></p>
 
 [babymetal-youtube]:            https://www.youtube.com/user/BABYMETALofficial/

@@ -45,7 +45,7 @@ One of the more impressive features of the Fitbit Charge 2 so far has been the b
 
 Overall, I'm very happy with my Fitbit Charge 2. I may upgrade in the future to a more running-oriented tracker (I have my eye on the Garmin Forerunner 235), but for an all-round basic fitness tracker, the Charge 2 does a great job.
 
-<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></p>
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></p>
 
 [fitbit-charge-2-link]: https://www.fitbit.com/charge2
 [sleep-cycle-home-page]: https://www.sleepcycle.com/

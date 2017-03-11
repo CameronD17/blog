@@ -55,5 +55,7 @@ Be sure to remove the wooden neck of the Chemex to clean it, otherwise scum will
 
 With care and attention, the Chemex is perfectly capable of producing a clean, floral cup of beautiful coffee. Without care and attention, you can end up with a cup of garbage. There are much finer margins with the Chemex than most other coffee brewers like the AeroPress, American Press and French Press, but the pay-off is just as high when it all comes together.
 
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-o" aria-hidden="true"></i></p>
+
 ![Pouring out the labour of love]({{site.baseurl}}/assets/img/chemex-result.jpg)
 *Pouring out the labour of love*

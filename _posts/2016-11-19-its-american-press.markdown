@@ -56,4 +56,6 @@ These issues are far from deal-breakers, but they're a little frustrating given 
 
 Now, like every other time I've written about coffee, I feel like I need another cup. I'll see if I can finally make a bad cup with the American Press, but something tells me that won't be the case.
 
+<p class="emphasis"><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star-half-o" aria-hidden="true"></i></p>
+
 [american-press-indiegogo-page]: https://www.indiegogo.com/projects/it-s-a-new-way-to-brew-it-s-american-press-coffee-design/
