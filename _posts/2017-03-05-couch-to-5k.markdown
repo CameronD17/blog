@@ -62,4 +62,7 @@ My last run of the plan, W9D3, took place this evening. I have had guests with m
 
 The running bug is fully back with me, hopefully to stay this time.
 
+> Update March 2017: I finished my first Parkrun to mark the completion of Couch to 5k on March 11th, with a time of 24 minutes 25 seconds (average pace of 4:53min/km), beating my target of 25 minutes (5:00min/km). [I finished 181st out of 524 runners, and 14th in my age category.][parkrun-385-results]
+
 [cool-running-c25k]: http://www.coolrunning.com/engine/2/2_3/181.shtml
+[parkrun-385-results]: http://www.parkrun.org.uk/edinburgh/results/weeklyresults/?runSeqNumber=385
