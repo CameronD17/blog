@@ -1,0 +1,21 @@
+---
+layout:         post
+title:          "CGI"
+date:           2017-03-31 22:20:00 +0100
+tags:           introspection edinburgh work charlie
+categories:     personal goals
+---
+
+I've talked a lot in recent months about what [path I'm taking]({% post_url 2017-02-03-labyrinth %}), changes that have happened to me, [where I am in my life]({% post_url 2017-02-17-quarter %}) and how I feel about how I got here. Well, today was a big change; my last day at my first professional job.
+
+<!-- Read More -->
+
+In all honesty, I've been thinking about moving on for a while. Nothing against CGI at all, but the roles they've wanted me to do haven't really aligned with the direction I want to take my career, and constantly pushing back to correct that diversion has been mentally draining. Compounded with the fact that I've been working on the same project for over two and a half years (albeit in a wide range of roles), I felt that I needed a change. 
+
+After the realisation that CGI and I wanted different things in terms of my career development and progression, something that was unlikely to change long-term, the main reason I delayed my departure was [Charlie][charlie-blog-posts]. At the client site I worked at for CGI, my commute was only a 15 minute walk; I could come home at lunchtime to see him, let him out and break up his day so he wasn't on his own for long stretches of time. He's old enough now that he's okay being left alone for the duration of a workday, although we're still going to mitigate that with a dog walker on alternate days. Charlie met her yesterday for his first group walk, with a Golden Retriever, a Beagle, and a West Highland Terrier, and he seemed to love it. I was concerned he might not take kindly to a dog-walker given how much he hates being separated from me on his walks, but the group walk will be better for his [socialisation]({% post_url 2016-06-05-socialisation %}) than a solo one-on-one visit would be. But I digress.
+
+Had the opportunity arisen in the past eighteen months to do something different within CGI here in Edinburgh I probably wouldn't be writing this post tonight; but life isn't ever that straightforward and simple. I'm leaving CGI with many close friends and no hard feelings; both sides know that I need to do this as the best option for me and my career. I'll still be heavily involved with CGI informally for at least the next couple of months as we prepare to host the CGI Euros in Scotland in June, and no doubt I'll still be playing for the CGI Scotland team in 2018 and beyond (if they'll have me).
+
+I start my new job here in Edinburgh on Monday, and no doubt I'll have a post or two to write about it. The office is closer to the city centre, changing my commute from the 15 minute walk to a 35 minute tram-and-bus journey (or about a 25-30 minute run, which I plan to do semi-regularly if it's feasible). The role will be much closer to the career path I want to take right now. Is it the right one? I don't know, but it's definitely where I want to be, even if it may not necessarily work out to be where I should be.
+
+[charlie-blog-posts]: http://blog.camerondoyle.co.uk/#charlie
