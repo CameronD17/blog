@@ -32,11 +32,7 @@ Like most coffee brewing, you want the water to be around 90°C to start with - 
 ![French press brewing and waiting to be plunged]({{site.baseurl}}/assets/img/french-press-brewing.jpg)
 *French press brewing and waiting to be plunged*
 
-<<<<<<< HEAD
-Wait four minutes. No more, no less - at least not at first. Four minutes is far and away the most common brew time, so start there and experiment up or down depending on if you feel your brew is too under- or over-extracted. Some people are happy with a short 2-3 minute brew time; others swear by six minutes. Once the time is up, start plunging. You should feel some light resistance, but not too much. Too little, and you have too coarse a grind. Too much, and you're too fine. The press should be slow and controlled, lasting maybe 30 seconds max.
-=======
 Wait four minutes. No more, no less - at least not at first. Four minutes is far an away the most common brew time, so start there and experiment up or down depending on if you feel your brew is too under- or over-extracted. Some people are happy with a short 2-3 minute brew time; others swear by six minutes. Once the time is up, start plunging. You should feel some light resistance, but not too much. Too little, and you have too coarse a grind. Too much, and you're too fine. The press should be slow and controlled, lasting maybe 30 seconds max.
->>>>>>> a47a755c4781524a8886b3e0a48992e6b247a45d
 
 After pressing, pour out the coffee immediately, or it will continue brewing in the chamber. I personally would leave the last 150ml or so in the chamber, and also the last mouthful in each cup. The French press leaves a lot of sediment, and while there's no harm in drinking grinds, I find the gritty texture unpleasant, so I avoid it where I can.
 
