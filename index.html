@@ -22,11 +22,26 @@ custom_js:
 {% assign millions = totalwords | divided_by: 1000000 %}
 {% assign thousands = totalwords | divided_by: 1000 %}
 {% if millions != 0 %}
-    {% assign thousands = totalwords | divided_by: 1000 | modulo: 1000 %}
+    {% assign thousands = thousands | modulo: 1000 %}
+	{% if thousands < 10 %}
+		{% assign thousands = thousands | prepend: '00' %}
+	{% elsif thousands < 100 %}
+		{% assign thousands = thousands | prepend: '0' %}
+	{% endif %}
     {% assign hundreds = totalwords | modulo: 1000 %}
+	{% if hundreds < 10 %}
+		{% assign hundreds = hundreds | prepend: '00' %}
+	{% elsif hundreds < 100 %}
+		{% assign hundreds = hundreds | prepend: '0' %}
+	{% endif %}
     {% assign formattedtotalwords = millions | append:',' | append:thousands | append:',' | append:hundreds %}
 {% elsif thousands != 0 %}
     {% assign hundreds = totalwords | modulo: 1000 %}
+	{% if hundreds < 10 %}
+		{% assign hundreds = hundreds | prepend: '00' %}
+	{% elsif hundreds < 100 %}
+		{% assign hundreds = hundreds | prepend: '0' %}
+	{% endif %}
     {% assign formattedtotalwords = thousands | append:',' | append:hundreds %}
 {% else %}
     (% assign formattedtotalwords = totalwords %}
