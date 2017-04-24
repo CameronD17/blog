@@ -1,0 +1,52 @@
+---
+layout:         post
+title:          "Dog Years"
+date:           2017-04-24 22:00:00 +0100
+tags:           charlie introspection sasha photography
+categories:     charlie
+custom_js:		instagram
+---
+
+One year ago today, we [brought home a little eight-week-old puppy]({% post_url 2016-04-25-puppy %}), who we'd decided to name Charlie. He's grown and changed so much since then, but it's so hard to remember what life was like without him.
+
+<!-- Read More -->
+
+He's curled up asleep beside me on the sofa as I write this, having been out for a long walk with me this afternoon after I finished work. When we first brought him home, the rule was that he would only be allowed on the sofa if he stayed on his blanket across to the far side. That blanket hasn't been on the sofa for about a month now; the rule went out the window a long time ago.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BFyM76mA9mP/" target="_blank"></a>
+    </blockquote>
+</div>
+
+## Sleeping
+
+Another thing that's different from the day we brought Charlie home is his sleeping arrangements. When he first arrived, we'd borrowed a dog crate from Sasha's family for Charlie to sleep in. As he was very small, I blocked off the rear half of the cage with cardboard, giving him a cozy den to sleep in, which we kept in the living room while we were cage- and house-training him. For the first few months, I attached a metal pen to his cage so he could come out and relieve himself when we were not in the house. This worked well for the most part, Charlie was house trained fairly early on, although moving from the grass area outside into our front garden took a little longer to train. 
+
+Eventually, when he was old enough to hold himself for four hours or so, we removed the pen and kept him in his crate during the day. I was still working at [CGI]({% post_url 2017-03-31-cgi %}) at the time, and was able to come home at lunch times to let him out and play with him a little to break up his day. We developed a weekday routine at lunchtime, where I would let him in the garden when I got home, and then go to the kitchen to make my lunch. Charlie would come back inside, lie under the table in the dining room, and wait for me to bring my lunch through and eat it, with him curled at my feet. Then we would spend a quarter hour or so playing in the garden or in the flat, before I had to head back to work. In all honesty, this is probably the one thing I miss since switching jobs; now that I work in the city centre, I can no longer come home to see Charlie at lunch time.
+
+Not long before Christmas, we moved Charlie's crate from the living room out into the hallway. Having adopted him in April, last year was his first Christmas period, and his crate was situated in the spot we usually put our Christmas tree. We'd cleared the space in the hallway for Charlie's crate, and it was a much less painful process than I imagined it would be to convince him to sleep in the hallway. He retained the command 'cage' with minimal coaxing (meaning 'go to bed'), helped a lot by the [target training]({% post_url 2016-10-12-progress-life-skill %}) we did in his Progress class. This was the situation up until about a month ago, when I removed his crate entirely and installed a gate to the walls of the hallway instead, effectively giving him a bigger space as his den.
+
+## Now
+
+Charlie has just rolled over beside me onto his back, paws up in the air - typical Border Collie pose - which I know means "please scratch my belly". He has us as well trained as we have him; I'm not sure if that's a good thing or not. Every morning, usually after our walk, he burrows his head under Sasha's arm when she's trying to get ready, and sits there until she scratches his belly. When he gets too annoying, we've taught him (slightly inadvertently) the command "where's Sasha/Cameron?!", which causes him to rush out the room to find the other one of us, giving at least a brief moment of peace before he comes flying back through.
+
+Despite no longer coming home at lunchtimes during the work week, Charlie has adapted well to being on his own through the day. We've hired a dog walker for him two days a week for nights that we aren't in the flat to help break his day up, but for the other three days he's been no problem being on his own for most of the day, to the point where on a weekend he still sleeps a lot during the day even when we're in with him, as he is in the routine now of sleeping through work hours Monday to Friday.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BSeY9b1AYLO/" target="_blank"></a>
+    </blockquote>
+</div>
+
+In fairness to him, he is a lot calmer than I expected him to be when we chose a Border Collie, particularly in the time since he was neutered earlier this year (which we felt we had to do, as he was becoming aggressive with male dogs of certain breeds). Sure, he has limitless energy and would probably run for twelve straight hours if we asked him to, but he's also content with about a half hour throwing a tennis ball around the park then coming home to curl up on the sofa. I don't know if we got lucky with him, or if people just overexaggerate how unstoppable Border Collies can be, but it's been a rare occurance for me to be seriously stressed out with his behaviour since he moved past adolescence. Or maybe I just have my rose-tinted glasses on. He had a few bad days during his teenage stage, although we got through them relatively painlessly (according to [Pedigree][pedigree-dog-age] he's now the equivalent of a 15 year old child), and it's definitely been trending better in recent months.
+
+Hopefully our routine changes have slowed down considerably now that I've started my new job. There's still kinks to work out, but I think Charlie is happy the way things are, at least for now. I can't imagine the next year or so having anywhere near as much change as this one has had; but as long as Charlie's happy then that's fine by me.
+
+<div class="instagram-container">
+    <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6">
+        <a href="https://www.instagram.com/p/BTSDe9nleTs/" target="_blank"></a>
+    </blockquote>
+</div>
+
+[pedigree-dog-age]: https://www.pedigree.com/dog-care/dog-age-calculator
