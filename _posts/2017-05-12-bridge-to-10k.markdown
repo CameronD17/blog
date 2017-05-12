@@ -1,0 +1,69 @@
+---
+layout:         post
+title:          "Bridge to 10k"
+date:           2017-05-12 12:00:00 -0700
+tags:           fitness running
+categories:     fitness
+---
+
+Following on from a reasonably successful completion of the [Couch to 5k]({% post_url 2017-03-05-couch-to-5k %}) plan in March, I decided to continue building up my running distance, with the aim of running a 10km race at the end of May.
+
+<!-- Read More -->
+
+## Week 1
+
+The first week eased into running with a lower volume plan than the final week of Couch to 5k. Day 1 was a simple 20 minute run, at the same pace I'd been running for Couch to 5k, and was the shortest run I'd been on for three weeks at this point. 
+
+Day 2 introduced tempo runs, with a pattern of 10 minutes jogging, 3 minutes tempo running, and 10 minutes jogging. I probably ran the jogging parts slower than I could have done - my GPS was playing up, but I feel I was at about a 6:30min/km pace for the jogging sections, and about 4:40min/km pace for the tempo run in the middle. Now that I'm actively tracking and changing pace in the training, I could have really done with a "proper" running tracker. My [Fitbit Charge]({% post_url 2017-02-12-fitbit-charge-2%}) is great, but the GPS connection with my phone is average at best. 
+
+Day 3 again returned to steady 30 minute run, the same as the final week of C25k. I managed a 5:20min/km pace, slightly slower than my intended target, but as I was running a new route it wasn't too far away from my final 10km target pace of 5:10min/km.
+
+## Week 2
+
+In the second week, fast running sections were introduced. I have to say I enjoyed the mix of runs compared with the Couch to 5k programme. Day 1 again was a 20 minute run, at the same steady pace as W1D1; unfortunately, I chose the wrong day to start morning runs, with wind and snowfall throughout the 7am run. I kept to a 5:08min/km pace despite the weather though, a good start to the week. 
+
+Day 2 incorporated the first fast runs; a 10 minute jog, followed by two cycles of 2 minutes fast running / 2 minutes jogging, then an 8 minute steady run. My splits matched the prescribed paces fairly well; 5:30min/km for the jogging, 4:30min/km for the run/jogs, and 5:05min/km for the final 8 minute run. 
+
+The third day of Week 2 was the longest steady run I've done so far at 35 minutes. I was back in Blyth for Mother's Day for this run, during an unseasonably warm March weekend. The run was beautiful though, down by the quayside and along the beach promenade. One of the most enjoyable runs of the programme so far, and I managed a 5:10min/km pace, almost 6.8km total distance.
+
+## Week 3
+
+Once again, Week 3 started with an easy 20 minute run for Day 1. I took [Charlie][charlie-blog-posts] out with me for this run, only the second time we've been out running together. We really need to work on his pacing; he was practically dragging me along for a lot of it, so the 4:55min/km pace was slightly misleading on my part. He seemed to love the run though, so once this programme is completed we'll definitely go running together a lot more. 
+
+My midweek run was an expansion on W1D2, with a 10 minute jog, 5 minute tempo run, 10 minute jog pattern. I was aiming to cover about 4.8km on this run, with the jogging sections at a 5:30min/km pace and the tempo run at about 4:10min/km. I did hit the 4.8km target almost exactly, although my pacing for the jogging and tempo run sections was closer to 5:15min/km and 4:30min/km respectively. Probably more like what I should have been aiming for from the beginning in all honesty.
+
+Day 3 replaced my Parkrun on the Saturday morning of Week 3 - a 40 minute steady run. The longest run I'd done so far, and also the first of 9 training days with only a single day off between runs; starting to ramp up the volume now. The run itself went well, a sunny afternoon in Edinburgh along Union Canal and the Water of Leith. The only real impediments were the hordes of midges; I almost choked on at least three of them. I slowed my pace a little to breath through my nose only, but still managed to cover about 7.7km - about a 5:12min/km pace.
+
+## Week 4
+
+Week 4 took place during my first week at my new job after [leaving CGI]({% post_url 2017-03-31-cgi %}). Day 1 was a simple 20 minute run - I didn't take Charlie this time, and managed my target pace of 5:00min/km. Day 2 was supposed to follow a 10 minute jog, then 3 cycles of 2 minute fast run / 2 minute jogs, and a final 8 minute steady run - however, I skipped this in favour of a 5km run with the running club at my new job. I ran the 5km at an easy 5:40min/km pace, although as I was holding a conversation for the full duration this was harder than it sounds. This was also the run where I stopped tracking my runs using the 10k app, preferring just my Fitbit for tracking runs. Day 3 was another long run, this time for 45 minutes. My target distance was 8.5km for this run, and I managed to just beat the target with 8.7km, about a 5:10min/km pace.
+
+## Week 5
+
+Week 5 was the recovery week for the 10K programme. I started with a simple 15 minute run; it's crazy how short this felt, when only a couple of months ago I wouldn't have been able to do this at any pace. I probably went way too fast with this run, but it felt good to get a short fast run out of my system for a change. I took Charlie with me, which helped, and completed a 3.4km distance (about 4:25min/km pace). Day 2 was again supposed to be short with just 18 minutes total running - a 10 minute steady run, then 4 cycles of 1 minute fast running / 1 minute jogging, with Day 3 as a repeat of W1D3, with a 30 minute steady run. I chose to switch W5D2 and W5D3 though, to fit in better with my schedule. The 30 minute steady run was a difficult run, running home from the office after work. Into strong winds with some long hills, I just about managed a 5:35min/km pace - not the end of the world, but I'd hoped for better. Day 3 (what should have been Day 2) was on a Friday morning, and felt reasonably good - difficult to gauge pace properly during the short fast/slow sections though.
+
+## Week 6
+
+Day 1 started with 25 minute steady run. I initially planned to coincide this run with a Saturday morning Parkrun, but other plans meant I needed to postpone to the run to the Sunday morning. The run went well, hitting a 4:45min/km pace which was admittedly much higher than I was aiming for. Day 2 was a 10 minute jog / 7 minute tempo run / 10 minute run profile, which for 6am in the morning went pretty well, the pace felt good, averaging close to 5:05min/km. Day 3 was a 50 minute steady run, which ended up an aimless meander near to work in the city centre, finishing a total distance of 9.4km (5:20min/km) - the 10km is getting close!
+
+## Week 7
+
+Week 7 started with a 25 minute steady run for Day 1. As we were [hosting guests]({% post_url 2017-04-23-host %}) on the weekend I had planned to run this day, I instead ran the Edinburgh Parkrun 5k out at Cramond, in a new personal best time of 23:24 - the sub-23 minute target is starting to look more realistic! My pace was slightly above 4:40min/km, and [I finished 129th out of 479 runners, and 19th in my age category.][parkrun-391-results]
+
+Day 2 was a 10 minute jog, then 4 cycles of 2 minute fast run / 2 minute jogs, finishing with an 8 minute steady run. I ran this one home from work, and it went well other than the steep hills I hit during the run/jog cycles which threw off the pace a little. Day 3 was a 55 minute steady run, and ended up being my first run over 10km. I ran a there-and-back route from the office along cycle tracks, and although I started to slow for the final 2km, managed an average pace of 5:20min/km.
+
+## Week 8
+
+Week 8 ended up being a bit of a deviation from the plan. Day 1 was supposed to be a 25 minute steady run, but my watch failed and I lost track of time. My planned route was 6km, so instead of a time, I just ran the full distance, probably averaging about a 5:15min/km pace. Day 2 was supposed to be a 10 minute jog / 9 minute tempo run / 10 minute run, but I skipped this day entirely (one of two days I ended up missing) due to a painful plantar fascia ligament in my left foot. Day 3, the longest run of the plan, was a 60 minute steady run. Again, I ran this home from work (via Leith), and ended up managing about 11.2km; roughly a 5:20min/km pace.
+
+## Week 9
+
+The final week of the plan, Week 9, was a welcome recovery week. It started with a steady 15 minute run, which ended up being quicker than I planned at about 4:40min/km. Day 2 was supposed to be an easy 10 minute steady run, then 4 cycles of 1 minute fast running / 1 minute jogging, but as I had so much planning and packing to do for Seattle, I chose to skip it. The final day of the plan was listed as either a 10km race, or a 30 minute steady run. I elected to try for the full 10k run, as this coincided with my first day in Seattle, and I was feeling both guilty for skipping W9D2 and excited to get out exploring the city. However, I didn't plan it very well, and coming immediately after 30 hours of airline food and Tim Horton's, my energy levels were all over the place. I ended up running about 8km, with an average pace of 5:15min/km.
+
+Overall, I'm pleased that I managed to reach the 10km mark twice during the plan (W7D3, and W8D3), although I still feel like I have a ways to go before 10km is a truly comfortable distance for me. I still haven't quite hit my 5km target of sub-23 minutes that I set at the end of [Couch to 5k]({% post_url 2017-03-05-couch-to-5k %}), although at the Parkrun on W7D1 I came closest, with a time of 23:24. It'll come soon enough.
+
+To 'celebrate' finishing this 5k-to-10k plan, I'm running the [Edinburgh Marathon Festival 10k][emf-10k] at the end of the month. The run is around Holyrood Park and Duddingston Loch, so hillwork is something I'll need to work on between now and then. My target time is sub-53 minutes, although as I haven't ran the course in preparation, I'll be happy if I come in under 55.
+
+[charlie-blog-posts]: http://blog.camerondoyle.co.uk/#charlie
+[parkrun-391-results]: http://www.parkrun.org.uk/edinburgh/results/weeklyresults/?runSeqNumber=391
+[emf-10k]: https://www.edinburghmarathon.com/events/10k/
