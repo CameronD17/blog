@@ -1,6 +1,6 @@
 ---
 layout:         post
-title:          "Seattle"
+title:          "Seattle, WA"
 date:           2017-05-14 19:00:00 -0700
 tags:           travel photography
 categories:     travel
