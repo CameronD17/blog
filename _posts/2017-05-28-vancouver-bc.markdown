@@ -24,3 +24,8 @@ After a long day of walking, I met some friends at a ramen place in downtown Van
 I woke relatively fresh on my last full day in Vancouver, Victoria Day, and after the fresh bagel breakfast in the hostel I put on my running shoes and headed back to Stanley Park. The weather was again beautiful, and the 10k route around the outside of the park was a nice easy way to see Vancouver Harbour. After my run, I returned to Granville Island to see the market, picking up a couple of final souvenirs for family as I wandered through. I walked back from the market to the hostel to leave my souvenirs, and then left again to meet my friends for dinner. We hit an Irish bar a block from their flat after eating, and reminisced until the early hours over several pints of Guinness. 
 
 I didn't plan anything for my last day, as my flight home to Glasgow was at 2pm. I still hadn't had any Canadian poutine at this point though, so before I left the city, I visited a hole-in-the-wall place across from the hostel to sample what Vancouver had to offer. Totally sold; I wish we could get cheese curds here in the UK. I walked back to the Skytrain station to the airport for the eight-hour flight home to Scotland, having thoroughly enjoyed my time in Cascadia.
+
+> This post is part 4 of 4 of a trip I took in May 2017.  
+> [Part 1]({% post_url 2017-05-14-seattle-wa %}) covers my time in Seattle.  
+> [Part 2]({% post_url 2017-05-16-portland-or %}) covers my time in Portland.  
+> [Part 3]({% post_url 2017-05-21-pacific-northwest %}) covers my mini road trip through Oregon and Washington State.

@@ -29,5 +29,10 @@ Post walking tour, I ate lunch at one of the 700 food carts scattered around the
 
 The next morning, I woke early again and walked into town for more coffee, this time at Courier Coffee on W Burnside Street, and Stumptown Coffee a block south. Caffeined-up, I walked back to a sports bar near Providence Park, home of the Portland Timbers,  to watch Arsenal play their penultimate game of the season before walking back two blocks to Enterprise Rent-A-Car, waving goodbye to the city as I joined the 405 out of Portland. Road trip time!
 
+> This post is part 2 of 4 of a trip I took in May 2017.  
+> [Part 1]({% post_url 2017-05-14-seattle-wa %}) covers my time in Seattle.  
+> [Part 3]({% post_url 2017-05-21-pacific-northwest %}) covers my mini road trip through Oregon and Washington State.  
+> [Part 4]({% post_url 2017-05-28-vancouver-bc %}) covers my time in Vancouver.
+
 [coffee-blog-posts]: http://blog.camerondoyle.co.uk/#coffee
 [portlandia-wiki]: https://en.wikipedia.org/wiki/Portlandia_(statue)

@@ -62,3 +62,8 @@ After the drive back down to town and a quick lunch, I left town again in the op
 My original plan had been to drive the car into Seattle the following day, before getting the Amtrak back up to Vancouver for the final stop of my trip. However, after spending a little time in Port Angeles I learned that there was a twice-daily bus to Seattle available for $39 one-way, and conveniently also an Enterprise office in the town. The clerk thankfully had no problem accepting the car back early and at a different location, and it actually ended up being cheaper for me as I didn't pay for the extra day of car hire and insurance. After purchasing a Greyhound ticket and returning the car, I walked the three blocks back for my final night in the Port Angeles motel.
 
 The Greyhound to Seattle left Port Angeles at 1pm, and took a little under 4 hours to get to the city centre - about the same time as it would have taken me to drive, except this way I didn't have to navigate I-5 myself. My Amtrak was booked to depart at 18:50, although true to form it was severely delayed. We eventually departed Seattle around 8pm, heading north across the border for my final stop on this trip; Vancouver, British Columbia.
+
+> This post is part 3 of 4 of a trip I took in May 2017.  
+> [Part 1]({% post_url 2017-05-14-seattle-wa %}) covers my time in Seattle.  
+> [Part 2]({% post_url 2017-05-16-portland-or %}) covers my time in Portland.  
+> [Part 4]({% post_url 2017-05-28-vancouver-bc %}) covers my time in Vancouver.

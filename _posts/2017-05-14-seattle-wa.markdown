@@ -37,3 +37,7 @@ On my final night in the city, the hostel was running another free beer night (k
     </blockquote>
 </div>
 
+> This post is part 1 of 4 of a trip I took in May 2017.  
+> [Part 2]({% post_url 2017-05-16-portland-or %}) covers my time in Portland.  
+> [Part 3]({% post_url 2017-05-21-pacific-northwest %}) covers my mini road trip through Oregon and Washington State.  
+> [Part 4]({% post_url 2017-05-28-vancouver-bc %}) covers my time in Vancouver.
