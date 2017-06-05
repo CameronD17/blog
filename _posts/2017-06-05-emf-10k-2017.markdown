@@ -1,0 +1,66 @@
+---
+layout:         post
+title:          "EMF 10k"
+date:           2017-06-05 20:15:00 +0100
+tags:           fitness running race-report
+categories:     fitness
+---
+
+As part of my motivation to complete the [Bridge to 10k]({% post_url 2017-05-12-bridge-to-10k %}) training plan, I signed up to run in the Edinburgh Marathon Festival 10km. Still jetlagged from my flight home from [Vancouver]({% post_url 2017-05-28-vancouver-bc %}) three days earlier, it probably wasn't my best idea.
+
+<!-- Read More -->
+
+## Pre-Race and Targets
+
+I had set myself a few goals for this race, although realistically as it was my first ever 'proper' race, I wasn't too bothered if I didn't hit them all (spoilers: I didn't hit them all):
+
+- Chip time under 55 minutes
+- Negative splits
+- No walking sections (run the whole course)
+- Strong finish
+
+The night before the race was spent prepping terribly. I went for a long walk with Charlie (no energy conservation), finishing at the pub (empty calories and dehydrating alcohol) with a Chinese on the way home (low-quality food). We did see Barack Obama's motorcade go past though, which was nice.
+
+I set my alarm for 6am on race day (and thankfully I wasn't hungover), and ate two bagels with butter as soon as I woke up. I showered and dressed into my race clothes, and in my excitement ended up leaving the flat about 20 minutes too early at 07:30am. There were other runners on my bus, so I followed them to the start area at Dynamic Earth. I dropped my tagged bag at the bag drop, then walked over to find my start pen. When I signed up, I gave my estimated finish time as 55 minutes, which placed me in the Yellow pen - behind the elite White and Red pens, and ahead of the Green, Orange, and Blue pens. I set up about halfway up the yellow pen, not sure of the timing range, and warmed up ready for the run to start at 9am.
+
+## 0-3km
+
+The first kilometre along the northern side of Queen's Drive was fairly congested, which helped a lot with pace-setting to be honest; I was concerned that I might fire out of the blocks too quickly and burn out, so settling into a rhythm for the first 1km was good for me. The second and third kilometres were a real challenge though. The route heads up Queen's Drive, an elevation change of about 120m over a ~1.5km stretch. Lots of particpants walked this section, but as one of my targets was to not stop running, I continued on at a slower-than-planned pace. The view east at the top of Queen's Drive was stunning though; it was about this point that the sun started to really heat up.
+
+I didn't drink enough fluids before the race, and could feel my throat drying up around the 3km marker. Lessons learned for next time though - drink more before the race. I also felt the heat quite acutely, having done most of my training in much cooler weather, so the combination of incline and temperature did not give me the best start to the race.
+
+## 4-7km
+
+After Queen's Drive peaked, I knew I was about 3 minutes behind my target pace already. I took the downhill section way faster than I normally would to try and save some time going into the long straight north of Duddingston Loch. There were crowds cheering at the 4.5km section (which is also the 8.75km point later in the race), and they helped push through towards the halfway marker. There was a car displaying the gun-time about 200m before the 5km timing pad, telling me the race had started about 29 minutes ago. As I was in the third wave, that meant about 28 minutes into the race for me; I'd need to pick it up some more for the second half to hit my time target.
+
+About half a mile after the timing car was the only water station of the course. I slowed to a walk so as not to choke myself on the water, although immediately after discarding the bottle I felt my throat still dry. I should have taken an extra five seconds to drink properly, rather than rushing to get back on with the race. The next kilometre was fairly flat, and the field had thinned at this point so there was little overtaking as we approached the Innocent Railway turn. I felt okay at this stage, although a little disappointed with my overall time.
+
+## 7-10km
+
+The section of Innocent Railway Road was my bread and butter. Narrow, concrete cycle paths with overgrown trees are predominantly where I train, so I managed to increase my position here and settle into almost my 5km pace. I was feeling confident until about the 8.5km point, when we hit another final steep hill, which I wasn't expecting. I slowed my pace and 'ran' the first half of the hill, but as I wasn't going any quicker than the walkers around me, I gave it up and power-walked to the top instead. There goes the no-stopping goal. No matter, I started running again as soon as it levelled out, heading into the final 1.5km.
+
+Having gained some energy back from walking up the hill, I pushed my pace up to my full 5km pace for the final stretch. As we approached the starting pens, I still had some fuel in the tank so I pushed it up to a sprint; too early as it turned out, as the finish line was about 100m further than I though it was. Never mind, I'll know for next time. I crossed the line with the gun-time showing 56 minutes - a little disappointed in my overall time but completely drained, I headed along the tunnel to collect my medal and finishers t-shirt. After resurfacing, I received my provisional chip-time text message informing me I had completed the course in 54:55 - five seconds under target!
+
+## Post Race Results and Reflections
+
+So, from my targets:
+
+- <i class="fa fa-check" aria-hidden="true"></i> **Chip time under 55 minutes.** Yes! Albeit only just, that sprint finish saved me here, but considering the difficulty I had and lack of hill-training preparation, I'll take it.
+- <i class="fa fa-check" aria-hidden="true"></i> **Negative splits.** Yes, I finished the first 5km in 28 minutes, 10 seconds, and the final 5km in 26 minutes 45 seconds (85 seconds quicker in the second half than the first). The hills helped a lot with this in fairness.
+- <i class="fa fa-times" aria-hidden="true"></i> **No walking sections (run the whole course).** The hill at the end of the Innocent Railway screwed me here - thankfully it didn't cost me my time.
+- <i class="fa fa-check" aria-hidden="true"></i> **Strong finish.** I'm actually disappointed at how strong I was able to finish. I should have used that energy earlier in the race to build a strong base. Never mind - it's a lesson I can learn from, and the sprint finish definitely got me to under my time target.
+
+Overall, I'm pleased with my result. While the performance was a little disappointing with the leftover energy I had towards the end, I'm happy I hit my time target, and even more happy that the course unearthed weaknesses that I can focus on (specifically incline work and overall pace-setting). I have another, much flatter, 10k lined up in five weeks time, which I'm hoping I can use to hit a sub-53 race, which is my overall 10k target for 2017.
+
+## Final Results
+
+---
+
+|Chip Time|00:54:55|
+|Gun Time|00:56:01|
+|Split 1|00:28:10|
+|Overall Finish|611 of 2894|
+|Category|Male U35|
+|Category Finish|249 of 559|
+
+---
