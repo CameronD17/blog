@@ -1,0 +1,29 @@
+---
+layout:         post
+title:          "Routine"
+date:           2017-06-21 19:30:00 +0100
+tags:           productivity
+categories:     productivity lifestyle
+---
+
+After returning from [Vancouver]({% post_url 2017-05-28-vancouver-bc %}) last month, I struggled, like most people do, with severe jetlag. I've returned to normal now, but I hadn't really appreciated my schedule until I couldn't get back into it.
+
+<!-- Read More -->
+
+Flying east to west is apparently much easier to adapt to than west to east ("west is best, east is beast"), and I have to say I agree with that. Arriving in [Seattle]({% post_url 2017-05-14-seattle-wa %}), even after twenty-four hours of travelling, I didn't feel like it was hard to settle into a localised sleeping pattern pretty much immediately; however, after I arrived back in Scotland, I couldn't get my sleeping pattern sorted for days. I've read that it takes one day to return to normal for every hour of time difference you're adjusting to. As I was eight hours behind the UK, it should have taken me eight days to return to normal - that sounds like a long time, but in all honesty, it's probably pretty accurate.
+
+## Routine
+
+Through the week, I typically get up at 6am, shower and get ready for work, and then take Charlie to the park. He knows by now to head straight for the skate park, where he can chase his tennis ball up and down until he's absolutely shattered. We usually get back to the flat about 07:15, and I catch the bus to work for about 8am. My new role is flextime, and I'm usually back home take Charlie out about 17:15, if I don't go to the pub after work or run home. Midweek bedtime is about 22:30. I may still be relatively young, but I can't sit and churn out decent work if I haven't had my seven hours sleep, and that comes much easier with a regular sleeping pattern.
+
+Throughout the week, Tuesdays are my long runs, assuming I don't play 5-a-side, and I usually run them from work to home. Thursdays are reserved for date nights with Sasha. Friday afternoons I spend in the pub with guys from work. Saturday mornings are reserved for parkrun. Aside from allowing me the freedom to not keep rechecking or shuffling around my schedule, having a semi-rigid routine like this is good for Charlie too. Dogs are creatures of habit, and it's a lot less stressful for him if he knows how his day or week is going than if he is constantly being surprised with changes.
+
+## Externalities
+
+Despite my love of [coffee][coffee-blog-posts], the caffeine can seriously throw my sleeping pattern off if I have too much late in the day, so for the past year or so I've stopped drinking coffee after about 3-4pm in the afternoon if I need to be up for a specific time the next morning. Alcohol seems to have less of an impact on my sleep, although as I don't typically get hammered on a work night I haven't thoroughly tested that hypothesis. Maybe that experiment can wait until my probation period is up.
+
+As I touched on earlier, travelling tends to have a major impact on my routine too. Not just long-distance travelling either; going back to Blyth for a weekend with Charlie invariably ends up in me spending a good part of the following week catching up on sleep. I don't have a problem with this, or I wouldn't do it so much, but it's definitely noticeable, particularly after a long stint in Edinburgh when I'm fully settled into my daily and weekly habits.
+
+I suppose my patterns are a good contrast to my travels; I've got a good balance going between the random and the routine just now. No doubt life will change again in the next year or so, but I'm at least happily settled in my schedule for the time being.
+
+[coffee-blog-posts]: http://blog.camerondoyle.co.uk/#coffee
