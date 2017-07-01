@@ -3,7 +3,7 @@ layout:         post
 title:          "EMF 10k"
 date:           2017-06-05 20:15:00 +0100
 tags:           fitness running race-report
-categories:     fitness
+categories:     fitness events
 ---
 
 As part of my motivation to complete the [Bridge to 10k]({% post_url 2017-05-12-bridge-to-10k %}) training plan, I signed up to run in the Edinburgh Marathon Festival 10km. Still jetlagged from my flight home from [Vancouver]({% post_url 2017-05-28-vancouver-bc %}) three days earlier, it probably wasn't my best idea.
