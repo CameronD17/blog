@@ -104,3 +104,6 @@ We knew we'd qualified with the win, although we were relying on the other game 
 ---
 
 Despite their disappointment from the results, Caledonia seemed in high spirits as we headed out to the pub after the group stages. One positive from the teams being in different competitions was that we could watch each other play; being in the same group meant that our games were played simultaneously, so we couldn't cheer each other on. The Sunday games were to be played alternately, so we would both have supporters for our games - and we would need it, having drawn our old friends in the quarter finals, Group C winners Munich. 
+
+> This post is part 1 of 2 of a trip I took in June 2017.  
+> [Part 2]({ post_url 2017-07-03-cgi-euros-2017-knock-outs %}) covers the Sunday knock-out tournament.
