@@ -119,7 +119,7 @@ custom_js:
                             {% assign tags = tags | split:' ' | sort %}
                             <p>
                             {% for tag in tags %}
-                                {% assign relativefontsize = site.tags[tag].size | times: 10 | plus: 50 %}
+                                {% assign relativefontsize = site.tags[tag].size | times: 6 | plus: 50 %}
                                 <a class="tag tag-unselected" id="{{ tag }}" style="font-size: {{ relativefontsize }}% !important; vertical-align: middle">{{ tag | replace:'-',' ' }} </a>
                             {% endfor %}
                             </p>
