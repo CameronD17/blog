@@ -1,0 +1,60 @@
+---
+layout:         post
+title:          "Great North 10k"
+date:           2017-07-16 12:30:00 +0200
+tags:           fitness running race-report
+categories:     fitness events
+---
+
+After my first proper race six weeks ago at the [EMF 10k]({% post_url 2017-06-05-emf-10k-2017 %}), I signed up for a second 10k back in the North-East. The Great North 10k is supposed to be a warm-up race for those competing in the Great North Run half-marathon in the autumn, but I entered just looking to improve on my results in Edinburgh.
+ 
+<!-- Read More -->
+ 
+## Pre-Race Preparation and Targets
+ 
+My targets for this race ended up being similar to my EMF 10k targets, only with a quicker finishing time. With just 12 weeks to go until my own half-marathon (Scottish Half Marathon in Edinburgh at the end of September), I chose a target time that correlated with my goals for the half marathon.
+ 
+- Chip time under 52:30
+- Negative splits
+- No walking sections (run the whole course)
+- Strong finish
+- *(stretch)* Chip time under 50:00
+ 
+My preparation for this race was somewhat better than my previous run; I didn't drink as much the night before, made sure I got plenty of sleep and ate a decent carb-filled meal at 9pm before a relatively early night. The morning of the race, I woke at 7am, and I ate two bagels pretty much immediately as that seems to work well for me. I also drank a litre of water on my way to the race, after becoming overly dehydrated last time early on in the race. 
+
+We made our way down to Gateshead for 09:30 when the event opened, and in plenty of time to get oriented and ready for the group warm-up at 09:48. My estimated time of 52:30 put me in the second wave of runners (the white wave), setting off at 10:08. The first (orange) wave of elite runners set off before my wave at 10am, with the green wave following mine at 10:16, and then finally the pink wave at 10:24. There were also 500 Gurkhas in attendance as part of their British Army training - they started two minutes before each wave based on their estimated times.
+ 
+## 0-3km
+
+The race started with a narrow funnel just before the start line, which helped a lot as it eased congestion, meaning I was able to hit my pace sooner than I did in Edinburgh in my last race. The first couple of kilometres were fairly uneventful, running slightly downhill through an industrial estate, trying to find my place in the pack. I managed to bank a few seconds per kilometre early on as I was settling into my pace, running at about 4:50 minutes/km for the first quarter of the race. At around the 2km mark, the course turned left towards the iconic Newcastle/Gateshead cityscape along the Tyne, which helped to kick on through the cheering crowds near the Millenium Bridge. I was feeling good during this section of the race, although I was a little concerned that I was going slightly too fast, and risking burning out later on. The sun started to really heat up around the 3km mark too, which didn't help.
+ 
+## 3-7km
+ 
+The course is essentially an out-and-back run, so the 3rd and 4th kilometres are the same as the 5th and 6th kilometres, just in opposite directions of the same road. This section of the course had some slight rolling hills, but nothing too taxing. There was a water station just beyond the 4km mark under the King Edward VII railbridge, which helped before the turnaround marker slightly before the 5km halfway point. At the turnaround, I'd been running for about 24 minutes, and still felt pretty solid although the pace was quicker than I should have been by about 45 seconds. Despite the narrow roads, there was plenty space between runners at this point, and I settled into a pace of about 5:05 minutes per kilometre as I ran back past the runners from the later waves going the opposite direction.
+ 
+## 7-10km
+ 
+The 7th kilometre followed on similar to the previous few, although my pace started to drop to about 5:10 minutes per kilometre. Just before the 8km marker, the fire department had set up a truck and were spraying runners with the firehose - this helped a lot, as I was starting to overheat a little, and after running through the water jets and cooling off, I picked my pace up back to around 5:00 minutes/km. My watched ticked over to 40 minutes as I was passing the 8km marker - I knew I'd need to keep up this pace for the rest of the race if I was to reach my stretch goal of sub-50 minutes.
+
+The penultimate kilometre I started running at slightly under pace, probably about 5:05 minutes/km, conserving slightly for a strong finish. What I hadn't counted on though, was the steady incline from about 8.5km to 9.2km - the aptly named 'Slog on the Tyne'. This slowed me down a lot more than I had hoped, and by the time I reached the peak (about 800m from the finish line), I was way behind target, about 47 minutes into the race. I pushed on, but the hill had taken a lot out of me, and I struggled to get up to much faster than a 5:00 minutes/km pace. As I entered Gateshead International Stadium for the final 200 metres, my watch read 49:40 - I moved it up a gear for a strong finish, but I knew it wouldn't be enough to get me a sub-50 minute time, and I crossed the line at 50:26, annoyingly just short of my target. 
+ 
+## Post-Race Results and Reflections
+
+From my targets:
+
+- <i class="fa fa-check" aria-hidden="true"></i> **Chip time under 52:30** Yes, 50:26 - a lot quicker than I really expected when I first wrote down these goals.
+- <i class="fa fa-times" aria-hidden="true"></i> **Negative splits.** No; although I don't have actual timings, because of the inclines on the return, I definitely didn't do negative splits (I think I passed the 5km mark at about 24:30, so about 90 seconds faster than my second half).
+- <i class="fa fa-check" aria-hidden="true"></i> **No walking sections (run the whole course).** I almost gave up during the 'Slog on the Tyne' section in the final stages, but I managed to force myself to keep going.
+- <i class="fa fa-minus" aria-hidden="true"></i> **Strong finish.** I don't know about this - with the long hill, I ran a slow final kilometre, but I did kick up the pace for the last 200m, so it's a bit of both.
+- <i class="fa fa-times" aria-hidden="true"></i> **Chip time under 50 minutes** I came closer than I probably expected to reaching this, and if it had been a flat final kilometre I think I could have just about got there, so I'm trying not to be too disappointed here.
+
+After the race, I was actually quite disappointed not to have been able to shave off those 27 seconds for a sub-50 time. However on reflection, I'm actually really happy with the progress I've made since the EMF 10k, and I feel a lot more confident about my half marathon in a couple of months time. I'm currently in Switzerland for a month, and I've picked out a few courses to run, so as long as I don't let my training slip I should be ready in time.
+
+## Final Results
+
+---
+
+|Chip Time|00:50:26|
+|Overall Finish|834 of 4079|
+
+---
