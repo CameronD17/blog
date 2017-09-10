@@ -2,7 +2,7 @@
 layout:         post
 title:          "Zurich"
 date:           2017-08-21 21:00:00 +0100
-tags:           travel photogaphy
+tags:           travel photography
 categories:     travel
 custom_js:      instagram
 ---
