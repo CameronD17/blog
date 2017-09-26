@@ -67,3 +67,5 @@ From my targets:
 Despite having to hobble over to collect my medal and t-shirt, I was much happier at the end of this race than I had been at either of my previous races. I knew I'd failed with my negative splits, but I had honestly not expected to be able to do better than about 01:53:00-01:54:00, so a whole minute under my stretch target was better than I had hoped for, even as I'd lined up in my corral at the beginning of the race.
 
 After three months off, I've managed to get myself signed up for three races on consecutive weekends, so this week will be a recovery week, maybe a short run with Charlie before the 10k out in Glasgow on Sunday. I'd initially set myself fairly conservative targets for that race, but after the half marathon, I think I'll be pushing myself.
+
+[Strava](https://www.strava.com/activities/1199202294)
