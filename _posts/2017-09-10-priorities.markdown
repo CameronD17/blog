@@ -2,7 +2,7 @@
 layout:         post
 title:          "Priorities"
 date:           2017-09-10 20:30:00 +0100
-tags:           personal blog introspection writing meta
+tags:           blog introspection writing meta
 categories:     personal blog
 ---
 

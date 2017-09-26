@@ -12,7 +12,7 @@ After my first proper race six weeks ago at the [EMF 10k]({% post_url 2017-06-05
  
 ## Pre-Race Preparation and Targets
  
-My targets for this race ended up being similar to my EMF 10k targets, only with a quicker finishing time. With just 12 weeks to go until my own half-marathon (Scottish Half Marathon in Edinburgh at the end of September), I chose a target time that correlated with my goals for the half marathon.
+My targets for this race ended up being similar to my EMF 10k targets, only with a quicker finishing time. With just 12 weeks to go until my own half-marathon ([Scottish Half Marathon]({% post_url 2017-09-26-scottish-half-marathon-2017 %}) in Edinburgh at the end of September), I chose a target time that correlated with my goals for the half marathon.
  
 - Chip time under 52:30
 - Negative splits
