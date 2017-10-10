@@ -1,0 +1,60 @@
+---
+layout:         post
+title:          "Great Scottish 10k"
+date:           2017-10-10 22:30:00 +0100
+tags:           fitness running race-report
+categories:     fitness events
+---
+
+With just six days rest after the [Scottish Half Marathon]({% post_url 2017-09-26-scottish-half-marathon-2017%}), I laced up my running shoes again and headed through to Glasgow for the Great Scottish 10k, the little brother of the Great Scottish Run half marathon taking place the same day.
+
+<!-- Read More -->
+
+## Pre-Race Preparation and Targets
+
+After a slightly disappointing 10k result in July at the [Great North 10k]({% post_url 2017-07-16-great-north-10k-2017 %}), my main goal here was just to get a 4X:XX time in the bag for a 10k PB. On a perfect day I would have been really aiming for a sub-46 time, but as I raced the [half marathon]({% post_url 2017-09-26-scottish-half-marathon-2017 %}) a week prior and was suffering from man-flu the morning of the race, I wasn't going to worry too much about my time as long as it was under 50 minutes. That said, I really did want to take three minutes off my time, so as a stretch goal I decided to push for 47:30 or under (4:45 min/km  average pace).
+
+- Chip time under 50:00
+- Strong finish
+- Negative splits
+- *(stretch)* Chip time under 47:30
+
+I actually didn't really prepare particularly well for this race. Obviously the half marathon the week before was more important to me, so I didn't have any specific training planned before this race. Even the morning of the run, I left things too late and had to rush out the door with my breakfast in hand to make sure I didn't miss the only train from Edinburgh that would get me to the start line on time (poor showing from Scotrail too, not even putting on extra carriages never mind extra trains). I arrived into a rainy Glasgow feeling relatively fresh, although that soon changed to chilled-to-the-bone as I lined up in my start pen ready to run.
+
+## 0-3km
+
+The race started in George Square in the heart of Glasgow facing west, with the imposing hill of St. Vincent Street making the first kilometre start way below my target pace (04:58). I made up some time on the way back down, before the course veered south at Argyle Street at the end of the second kilometre (04:31). Pretty much dead-on for my target time despite the hill, I felt fairly strong going into the third kilometre, although my breathing was heavier than I would have liked. I really need to work on hills more.
+
+The third kilometre was spent trying to maintain a reasonable pace as the course undulated onto the Clydesdale Expressway and up the slip-road to the M8 towards the Kingston Bridge, the first of four Clyde crossings on the route. I was slightly under pace here at 04:50, but as I was hoping for negative splits, that wasn't too concerning. The cars heading past on the split section of road were using their horns a lot - whether in support or annoyance, it was hard to tell.
+
+## 3-7km
+
+The fourth kilometre was almost entirely taken up crossing the bridge, still feeling good with my pace (04:41) considering I wasn't at 100% capacity coming into the run. The fifth kilometre towards the halfway mark was through a somewhat uninspiring section of Glasgow, under the M74 and M8 motorway bridges - the course flattened out here though, which helped me keep on target pace (04:47). As I crossed the halfway mark, I was looking good to finish at just about at my target time of 47:30, although I would need to shave a few seconds off in the second half. The sixth kilometre also wound through a fairly bland part of the city, and was relatively uneventful, just keeping my pace going with an 04:43 kilometre. 
+
+The seventh kilometre included the surprisingly quiet water station. I decided not to stop for water as I was too close to my target time without really any seconds in the bank. I took a bottle, and had a couple of swigs as I ran, but the rest went into my pocket for the finish line - it wasn't too far away. Not stopping to drink kept my pace close to on target (04:54), and the course looped back towards the Clyde Arc bridge, leading into the final three kilometres.
+
+## 7-10km
+
+As the course crossed the Clyde Arc, the crowds started to pick up by the sides of the road. I was starting to struggle a little to keep my pace, so the support definitely helped me along. The eighth kilometre ran along the quayside, and back under the Kingston Bridge, where the later waves were crossing the river for the first time. I knew this was the final straight, with just the little detour over the final bridges, so I pushed on, aiming to hold my pace (04:47) until the last kilometre where I would try to push myself over the line. The penultimate kilometre included two final river crossings, the George V bridge and the Glasgow bridge in quick succession, each with a big double decker bus filled with charity supporters on the north side. I managed to crank out an 04:49 kilometre, and kicked on towards the finish line in Glasgow Green.
+
+The last kilometre followed the quayside for the first 600m, and as it entered Glasgow Green the crowds started to swell. I had a little energy left, so I increased my pace through the final stretch around the Commonwealth Games Big G and over the finish line with an 04:28 final kilometre.
+
+## Post-Race Results and Reflections
+
+I crossed the line and looked at my watch - 47:43. So close to my target! On a perfectly flat course I know I'd have been able to get there too, never mind. My official time was actually slightly closer to my stretch target, at 47:39. Thinking back through the course though, I don't know where I would have made those ten seconds up. Never mind - I need a target for my next race.
+
+From my targets:
+
+- <i class="fa fa-check" aria-hidden="true"></i> **Chip time under 50:00.** Yes, and I'm pleased to get that out of the way after just missing out in the Great North 10k.
+- <i class="fa fa-check" aria-hidden="true"></i> **Strong finish.** Yes, I crossed the line strong and the final kilometre was at a decent pace.
+- <i class="fa fa-check" aria-hidden="true"></i> **Negative splits.** Yes, although by just six seconds! Good strong finish helped me here.
+- <i class="fa fa-times" aria-hidden="true"></i> **Chip time under 47:30** No. So disappointed not to get this - I think the hill at the start took too much out of my to push on later in the race. So close though, and a target for next time.
+
+## Final Results
+
+---
+
+|Chip Time|00:47:39|
+|Overall Finish|898 of 8286|
+
+---
