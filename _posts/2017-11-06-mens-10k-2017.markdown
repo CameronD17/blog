@@ -1,0 +1,67 @@
+---
+layout:         post
+title:          "Men's 10k"
+date:           2017-11-06 22:00:00 +0100
+tags:           fitness running race-report
+categories:     fitness events
+---
+
+I had a short break after running three races on three consecutive weekends in September / October, and after starting to get a bit of routine back to my training, I ran my final race of the calendar year this past weekend. A home race for me, the Men's 10k finish line is just a 10 minute walk from my flat here in Edinburgh, so I had no excuse to miss it.
+
+<!-- Read More -->
+
+## Pre-Race Preparation and Targets
+
+Having just missed out on my stretch goal in the [Great Scottish 10k]({% post_url 2017-10-10-great-scottish-10k-2017 %}) last month, I was eager to set a new PB over 10k before the winter break. The course looked like it would be nice and scenic, and as I know most of the route I knew there wouldn't be too many cruel hills - unlike the other three 10k races I've ran this year.
+
+- Chip time under 47:30
+- Strong finish
+- Negative splits
+- *(stretch)* Chip time under 46:30
+
+A friend of mine came up to Edinburgh to run the race with me, so the night before we spent in the pub having a few pints, before a massive meaty pizza on the way back. Perfect pre-race preparation! I had my usual sausage/egg/tattie scone bagel about 90 minutes before the gun, slightly later than I would usually eat, but I was late in getting out of bed. Good thing the start line wasn't too far away.
+
+## 0-3km
+
+The race started on the Royal Mile, slightly east of Castlehill. The start pens were laid out in a slightly odd way, with the yellow pen having to double back around after the elite pen and red pen had set off, but with limited space it seemed to work out fairly well. The start was quite congested, turning north immediately onto Bank Street past the court, which was a shame as I was hoping to get a lot of seconds banked in the downhill opening kilometre through the eastern Princes Street gardens. I managed a fairly respectable 04:13, although I'm sure with the elevation drop I could have logged a sub-4 minute without the crowds. Never mind, I had still managed to save a few seconds as the second kilometre started on Market Street, heading west out of the city centre along Jeffrey Street.
+
+I actually expected more of an incline up along Jeffrey Street, but it ended up being quite straightforward as I tried to fine my place in the pack of runners along Canongate towards the Scottish Parliament buildings. Slightly slower at 04:27, I was still well on target as I reached the 2km marker where the course veered left along Abbeyhill. One of the less-scenic kilometres, I cranked out a solid 04:24 - feeling strong as I joined Royal Park Terrace just before the turnaround back west.
+
+## 3-7km
+
+The 4th kilometre took in the beautiful views of Holyrood Park along Queen's Drive - unfortunately this was quite a slog to get through as a fairly strong easterly wind picked up. I still managed to get through it in 04:42, but I was a little disappointed to have lost some pace this early in the run. The next two kilometres were slightly uphill too, and I ended up pushing a little too hard against the wind. The 5th kilometre was even slower in 04:52, winding around Dynamic Earth up onto Holyrood Road towards Cowgate.
+
+I picked up a little as I hit the halfway mark, with my time of 22:38 - barely slower than my usual 5k time. As I was doing fairly well for my targets, I allowed myself a quick few seconds walk at the aid station in the sixth kilometre halfway along the Grassmarket. I still managed an 04:59 kilometre despite this, so not too far off my targets, although I knew I would need a solid final 4k to reach them.
+
+## 7-10km
+
+The seventh kilometre included the incline along West Port that actually ended up being less painful than I expected. The course then looped around onto Lothian Road and then west on the West Approach Road - a road I knew well, as I commute along it every day. I finished this kilometre in 04:42, but as the remainder of the course was flat or downhill, I pushed on for a strong final 3k.
+
+The eighth and ninth kilometres were along a fairly bland route of Edinburgh, particularly considering the sights earlier in the race (Royal Mile, Parliament, Holyrood Park, Grassmarket), but they were nice and flat, so fairly easy to keep up my pace. I managed an 04:39 and an 04:27 - I could see the 45 minute pacer off ahead, so I knew that with a solid final kilometre I should be able to hit all of my goals!
+
+The last kilometre took in the downhill stretch of the West Approach Road, and turned right towards the finish line in Murrayfield. I pushed myself harder as I entered the grounds of the stadium; slightly too early as it turned out, as the course dog-legged around various stalls within the grounds! I held on for a strong finish though, crossing the line with a final kilometre time of 04:11 - my quickest of the race!
+
+
+## Post-Race Results and Reflections
+
+I crossed the line and looked at my watch - 45:35! A much better time than I expected to get, and with slightly better conditions (damn wind!) I could have probably even hit sub-45. I felt good as I crossed the line actually, probably too good; I had fuel in the tank that I should have spent on the course! My official time came through as slightly quicker, at 45:32, which I was definitely pleased with, and it's an obvious next challenge to tick off the list.
+
+From my targets:
+
+- <i class="fa fa-check" aria-hidden="true"></i> **Chip time under 47:30.** Smashed it.
+- <i class="fa fa-check" aria-hidden="true"></i> **Strong finish.** Yes, my final kilometre was the fastest of the run.
+- <i class="fa fa-times" aria-hidden="true"></i> **Negative splits.** No - my first half (22:38) was 16 seconds quicker than my second half (22:54), probably due to that downhill start, and the aid station coming a little after halfway.
+- <i class="fa fa-check" aria-hidden="true"></i> **Chip time under 46:30** Yes, and by quite a margin. Definitely happy with that!
+
+I've already signed up for the race in November 2018, and I definitely want to improve my time. It's a great course, and one that I can definitely see as an annual event. Obviously I have a whole year to see how my training goes, but I've decided I want to do sub-40 minutes next year. I'm still a ways off sub-20 5k just now, so maybe I'm being unrealistic, but as this year's race went so well, I'm feeling optimistic.
+
+## Final Results
+
+---
+
+|Chip Time|00:45:32|
+|Overall Finish|450 of 1592|
+
+---
+
+[Strava](https://www.strava.com/activities/1261978375)
