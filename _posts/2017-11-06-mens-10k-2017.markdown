@@ -3,7 +3,7 @@ layout:         post
 title:          "Men's 10k"
 date:           2017-11-06 22:00:00 +0100
 tags:           fitness running race-report
-categories:     fitness events
+categories:     running events
 ---
 
 I had a short break after running three races on three consecutive weekends in September / October, and after starting to get a bit of routine back to my training, I ran my final race of the calendar year this past weekend. A home race for me, the Men's 10k finish line is just a 10 minute walk from my flat here in Edinburgh, so I had no excuse to miss it.

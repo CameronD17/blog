@@ -2,8 +2,8 @@
 layout:         post
 title:          "Couch to 5k"
 date:           2017-03-05 21:30:00 +0000
-tags:           fitness running
-categories:     fitness
+tags:           fitness running routine review
+categories:     running
 ---
 
 When I first started this blog, back in November 2015, I was running fairly consistently about 20km a week. In fact the first couple of draft posts I started (and never posted) for the blog were centred around running, including my original [2016 New Years resolutions]({% post_url 2016-01-03-prognostications %}).

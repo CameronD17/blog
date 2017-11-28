@@ -2,8 +2,8 @@
 layout:         post
 title:          "Bridge to 10k"
 date:           2017-05-12 12:00:00 -0700
-tags:           fitness running
-categories:     fitness
+tags:           fitness running routine
+categories:     running
 ---
 
 Following on from a reasonably successful completion of the [Couch to 5k]({% post_url 2017-03-05-couch-to-5k %}) plan in March, I decided to continue building up my running distance, with the aim of running a 10km race at the end of May.

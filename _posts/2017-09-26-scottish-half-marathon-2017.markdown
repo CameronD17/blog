@@ -3,7 +3,7 @@ layout:         post
 title:          "Scottish Half Marathon"
 date:           2017-09-26 20:30:00 +0100
 tags:           fitness running race-report
-categories:     fitness events
+categories:     running events
 ---
 
 Back in July, I wrote about the latest race I'd entered, the [Great North 10k]({% post_url 2017-07-16-great-north-10k-2017 %}) back in the North East. In the intervening three months, I've been training for the logical next step up from a 10k - the half marathon.

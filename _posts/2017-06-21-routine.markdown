@@ -2,8 +2,8 @@
 layout:         post
 title:          "Routine"
 date:           2017-06-21 19:30:00 +0100
-tags:           productivity
-categories:     productivity lifestyle
+tags:           productivity lifestyle
+categories:     productivity
 ---
 
 After returning from [Vancouver]({% post_url 2017-05-28-vancouver-bc %}) last month, I struggled, like most people do, with severe jetlag. I've returned to normal now, but I hadn't really appreciated my schedule until I couldn't get back into it.

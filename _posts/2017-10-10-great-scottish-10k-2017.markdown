@@ -3,7 +3,7 @@ layout:         post
 title:          "Great Scottish 10k"
 date:           2017-10-10 22:30:00 +0100
 tags:           fitness running race-report
-categories:     fitness events
+categories:     running events
 ---
 
 With just six days rest after the [Scottish Half Marathon]({% post_url 2017-09-26-scottish-half-marathon-2017%}), I laced up my running shoes again and headed through to Glasgow for the Great Scottish 10k, the little brother of the Great Scottish Run half marathon taking place the same day.

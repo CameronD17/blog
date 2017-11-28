@@ -3,7 +3,7 @@ layout:         post
 title:          "Fitbit Charge 2"
 date:           2017-02-12 09:30:00 +0000
 tags:           fitness technology running review
-categories:     fitness
+categories:     review
 ---
 
 Late last year I'd been looking into getting myself a fitness tracker, mainly because I like data, but also as motivation to get myself back into fitness after a long time of [not doing very much at all]({% post_url 2017-01-01-refresh %}). So for Christmas, Sasha bought me a [Fitbit Charge 2][fitbit-charge-2-link], and I'm only just now getting around to reviewing it properly.
