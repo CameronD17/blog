@@ -1,0 +1,20 @@
+---
+layout:         post
+title:          "Limits"
+date:           2019-06-06 11:00:00 +0000
+tags:           introspection productivity routine 
+categories:     goals productivity
+---
+My first blog post in over half a year. Not the longest gap between posts, but I definitely feel like I'm moving further and further away from writing regularly, and I think this is because I've found my limit of plates I can spin at once.
+
+<!-- Read More -->
+
+I opened git bash this morning, and I couldn't even remember the command to run this blog locally. Two years ago, I was writing draft posts pretty much weekly, and this year, I didn't even think about writing my annual New Years goals. I recognise that a big part of this is the nature of my work (which I talked about a bit in my [Priorities post]({% post_url 2017-09-10-priorities %}) a while back), which takes up a lot more of my 'daily thinking' than my previous job, but it is also that other things now take up my daily- and weekly-routine. 
+
+And what 'things' are these? Running is still the main one I think; at least, it is the activity that takes up most of my time. I also started to learn German a year ago, so that's a daily lesson plus a once-a-week night class. Dungeons and Dragons is a full two nights a week now that I have a second group, and as I'm DM for one of them there's also a lot of preparation I need to do. Charlie actually takes up less time than he used to now that he is a fully-grown adult dog and not a whiny teenager, although since he has a [little sister](https://www.instagram.com/sid_wags/) now it's about a wash in terms of using up my time.
+
+So, what could I have written about that I haven't? I had to break my [running streak]({% post_url 2018-12-03-streak %}) earlier this year on the advice of my doctor as I'd developed sepsis. Oh aye, that's a good example. I didn't even think about writing about it. I've babbled about some mindless, inane topics on this blog, but neglected to mention the 'could-have-died' part (don't worry, a course of antibiotics cleared it up). I also still haven't written about Canicross, despite Charlie and I running 11 races together this year (and one short-course with Sid). I've run two marathons and three half-marathons since my last race report in 2017, and not a single post about them. Since my [last travel post]({% post_url 2017-08-21-zurich %}), also in 2017, I've visited Vienna twice, Gothenburg, Los Angeles, and at least three new UK cities that I'd never been to. And again, no posts. I've moved house, built a whole new side of my life, without so much as a word to mark it. 
+
+This sounds a lot like a lament, and in a way I think it is. Danny and I were talking recently (oh yeah, [Danny](https://www.helloscience.net/), my partner of 18 months with whom I now live, and this is her first mention in my blog) about our combined lack of a social media presence, dog-instagrams excepted. This is semi-deliberate on my part, as I don't feel the need (and I don't want to feel the need) to seek validation via social media channels, but also because this blog was supposed to be my outlet, the controlled window into what I was up to. But now that I don't keep it updated, I feel somewhat lacking. I like reading old posts, both on here and on social media (I guess it is my generation's digging-through-photo-albums), but if I'm not creating them, then there's nothing to look back on.
+
+So, in the absence of my New Year goals, I am setting myself one target, which is to write one new post per month. I may not post it, but I want to have one new entry either here, or in my drafts folder each month. It's not that I have nothing to write about, I've just reached the limit of 'routine activities' that I can maintain without half-arsing them. But, I want to at least try to see if I can squeeze in one more.
