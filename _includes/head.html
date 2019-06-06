@@ -3,7 +3,7 @@
         if ((window.location.hostname == "camerondoyle.co.uk" || window.location.hostname == "www.camerondoyle.co.uk") && window.location.pathname.indexOf("/blog") == 0) {
             var pathname = window.location.pathname.split('/'); var newPathname = "";
             for (i = 2; i < pathname.length; i++) {newPathname += "/"; newPathname += pathname[i];}            
-            window.location.replace("http://blog.camerondoyle.co.uk"+newPathname);
+            window.location.replace("https://blog.camerondoyle.co.uk"+newPathname);
         }
     </script>
     <meta charset="UTF-8">
@@ -17,8 +17,8 @@
     <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}"/>
     
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Noto+Sans" type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/stylesheets/external/bootstrap.min.css' | prepend: site.baseurl }}" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/stylesheets/external/bootstrap-theme.min.css' | prepend: site.baseurl }}" type="text/css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css">
