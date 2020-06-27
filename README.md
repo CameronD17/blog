@@ -1,4 +1,4 @@
-# [blog.camerondoyle.co.uk] (http://blog.camerondoyle.co.uk)
+# [blog.camerondoyle.co.uk](http://blog.camerondoyle.co.uk)
 
 blog.camerondoyle.co.uk is my personal blog, updated sporadically whenever I remember, although I do try to post at least twice a month. It started life as an offshoot of my [main site](http://camerondoyle.co.uk) although it has been redesigned since then. 
 
