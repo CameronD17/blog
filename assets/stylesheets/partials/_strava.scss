@@ -1,11 +1,12 @@
+.strava-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .strava {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin: 1px 1px 20px 1px;
-    margin-left: auto;
-    margin-right: auto;
     height: 405px;
     width: 590px;
-    max-width: 100%;
+    max-width:calc(100% - 2px);
 }

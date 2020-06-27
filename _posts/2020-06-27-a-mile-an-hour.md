@@ -14,7 +14,9 @@ I've been running fairly consistently for a few years, and I've fortunately been
 
 The rationale for doing this last weekend was to coincide with the summer solstice, meaning I would have the most daylight to do my running. Originally, I had planned to run a parkrun as my first three miles, and then a mile every hour after that, but since parkrun is cancelled too just now, I figured I'd just head out at the top of the hour after I woke up, which happened to be about 0630 (I usually wake up around this time naturally anyway, especially in summer when the mornings are light). I mapped out a route around the neighbourhood of slightly over a mile (to allow for GPS inconsistencies), and headed out with Charlie at 7am to do the first three laps.
 
-<iframe class="strava" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3641295841/embed/e52a7436d1fd5b767e8e2f614ec2f7b62c949c1f'></iframe>
+<div class="strava-container">
+  <iframe class="strava" frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3641295841/embed/e52a7436d1fd5b767e8e2f614ec2f7b62c949c1f'></iframe>
+</div>
 
 I assumed before I started that I would probably start to slow down after 10 miles or so, and that the final six miles through the night to the finish would probably involve a little walking. But I wasn't really looking to set any records here; I decided from the very start to have no time goals for this, and to run entirely to feel. The day started out quite warm, and the first three laps with Charlie went by fairly quickly. The route isn't particularly hilly, but it's not pancake-flat either, and I knew I'd start to feel those miles as the day progressed.
 
